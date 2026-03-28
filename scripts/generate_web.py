@@ -191,6 +191,21 @@ def build_html(js_data_json: str, transcript_html: str = "") -> str:
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Letters Home — The Hanifen Family Collection</title>
+<meta name="description" content="A digital archive of 88 handwritten letters from the Hanifen brothers spanning 1941–1976. Read, search, and listen to the wartime correspondence of Bob, Jim, and John Hanifen.">
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Letters Home — The Hanifen Family Collection">
+<meta property="og:description" content="88 handwritten letters spanning 1941–1976. The wartime correspondence of the Hanifen brothers — Bob, Jim, and John — from Des Moines to the front lines and back.">
+<meta property="og:image" content="https://letters-home.hanifen-family-collection.com/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://letters-home.hanifen-family-collection.com/">
+<meta property="og:site_name" content="Letters Home">
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Letters Home — The Hanifen Family Collection">
+<meta name="twitter:description" content="88 handwritten letters spanning 1941–1976. The wartime correspondence of the Hanifen brothers from Des Moines.">
+<meta name="twitter:image" content="https://letters-home.hanifen-family-collection.com/og-image.jpg">
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
 <link rel="icon" type="image/png" href="favicon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
