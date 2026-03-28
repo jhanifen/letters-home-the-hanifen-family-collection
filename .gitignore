@@ -12,11 +12,11 @@ __pycache__/
 # Legacy/archive
 old/
 
-# Large binary files (scans, audio, PDF)
-# These are too large for GitHub. See README for details.
-BobScans/
+# Large generated files (audio, PDF)
 site/audio/
 site/Letters_Home_Hanifen.pdf
+
+# Symlinks (resolved via BobScans/ in repo)
 site/BobScans
 site/photos
 

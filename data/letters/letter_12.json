@@ -32,12 +32,12 @@
   "pages": [
     {
       "page_label": "cover",
-      "source_file": "letter12.png",
+      "source_file": "letter12.jpg",
       "transcription": "[Cover of Christmas card]\n\nA MERRY CHRISTMAS\nFrom One in the SERVICE\n\n[Decorative elements: silver bell, holly with red berries, red and white ribbon with blue stripes, blue stars scattered throughout]"
     },
     {
       "page_label": "page2 (interior)",
-      "source_file": "letter12_page2.png",
+      "source_file": "letter12_page2.jpg",
       "transcription": "[Left panel: Illustration of a torch with red flame, wrapped with red, white, and blue ribbons and holly with red berries, set within a decorative shield frame]\n\n[Right panel:]\n\nSome joys must be\n     postponed until\nWe meet again\n   'neath freedom's light,\nBut we'll keep Christmas\n     merry still\nAs long as friendly thoughts\n     unite!\n\nPvt. Robert Hanifen"
     }
   ],

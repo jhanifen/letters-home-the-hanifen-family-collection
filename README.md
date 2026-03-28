@@ -48,8 +48,8 @@ This project was built almost entirely with AI assistance using [Claude Code](ht
 │   ├── Letters_Home_Hanifen.html  # Print-formatted HTML
 │   ├── Letters_Home_Hanifen.pdf   # (gitignored, ~1GB)
 │   └── audio/                     # (gitignored, ~41MB)
-├── BobScans/                 # (gitignored, ~2.4GB) Original scanned images
-│   ├── letter*.png/jpg       # ~200 letter page scans
+├── BobScans/                 # Original scanned images (Git LFS, ~325MB)
+│   ├── letter*.jpg            # ~300 letter page scans
 │   └── photos/               # ~100 family photographs
 ├── requirements.txt
 └── .env                      # (gitignored) API keys
@@ -104,15 +104,16 @@ python scripts/generate_audiobook_11labs.py
 - **[WeasyPrint](https://weasyprint.org/)** — PDF generation (needed for `generate_book.py`)
 - **[edge-tts](https://github.com/rany2/edge-tts)** — Free TTS option (needed for `generate_audiobook.py`)
 
-## Files Not in This Repository
+## Large Files
 
-Due to size, the following are not committed to git:
+The original letter scans and family photos (~325MB) are stored via [Git LFS](https://git-lfs.github.com/). Install Git LFS before cloning to pull them automatically.
 
-| What | Size | How to Obtain |
-|------|------|---------------|
-| `BobScans/` — original letter scans and photos | ~2.4 GB | Contact the family; these are the source images |
-| `site/Letters_Home_Hanifen.pdf` — the typeset PDF | ~1 GB | Regenerate with `python scripts/generate_book.py` |
-| `site/audio/` — audiobook MP3 files | ~41 MB | Regenerate with the audiobook scripts |
+The following generated outputs are not committed due to size:
+
+| What | Size | How to Regenerate |
+|------|------|-------------------|
+| `site/Letters_Home_Hanifen.pdf` — the typeset PDF | ~1 GB | `python scripts/generate_book.py` |
+| `site/audio/` — audiobook MP3 files | ~41 MB | `python scripts/generate_audiobook.py` |
 
 ## License
 

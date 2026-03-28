@@ -36,17 +36,17 @@
   "pages": [
     {
       "page_label": "envelope",
-      "source_file": "letter72.png",
+      "source_file": "letter72.jpg",
       "transcription": "[Back of envelope, handwritten in teal ink:]\nSunday Jan\nSand [|||] 2222\n\n[Note: Text visible through envelope paper is bleed-through from letter contents, not additional writing on the envelope itself.]"
     },
     {
       "page_label": "page1",
-      "source_file": "letter72_page1.png",
+      "source_file": "letter72_page1.jpg",
       "transcription": "[Army Air Forces letterhead with winged propeller insignia]\n\nJan. 23\n\nDear Dad\n     You can forget about the pen I bought here at camp for 3 bucks at $4 pen if it is a Eversharp lifetime. Not a bad deal.\nWe are still lying around doing nothing at all. They say we should ship out by the 25 but I guess it was just another rumor. Went evening at YMCA last night with Picart and a couple buddies not much else to do. How we [doing?] around the shop now. Going good I hope. Well Dad goodby for now          over\n          Love Bob"
     },
     {
       "page_label": "page2",
-      "source_file": "letter72_page2.png",
+      "source_file": "letter72_page2.jpg",
       "transcription": "[Continuation, written on back/inside of folded letter — top of page:]\nsay have they ever found that stationery folder of mine if they do send the pictures in it.\n\n[Remainder of page is bleed-through text from other pages, not additional content.]\n\n[Bottom of page repeats envelope annotation in teal ink:]\nSunday Jan\nSand [|||] 2222"
     }
   ],

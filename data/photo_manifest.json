@@ -157,7 +157,7 @@
     "sort_order": 10
   },
   {
-    "filename": "photos/jimmy_in_his_racer_soap_box_bobby_standing_dads_shop_1937.png",
+    "filename": "photos/jimmy_in_his_racer_soap_box_bobby_standing_dads_shop_1937.jpg",
     "caption": "Jimmy Hanifen in his soap box racer, Bobby Hanifen standing nearby, at Dad's shop (Hanifen Body & Paint Co.), 1937",
     "date_estimate": "1937",
     "date_confidence": "known",
@@ -224,7 +224,7 @@
     ],
     "letter_id": null,
     "sort_order": 14,
-    "back": "photos/family_at_424_back.png"
+    "back": "photos/family_at_424_back.jpg"
   },
   {
     "filename": "photos/post_card_harriett.jpg",
@@ -242,7 +242,7 @@
     "sort_order": 15
   },
   {
-    "filename": "photos/pearl_in_something_my_brother.png",
+    "filename": "photos/pearl_in_something_my_brother.jpg",
     "caption": "Pearl Hanifen in a vehicle or costume, with a brother",
     "date_estimate": null,
     "date_confidence": "low",
@@ -296,7 +296,7 @@
     ],
     "letter_id": null,
     "sort_order": 19,
-    "back": "photos/jim_cpl_1945_back.png"
+    "back": "photos/jim_cpl_1945_back.jpg"
   },
   {
     "filename": "jim_cpl_1945.jpg",
@@ -312,7 +312,7 @@
     ],
     "letter_id": null,
     "sort_order": 20,
-    "back": "photos/jim_cpl_1945_back.png"
+    "back": "photos/jim_cpl_1945_back.jpg"
   },
   {
     "filename": "photos/robert_e_hanifen_424_virginia_ave_des_moines_0001.jpg",
@@ -356,7 +356,7 @@
     "people": [],
     "letter_id": null,
     "sort_order": 23,
-    "back": "photos/airplane1-back.png"
+    "back": "photos/airplane1-back.jpg"
   },
   {
     "filename": "photo_from_letter.jpg",
@@ -397,7 +397,7 @@
     "people": [],
     "letter_id": null,
     "sort_order": 26,
-    "back": "photos/uncle_phils_farm_old_hwy_6_back.png"
+    "back": "photos/uncle_phils_farm_old_hwy_6_back.jpg"
   },
   {
     "filename": "uncle_phils_farm_old_hwy_6.jpg",
@@ -411,7 +411,7 @@
     "people": [],
     "letter_id": null,
     "sort_order": 27,
-    "back": "photos/uncle_phils_farm_old_hwy_6_back.png"
+    "back": "photos/uncle_phils_farm_old_hwy_6_back.jpg"
   },
   {
     "filename": "photos/1947_ford_edith_hanifen_russ_wellman_james_hanifen_sr.jpg",
@@ -429,7 +429,7 @@
     ],
     "letter_id": 7,
     "sort_order": 28,
-    "back": "photos/1947_ford_edith_hanifen_russ_wellman_james_hanifen_sr_back.png"
+    "back": "photos/1947_ford_edith_hanifen_russ_wellman_james_hanifen_sr_back.jpg"
   },
   {
     "filename": "photos/millie_osterhort_hanifen_at_424_virginia_ave-des-moines.jpg",
@@ -577,7 +577,7 @@
     ],
     "letter_id": null,
     "sort_order": 37,
-    "back": "photos/hanifen_brothers_back.png"
+    "back": "photos/hanifen_brothers_back.jpg"
   },
   {
     "filename": "photos/hanifen_brothers copy.jpg",
@@ -696,7 +696,7 @@
     ],
     "letter_id": null,
     "sort_order": 44,
-    "back": "photos/1947_ford_edith_hanifen_russ_wellman_james_hanifen_sr_back.png"
+    "back": "photos/1947_ford_edith_hanifen_russ_wellman_james_hanifen_sr_back.jpg"
   },
   {
     "filename": "photos/john_marion_and_bob_and_jan_and_jim_and_helen.jpg",
@@ -972,10 +972,10 @@
     ],
     "letter_id": null,
     "sort_order": 67,
-    "back": "photos/john_hanifen_catherine_hanifen_grave_back.png"
+    "back": "photos/john_hanifen_catherine_hanifen_grave_back.jpg"
   },
   {
-    "filename": "photos/wilmetta_and_marcus_zimmerman_grave.png",
+    "filename": "photos/wilmetta_and_marcus_zimmerman_grave.jpg",
     "caption": "Grave marker for Wilmetta and Marcus Zimmerman (extended Hanifen family)",
     "date_estimate": null,
     "date_confidence": "low",
@@ -991,7 +991,7 @@
     "sort_order": 68
   },
   {
-    "filename": "photos/matt_hanifen_family_tree.png",
+    "filename": "photos/matt_hanifen_family_tree.jpg",
     "caption": "Matt Hanifen family tree document",
     "date_estimate": null,
     "date_confidence": "low",
