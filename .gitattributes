@@ -1,3 +1,4 @@
 BobScans/**/*.jpg filter=lfs diff=lfs merge=lfs -text
 BobScans/**/*.png filter=lfs diff=lfs merge=lfs -text
 BobScans/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+site/audio/*.mp3 filter=lfs diff=lfs merge=lfs -text

@@ -12,8 +12,7 @@ __pycache__/
 # Legacy/archive
 old/
 
-# Large generated files (audio, PDF)
-site/audio/
+# Large generated files (PDF)
 site/Letters_Home_Hanifen.pdf
 
 # Symlinks (resolved via BobScans/ in repo)
@@ -26,3 +25,4 @@ site/photos
 .vscode/
 .idea/
 .claude/
+.vercel
