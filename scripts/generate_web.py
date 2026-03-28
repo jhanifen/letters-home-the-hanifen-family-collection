@@ -1350,7 +1350,6 @@ document.addEventListener('DOMContentLoaded', () => {
   renderNarrative();
   renderTimeline();
   renderChapters();
-  renderPeople();
   renderHighlights();
   renderPhotos();
   buildChronoIndex();
@@ -1549,6 +1548,7 @@ function closeChapterDetail() {
 // ---- People ----
 function renderPeople() {
   const grid = document.getElementById('people-grid');
+  if (!grid) return;
   grid.innerHTML = DATA.profiles.map(p => {
     const aliases = (p.aliases || []).slice(0, 4).join(', ');
     const letterCount = (p.letters_appeared_in || []).length;
