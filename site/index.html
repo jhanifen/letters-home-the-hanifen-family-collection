@@ -890,7 +890,6 @@ body { padding-bottom: 64px; }
       <a href="#" onclick="showSection('chapters');return false;">Chapters</a>
       <a href="#" onclick="showSection('highlights');return false;">Highlights</a>
       <a href="#" onclick="showSection('photos');return false;">Photos</a>
-      <a href="#" onclick="showSection('people');return false;">People</a>
       <a href="#" onclick="showSection('search');return false;" class="nav-search-link">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
         Search
@@ -1026,21 +1025,6 @@ body { padding-bottom: 64px; }
   </div>
 </section>
 
-<!-- ===== PEOPLE ===== -->
-<section id="people" class="section">
-  <div class="container">
-    <div class="section-photo">
-      <img src="photos_web/photos/hanifen_brothers_lookin_cool.jpg" alt="The Hanifen Brothers">
-      <span class="section-photo-caption">The Hanifen Brothers &mdash; Bob, Jim, and John</span>
-    </div>
-    <div class="section-header">
-      <div class="section-label">Appendix</div>
-      <h2 class="section-title">The People in These Letters</h2>
-      <div class="section-rule"></div>
-    </div>
-    <div id="people-grid" class="people-grid"></div>
-  </div>
-</section>
 
 <!-- ===== SEARCH ===== -->
 <section id="search" class="section">
@@ -2133,7 +2117,7 @@ function openLetter(id) {
     <div class="ld-scans">
       <div class="ld-scans-label">Original Scans (${scans.length})</div>
       <div class="ld-scan-thumbs">
-        ${scans.map((s, i) => `<img class="ld-scan-thumb" src="BobScans/${s.filename}" alt="${escHtml(s.label)}" onclick="showScanFull(this, ${i}, '${letter.id}')" title="${escHtml(s.label)}">`).join('')}
+        ${scans.map((s, i) => `<img class="ld-scan-thumb" src="scans_web/${s.filename}" alt="${escHtml(s.label)}" onclick="showScanFull(this, ${i}, '${letter.id}')" title="${escHtml(s.label)}">`).join('')}
       </div>
       <div id="scan-full-container"></div>
     </div>
@@ -2208,7 +2192,7 @@ function showScanFull(thumb, idx, letterId) {
   if (!scan) return;
 
   const container = document.getElementById('scan-full-container');
-  container.innerHTML = `<img class="ld-scan-full" src="BobScans/${scan.filename}" alt="${escHtml(scan.label)}" onclick="openLightbox('BobScans/${scan.filename}')">`;
+  container.innerHTML = `<img class="ld-scan-full" src="scans_web/${scan.filename}" alt="${escHtml(scan.label)}" onclick="openLightbox('scans_web/${scan.filename}')">`;
 }
 
 function openLightbox(src) {
