@@ -1807,6 +1807,13 @@ function setupKeyboard() {
       if (lb) { lb.remove(); return; }
       closeModal();
     }
+    // Arrow keys navigate photos in lightbox
+    const lb = document.querySelector('.lightbox');
+    if (lb) {
+      if (e.key === 'ArrowLeft') { e.preventDefault(); navigatePhoto(-1); }
+      if (e.key === 'ArrowRight') { e.preventDefault(); navigatePhoto(1); }
+      return;
+    }
     // Arrow keys navigate letters in modal
     if (document.getElementById('letter-modal').style.display === 'flex') {
       if (e.key === 'ArrowLeft') navigateLetter(-1);
