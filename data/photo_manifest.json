@@ -299,22 +299,6 @@
     "back": "photos/jim_cpl_1945_back.jpg"
   },
   {
-    "filename": "jim_cpl_1945.jpg",
-    "caption": "Jim Hanifen Jr. as a Corporal, 1945 (duplicate)",
-    "date_estimate": "1945",
-    "date_confidence": "known",
-    "categories": [
-      "military",
-      "portrait"
-    ],
-    "people": [
-      "James Edward Hanifen Jr."
-    ],
-    "letter_id": null,
-    "sort_order": 20,
-    "back": "photos/jim_cpl_1945_back.jpg"
-  },
-  {
     "filename": "photos/robert_e_hanifen_424_virginia_ave_des_moines_0001.jpg",
     "caption": "Robert E. (Bob) Hanifen at 424 Virginia Avenue, Des Moines, Iowa",
     "date_estimate": "1945",
@@ -359,7 +343,7 @@
     "back": "photos/airplane1-back.jpg"
   },
   {
-    "filename": "photo_from_letter.jpg",
+    "filename": "photos/photo_from_letter.jpg",
     "caption": "Photo enclosed with a Hanifen family letter",
     "date_estimate": null,
     "date_confidence": null,
@@ -397,20 +381,6 @@
     "people": [],
     "letter_id": null,
     "sort_order": 26,
-    "back": "photos/uncle_phils_farm_old_hwy_6_back.jpg"
-  },
-  {
-    "filename": "uncle_phils_farm_old_hwy_6.jpg",
-    "caption": "Uncle Phil's farm on Old Highway 6 (duplicate)",
-    "date_estimate": null,
-    "date_confidence": "low",
-    "categories": [
-      "location",
-      "extended-family"
-    ],
-    "people": [],
-    "letter_id": null,
-    "sort_order": 27,
     "back": "photos/uncle_phils_farm_old_hwy_6_back.jpg"
   },
   {
