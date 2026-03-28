@@ -1,0 +1,82 @@
+{
+  "letter_id": "25",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Bobby', return address shows P.F.C. Robert E. Hanifen",
+    "to": "Dad (James Edward Hanifen Sr.), care of Hanifen Body & Paint Co.",
+    "date": "March 2",
+    "date_normalized": "1945-03-02",
+    "location_written_from": "Caserta, Italy (at the American Red Cross)",
+    "location_sent_to": "Hanifen Body & Paint Co., 904 Heo Way [Leo Way?], Des Moines, Iowa",
+    "postmark": "U.S. Army Postal Service, A.P.O. — partially legible circular stamp",
+    "envelope_notes": "Return address: P.F.C. Robert E. Hanifen, T170600 2312 Ord [Ordnance?], MT Co. APO 528, Postmaster New York N.Y. Form 539 printed in red upper right corner. Addressed to Hanifen Body & Paint Co., 904 Heo Way [possibly Leo Way], Des Moines, Iowa.",
+    "topics": [
+      "first letter received from Jimmy (brother)",
+      "Red Cross visit in Caserta",
+      "dance at Red Cross",
+      "Ike jacket issued",
+      "stripes sewn on for 30 cents",
+      "cheap prices in Italy",
+      "selling cigarettes for lire",
+      "half day on Wednesdays and Saturdays",
+      "inspection of 643 M.P. and 3090 fire fighters",
+      "writing inspection report",
+      "Lieutenant's praise",
+      "Lieutenant going on vacation",
+      "Jeep padlock security order",
+      "guarded parking lot theft by Italians",
+      "food and entertainment",
+      "learning Italian",
+      "driving the jeep",
+      "writing home twice a week"
+    ],
+    "people_mentioned": [
+      "Jimmy (James Hanifen Jr., Bob's brother)",
+      "the Lieutenant",
+      "the Captain"
+    ],
+    "places_mentioned": [
+      "Caserta",
+      "Italy",
+      "New York, N.Y.",
+      "Des Moines, Iowa"
+    ],
+    "mood_tone": "Upbeat, conversational, and positive — Bob is enjoying his assignment, finding things cheap, being praised by his lieutenant, and socializing at the Red Cross.",
+    "legibility": "fair",
+    "legibility_notes": "Generally readable but some words difficult due to cursive style and paper aging. 'Heo Way' on envelope may be 'Leo Way.' '3090' unit number uncertain. 'T170600' serial number — first digit may be '7' making it '7170600.' Some words on pages 2-3 require inference from context.",
+    "historical_context": "WWII — Bob is stationed in Caserta, Italy, with APO 528, serving in an ordnance/motor transport company. References to Military Police units, fire fighters inspections, jeep security orders, and selling cigarettes to locals for lire all reflect the WWII occupation context in Italy circa early 1945.",
+    "date_estimated": "1946-03-02",
+    "date_estimated_confidence": "high",
+    "date_estimation_reasoning": "Letter is explicitly dated 'March 2' and the content — PFC Bob at Caserta, Italy; first letter received (from Jimmy); Red Cross dance in Caserta; Ike jacket just issued; inspecting 643 MP and 3090 fire fighters; Lt. going on vacation last week of March — is entirely consistent with Bob's Italy posting from February 1946 onward. Letter 3 (dated March 22, 1946) mentions the same inspection duties and Lt.'s Switzerland vacation. Letter 8 (February 28, 1946) mentions upcoming trips to Foggia and Bari and the Red Cross Club in Caserta. 'March 2' falls between these two confirmed dates. Year is 1946 with high confidence.",
+    "date_is_approximate": true,
+    "chronological_date": "1946-03-02"
+  },
+  "pages": [
+    {
+      "page_label": "envelope",
+      "source_file": "letter25.png",
+      "transcription": "RETURN ADDRESS:\nP.F.C. Robert E. Hanifen\nT170600 2312 Ord [Ordnance]\nMT Co. APO 528\nPostmaster New York N.Y.\n\nADDRESSED TO:\nHanifen Body & Paint Co.\n904 Heo Way [Leo Way?]\nDes Moines, Iowa\n\nSTAMP/MARKINGS: U.S. Army Postal Service A.P.O. circular stamp (partially legible). 'FORM 539' printed in red upper right. Cancellation bars visible at right."
+    },
+    {
+      "page_label": "page1",
+      "source_file": "letter25_page1.png",
+      "transcription": "March 2.\n\nDear Dad\n     I got my first letter today. It was from Jimmy. A very nice letter too. I am at the Red Cross in Caserta tonight with 3 buddies of mine. They are going to have a dance here. They are pretty nice considering the place where we are at. We got our Ike jacket today and they are very nice too. I got it pressed and had my stripes put on for 30 cent not bad. Everything is dirt cheap around here. I really"
+    },
+    {
+      "page_label": "page2",
+      "source_file": "letter25_page2.png",
+      "transcription": "like the idea. You can your cigarettes to anybody for 250 lire that is about 1.25 in American money. Give a guy spending money anyway. Today was a half day. Wed & Sat. both are. We inspected the 643 M.P. and 3090 fire fighters today. They are little places so it only took about 1 hr. I wrote up the report. It took about 45 min. The Lt. check it and said I did a pretty fair job. He is going on his vacation the last week in March. So that mean I will"
+    },
+    {
+      "page_label": "page3",
+      "source_file": "letter25_page3.png",
+      "transcription": "probably do all the inspection, if we haven't got them done by then. The Capt. had another jeep stole last night. It was lock, all jeep must have a padlock in fact all vehicles do. And it was in a guarded parking lot. These ginnie [guinea?] are slick. I savt [save?] the food is swell but a lot of shows at Camp and plenty of entertainment in town. In fact I am enjoying myself very well. I can understand a fair amount of Italian"
+    },
+    {
+      "page_label": "page4",
+      "source_file": "letter25_page4.png",
+      "transcription": "but it will be sometime before I can understand it very well. I do hope my letters are getting to you. I have written about 2 times a week. The Lt. lets me drive the jeep all the time. He is nice a swell guy.\n\n     Well Dad goodbye\n     Lots of Love [Your son?]\n          Bobby"
+    }
+  ],
+  "full_transcription": "March 2.\n\nDear Dad\n     I got my first letter today. It was from Jimmy. A very nice letter too. I am at the Red Cross in Caserta tonight with 3 buddies of mine. They are going to have a dance here. They are pretty nice considering the place where we are at. We got our Ike jacket today and they are very nice too. I got it pressed and had my stripes put on for 30 cent not bad. Everything is dirt cheap around here. I really like the idea. You can your cigarettes to anybody for 250 lire that is about 1.25 in American money. Give a guy spending money anyway. Today was a half day. Wed & Sat. both are. We inspected the 643 M.P. and 3090 fire fighters today. They are little places so it only took about 1 hr. I wrote up the report. It took about 45 min. The Lt. check it and said I did a pretty fair job. He is going on his vacation the last week in March. So that mean I will probably do all the inspection, if we haven't got them done by then. The Capt. had another jeep stole last night. It was lock, all jeep must have a padlock in fact all vehicles do. And it was in a guarded parking lot. These ginnie [guinea?] are slick. I savt [save?] the food is swell but a lot of shows at Camp and plenty of entertainment in town. In fact I am enjoying myself very well. I can understand a fair amount of Italian but it will be sometime before I can understand it very well. I do hope my letters are getting to you. I have written about 2 times a week. The Lt. lets me drive the jeep all the time. He is nice a swell guy.\n\n     Well Dad goodbye\n     Lots of Love [Your son?]\n          Bobby",
+  "summary": "Written on March 2 (likely 1945) from Caserta, Italy, PFC Bob Hanifen writes to his father about life at his Army posting. He reports receiving his first letter (from his brother Jimmy), visiting the Red Cross, getting his Ike jacket pressed with stripes sewn on cheaply, and inspecting the 643 M.P. and fire fighter units — writing a report his Lieutenant praised. He notes the cheap prices in Italy, the ability to sell cigarettes for lire, entertainment at camp and in town, and his growing understanding of Italian, closing warmly as 'Bobby.'"
+}

@@ -1,0 +1,54 @@
+{
+  "letter_id": "6",
+  "metadata": {
+    "from": "Bob (Robert Hanifen) — signed 'Bob' at the end, writing from Italy in a military context",
+    "to": "Jimmy (Jim Hanifen Jr., Bob's brother) — addressed 'Dear Jimmy,' and the tone/context is sibling, not parent-child",
+    "date": "27, May 1946",
+    "date_normalized": "1946-05-27",
+    "location_written_from": "Italy (mentions having a good time in Italy, flying to Foggia)",
+    "location_sent_to": null,
+    "postmark": "MAY 27 1946",
+    "envelope_notes": null,
+    "topics": [
+      "military life in Italy post-WWII",
+      "possible promotion to Sergeant",
+      "trouble with MPs over uniform button",
+      "flying to Foggia for inspection",
+      "sending money home",
+      "car purchase for father (Dad)",
+      "Red Cross girls",
+      "Italian girls",
+      "officer complaints",
+      "POWs and Italian workers"
+    ],
+    "people_mentioned": [
+      "Jimmy",
+      "Dad",
+      "Annie (Connie?)"
+    ],
+    "places_mentioned": [
+      "Italy",
+      "Foggia"
+    ],
+    "mood_tone": "Casual, irreverent, and somewhat frustrated — complaining about MPs and officers, but generally lighthearted and chatty",
+    "legibility": "fair",
+    "legibility_notes": "Cursive handwriting is generally readable but some words are difficult to decipher, especially at the tops of pages where ink is faded or text is partially cut off. The name at the end of page 2 ('Annie' or 'Connie') is uncertain.",
+    "historical_context": "Post-WWII occupation period in Italy, May 1946. Bob is still stationed in Italy as part of the U.S. military presence. References to MPs, inspections, POWs (PWs), and Italian civilians doing work for the military all reflect the postwar occupation context.",
+    "chronological_date": "1946-05-27",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter6_page1.png",
+      "transcription": "27, May 1946\n\nDear Jimmy just got your letter today. Was very glad to hear from you. I am almost a Sgt. if I work it right. Having a pretty good time in Italy. These god damn M.P.'s are what. Causing us all the trouble overseas. Brig up last night for having a button no bottom. What a lot of shit. I am suppose to fly to Foggia tomorrow for an inspection. Good deal. Hope Dad get that car. I am sending home all the money they will let me. Good thing they got that money control. or I would sell my shoes to these Genie[?] bastards. I am having quite a time with the air [MJs?/MPs?] of them are"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter6_page2.png",
+      "transcription": "broad. But a lot of them won't even speak to an American. I found two babe who are pretty nice. They are Red Cross girls. Most of them are pretty nice. I am speaking of Italian girls in the Red Cross. These American Red Cross women give me a pain in the ass. Hope Dad get me a good car. Either a Mercury or Ford. So that Chev. is quite the car but you feel damn good driving it. Can't even get a jeep for recreational anymore. These god damn officers are living like kings over here. PW's and Italians do all the work.\n\nSay hello to Annie [Connie?] for me.\n\nLots of love, Bob"
+    }
+  ],
+  "full_transcription": "27, May 1946\n\nDear Jimmy just got your letter today. Was very glad to hear from you. I am almost a Sgt. if I work it right. Having a pretty good time in Italy. These god damn M.P.'s are what. Causing us all the trouble overseas. Brig up last night for having a button no bottom. What a lot of shit. I am suppose to fly to Foggia tomorrow for an inspection. Good deal. Hope Dad get that car. I am sending home all the money they will let me. Good thing they got that money control. or I would sell my shoes to these Genie[?] bastards. I am having quite a time with the air [MJs?/MPs?] of them are broad. But a lot of them won't even speak to an American. I found two babe who are pretty nice. They are Red Cross girls. Most of them are pretty nice. I am speaking of Italian girls in the Red Cross. These American Red Cross women give me a pain in the ass. Hope Dad get me a good car. Either a Mercury or Ford. So that Chev. is quite the car but you feel damn good driving it. Can't even get a jeep for recreational anymore. These god damn officers are living like kings over here. PW's and Italians do all the work.\n\nSay hello to Annie [Connie?] for me.\n\nLots of love, Bob",
+  "summary": "Written on May 27, 1946, from Italy, Bob writes to his brother Jimmy with a casual, irreverent account of post-WWII military life. He mentions nearly making Sergeant, being put in the brig over a missing uniform button (courtesy of the MPs), and flying to Foggia for an inspection. He complains about money controls (while acknowledging they prevent him from spending foolishly), discusses his interest in Italian Red Cross girls versus American ones, and asks his father to buy a good car (Mercury or Ford rather than a Chevrolet). The letter closes with a note to say hello to 'Annie' (or possibly 'Connie') and is signed 'Lots of love, Bob,' giving a vivid glimpse into the frustrations and small pleasures of occupation-era military service in Italy."
+}

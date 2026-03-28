@@ -1,0 +1,54 @@
+{
+  "letter_id": "28",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Bob,' return address matches 'Pvt. Bob Hanifen' at Chanute Field",
+    "to": "Dad (James Edward Hanifen Sr.), care of Hanifen Body & Paint Co., 914 Keo Way, Des Moines, Iowa",
+    "date": "Thurs. 9 / Fri. 10",
+    "date_normalized": "1945-08-09",
+    "location_written_from": "Chanute Field, Illinois (based on return address: Chanute Fld, Ill.)",
+    "location_sent_to": "Hanifen Body & Paint Co., 914 Keo Way, Des Moines, Iowa",
+    "postmark": "Aug 10 [or 11], 11 PM, 1945 — city partially legible, appears to be from Illinois area",
+    "envelope_notes": "Return address: Pvt. Bob Hanifen, 17110600, Sqd. I 1355-249, Chanute Fld, Ill. Stamp area torn. Postmark reads AUG [10 or 11] PM 45.",
+    "topics": [
+      "potential furlough home",
+      "new bomb (atomic bomb reference)",
+      "school at Chanute Field with no materials",
+      "Japanese surrender rumors",
+      "plans to come home",
+      "Jimmy's whereabouts"
+    ],
+    "people_mentioned": [
+      "Dad (James Edward Hanifen Sr.)",
+      "Jimmy (Jim Hanifen Jr., Bob's brother)"
+    ],
+    "places_mentioned": [
+      "Chanute Field, Illinois",
+      "Des Moines, Iowa"
+    ],
+    "mood_tone": "Hopeful and upbeat; Bob is optimistic about coming home, excited about news of Japanese surrender, and casually chatty about life at the base.",
+    "legibility": "fair",
+    "legibility_notes": "Most text is readable but some words require inference. 'They told us' is partially unclear. 'New bomb' almost certainly refers to the atomic bomb given the August 1945 date and context of Japan surrendering.",
+    "historical_context": "Written around August 9-10, 1945, directly referencing the atomic bombings of Japan and Japan's impending surrender. Bob mentions 'this new bomb might get me home a little quicker' — almost certainly a reference to the atomic bomb dropped on Hiroshima (Aug 6) and Nagasaki (Aug 9). Page 2 references hearing about 'the Japs wanting to surrender,' consistent with Japan's announcement around August 10, 1945.",
+    "chronological_date": "1945-08-09",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "envelope",
+      "source_file": "letter28.png",
+      "transcription": "Return address (upper left):\nPvt. Bob Hanifen 17110600\nSqd. I 1355-249\nChanute Fld, Ill.\n\nPostmark: [city illegible], AUG [10 or 11], 11 PM, 45\n\nAddressed to:\nHanifen Body & Paint Co.\n914 Keo Way\nDes Moines, Iowa"
+    },
+    {
+      "page_label": "page 1",
+      "source_file": "letter28_page1.png",
+      "transcription": "Thurs. 9\n\nU. S. ARMY AIR FORCES\n\nDear Dad,\n\nI received your letter and I might take you up on that deal about coming home. This new bomb might get me home a little quicker I hope. But I don't know.\n\nWe are not doing much in school no material to work with they told us.\n\nHaven't got a letter from Jimmy in a long time. Has he shipped to another base."
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter28_page2.png",
+      "transcription": "Fri. 10\n\nU. S. ARMY AIR FORCES\n\nJust heard about the Japs wanting to surrender. Hope they do. I don't know what I will do this weekin [weekend?] yet. I will try to get home the week after next. Hope I can do it. Say hello to every-body.\n\nLove Bob"
+    }
+  ],
+  "full_transcription": "Thurs. 9\n\nDear Dad,\n\nI received your letter and I might take you up on that deal about coming home. This new bomb might get me home a little quicker I hope. But I don't know.\n\nWe are not doing much in school no material to work with they told us.\n\nHaven't got a letter from Jimmy in a long time. Has he shipped to another base.\n\n---\n\nFri. 10\n\nJust heard about the Japs wanting to surrender. Hope they do. I don't know what I will do this weekin [weekend?] yet. I will try to get home the week after next. Hope I can do it. Say hello to every-body.\n\nLove Bob",
+  "summary": "Written across two days (Thursday August 9 and Friday August 10, 1945), this letter from Bob Hanifen at Chanute Field, Illinois to his father in Des Moines captures a pivotal moment in WWII history. Bob references 'this new bomb' (almost certainly the atomic bomb) as potentially speeding up his return home, and the next day excitedly notes hearing that Japan is wanting to surrender. He also mentions that school at the base is stalled due to lack of materials, and wonders why he hasn't heard from his brother Jimmy, speculating he may have been transferred to another base."
+}

@@ -1,0 +1,54 @@
+{
+  "letter_id": "39",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — writing on American Red Cross stationery, likely from a military base or posting abroad during WWII",
+    "to": "Dad (James Edward Hanifen Sr.)",
+    "date": "May 9, 1946",
+    "date_normalized": "1946-05-09",
+    "location_written_from": "Unknown military/overseas posting (possibly Italy based on reference to 'Foggia')",
+    "location_sent_to": "Des Moines, Iowa (postmark visible)",
+    "postmark": "DES MOINES GRAND STA, MAY 9, 1946",
+    "envelope_notes": "Letter written on American Red Cross Form 539 A stationery. Postmark stamp visible on page 1.",
+    "topics": [
+      "family check-in",
+      "war bonds",
+      "money order",
+      "swimming trunks request",
+      "trip to Foggia",
+      "wrestling matches",
+      "driving school"
+    ],
+    "people_mentioned": [
+      "Dad (James Edward Hanifen Sr.)",
+      "Jack Buckley",
+      "Jeko (buddy in the office)"
+    ],
+    "places_mentioned": [
+      "Foggia",
+      "Des Moines"
+    ],
+    "mood_tone": "Casual, upbeat, and conversational — cheerful despite being away, requesting items from home",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting is flowing cursive and somewhat difficult in places; some words are ambiguous (e.g., buddy's name 'Jeko' uncertain); partial obscuring by postmark stamp on page 1. The name of the buddy and some phrases required guessing.",
+    "historical_context": "Written in May 1946 shortly after WWII ended; Bob appears to still be stationed or posted abroad (reference to Foggia, Italy, a major WWII air base); mentions war bonds and sending money orders home, consistent with wartime/post-war military pay practices.",
+    "date_estimated": "1946-05-09",
+    "date_estimated_confidence": "high",
+    "date_estimation_reasoning": "Letter is dated 'May 9, 1946' explicitly in the text ('Well this is the 1 of May' — likely a writing error for 'the 9th of May' given the date heading). Written on American Red Cross stationery, consistent with Bob's Italy posting. References Foggia (a major Italian air base Bob visited per Letters 18, 73, etc.), Jack Buckley, and the jeep — all consistent with Bob's Italy letters. The $59 money order referenced matches Letter 24 (June 19, 1946) which also mentions enclosing a $59 money order; however, the content differences suggest these are separate money orders at different times. The swimming trunks request and trip to Foggia with the Lt. are referenced in Letter 39 (May 9, 1946 per the date heading), while Letter 22 (also May 9, 1946) was sent separately. Both are from Caserta/Italy, May 1946. Confirmed as May 9, 1946.",
+    "date_is_approximate": true,
+    "chronological_date": "1946-05-09"
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter39_page1.png",
+      "transcription": "May 9, 1946\n\nAMERICAN RED CROSS\n\nDear Dad\n\n     Well this is the 1 of May and everything is still okay. I got your card from Phena [?] to Kansas. What are you doing down there. By the way did you ever get my war bonds & my 59 dollars money order.\n\nAnother story how about sending me my swimming trunks, the blue ones with the Air Corps insignia on it. It takes about"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter39_page2.png",
+      "transcription": "a month for a package so send it right away. Please. We went to Foggia the other day the Lt. & my buddy in the office Jeko [?]. We drove my jeep. Had a nice time. Jack Buckley took us to the wrestling matches. It rain coming back and those black top Italian road are slick as hell enough so you can go into a slide pretty easy. Glad to get back. I am to Driving school this week"
+    }
+  ],
+  "full_transcription": "May 9, 1946\n\nAMERICAN RED CROSS\n\nDear Dad\n\n     Well this is the 1 of May and everything is still okay. I got your card from Phena [?] to Kansas. What are you doing down there. By the way did you ever get my war bonds & my 59 dollars money order.\n\nAnother story how about sending me my swimming trunks, the blue ones with the Air Corps insignia on it. It takes about a month for a package so send it right away. Please. We went to Foggia the other day the Lt. & my buddy in the office Jeko [?]. We drove my jeep. Had a nice time. Jack Buckley took us to the wrestling matches. It rain coming back and those black top Italian road are slick as hell enough so you can go into a slide pretty easy. Glad to get back. I am to Driving school this week",
+  "summary": "Bob writes to his father from what appears to be a posting in Italy (referencing Foggia, a major WWII air base) in May 1946. He confirms everything is okay, asks whether his father received his war bonds and $59 money order, and requests his blue Air Corps swimming trunks be mailed promptly. He recounts a recent trip to Foggia with his lieutenant and office buddy, where Jack Buckley took them to wrestling matches, and notes the dangerous slickness of Italian roads in the rain on the drive back. The letter ends mentioning he is attending driving school that week."
+}

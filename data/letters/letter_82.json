@@ -1,0 +1,64 @@
+{
+  "letter_id": "82",
+  "metadata": {
+    "from": "James E. Hanifen (Sr. or Jr. — the registered owner is 'J. E. Hanifen' at 424 Virginia, Des Moines, Iowa; the signature on the certification reads 'James E. Hanifen'; the back of the envelope is stamped/printed 'Hanifen Body & Paint Co.' and signed 'James E. Hanifen 4/8/22-3' — this is almost certainly James Edward Hanifen Sr., the father, who ran the body and paint shop)",
+    "to": "N/A — this is not a letter but a WWII-era gasoline ration book envelope and ration book",
+    "date": "4/8/22-3 (written on back — likely a date notation, possibly April 8 or year model reference)",
+    "date_normalized": null,
+    "location_written_from": "Des Moines, Iowa",
+    "location_sent_to": null,
+    "postmark": null,
+    "envelope_notes": "This is a Gasoline Ration Book Envelope (not a mailed letter). Front cover reads 'Gasoline Ration Book Envelope' with handwritten annotation '41 Ply' (1941 Plymouth). Back reads: 'Conserve Your Car... have dented, scratched or rusted areas refinished—damaged sections repaired. For this service, bring your car to— HANIFEN BODY & PAINT CO. 904 Keo Way, Des Moines, Iowa. Compliments of MINNESOTA MINING & MFG. CO., St. Paul, Minn.' Handwritten on back: '41 Ply' and signature 'James E. Hanifen 4/8/22-3'. Inside pocket has handwritten notation '41 Ply - 37'. The ration book inside is OPA Form R-525C, 'A Basic Mileage Ration', United States of America, Office of Price Administration. Registered owner: J. E. Hanifen, 424 Virginia, Des Moines, Iowa. License No. 77-33990 (Iowa). Year Model and Make: Ply[mouth] 41 [Iowa?]. Serial number on coupons: 584736. Several 'A17' mileage coupons visible; some coupons appear to have been used/torn. Back of ration book has 'Certification of Bookholder' signed by James E. Hanifen, address 424, Virginia Ave. Notice instructs holder to write car license number and state on each coupon.",
+    "topics": [
+      "gasoline rationing",
+      "WWII home front",
+      "OPA ration book",
+      "automobile",
+      "Hanifen Body & Paint Co."
+    ],
+    "people_mentioned": [
+      "James E. Hanifen"
+    ],
+    "places_mentioned": [
+      "Des Moines, Iowa",
+      "424 Virginia (Ave)",
+      "904 Keo Way",
+      "St. Paul, Minnesota"
+    ],
+    "mood_tone": "Administrative/official — a wartime rationing document, not a personal letter",
+    "legibility": "good",
+    "legibility_notes": "Handwriting is fairly clear. The date on back '4/8/22-3' is somewhat ambiguous — may refer to a date (April 8) combined with a model year notation, or another reference.",
+    "historical_context": "WWII-era gasoline rationing. The Office of Price Administration (OPA) issued 'A' Basic Mileage Ration books to civilian car owners, limiting gasoline consumption as part of the wartime effort. The 'A' card was the lowest-priority ration, allotting approximately 3-4 gallons per week for non-essential driving. The envelope was produced and distributed by Hanifen Body & Paint Co. as a promotional item, compliments of Minnesota Mining & Manufacturing Co. (3M).",
+    "chronological_date": "1942-01-01",
+    "date_is_approximate": true
+  },
+  "pages": [
+    {
+      "page_label": "front (envelope front)",
+      "source_file": "letter82_front.jpg",
+      "transcription": "Gasoline Ration Book Envelope\n[handwritten:] 41 Ply\n\nDIRECTIONS: Open book and place back cover and pages of coupons in pocket of envelope, except the top cover and page in current use. See cut. This prevents tearing off coupons from more than one page at a time."
+    },
+    {
+      "page_label": "inside (envelope interior)",
+      "source_file": "letter82_inside.jpg",
+      "transcription": "[Inside of folded envelope showing two pockets. Handwritten notation in center fold:]\n41 Ply - 37\n\n[Bottom printed text:]\nPATENT PENDING\nU. S. ENVELOPE CO."
+    },
+    {
+      "page_label": "inside_sheet (ration book front)",
+      "source_file": "letter82_inside_sheet.jpg",
+      "transcription": "IMPORTANT INSTRUCTIONS\n1. Coupons can be used only in connection with the vehicle described on the front cover. Detached coupons are VOID.\n2. If you stop using your car, this book and all unused coupons must be surrendered to your Board within 5 days.\n3. If you sell your car, this book and all unused coupons must be surrendered to your Board. The purchaser will not be issued a gasoline ration unless he presents the receipt which you receive at the time of such surrender.\n☆ OPO\n\n[Right side:]\nA  BASIC MILEAGE RATION\nUNITED STATES OF AMERICA\nOFFICE OF PRICE ADMINISTRATION\n\nNAME OF REGISTERED OWNER\nJ. E. Hanifen\n\nADDRESS—NUMBER AND STREET\n424 — Virginia\n\nCITY AND STATE\nDes Moines, Iowa\n\nLICENSE NO. AND STATE       YEAR MODEL AND MAKE\n77-33990                    Ply[mouth] 41 [Iowa?]\n\nHolder must fill in any blank spaces above before the first purchase of gasoline.\n\n[Coupon sheet below — multiple coupons visible, each reading:]\nOPA FORM R-525C\nBA [License No.]\nMILEAGE\nA 17\n584736\n[License No.] [State]\n\n[Seven coupons visible: A17 (×5 top row), A16 and A[?] bottom row — some appear torn/used]"
+    },
+    {
+      "page_label": "inside_sheet_back (ration book back)",
+      "source_file": "letter82_inside_sheet_back.jpg",
+      "transcription": "CERTIFICATION OF BOOKHOLDER\n(The coupons in this book are not valid unless the lawful holder has signed the certificate below)\n\nI, the undersigned, do hereby agree that I will use this coupon book only in accordance with the rules and regulations of the Office of Price Administration. Each use of the book will constitute a representation to the Office of Price Administration that the book was lawfully acquired and is being lawfully used.\n\nSignature: James E. Hanifen\nAddress: 424, Virginia Ave\n\n[Box:]\nViolators of the gasoline rationing regulations are subject to revocation of rations and criminal prosecution under the laws of the United States\n\nNOTICE\n\nYOU MUST IMMEDIATELY WRITE OR STAMP YOUR CAR LICENSE NUMBER AND STATE OF REGISTRATION ON THE FACE OF EACH COUPON.\n\nOtherwise these coupons are INVALID and may be revoked.\n\n[Box:]\nAny person finding a lost coupon book should mail it or return it at once to the nearest War Price and Rationing Board"
+    },
+    {
+      "page_label": "back (envelope back)",
+      "source_file": "letter82_back.jpg",
+      "transcription": "Conserve Your Car . . . have dented, scratched or rusted areas refinished—damaged sections repaired. For this service, bring your car to—\n\n[handwritten:] 41 Ply\n\nHANIFEN BODY & PAINT CO.\n904 Keo Way\nDes Moines, Iowa\n\n[handwritten:] James E. Hanifen  4/8/22-3.\n\nCompliments of MINNESOTA MINING & MFG. CO., St. Paul, Minn."
+    }
+  ],
+  "full_transcription": "FRONT:\nGasoline Ration Book Envelope\n[handwritten:] 41 Ply\nDIRECTIONS: Open book and place back cover and pages of coupons in pocket of envelope, except the top cover and page in current use. See cut. This prevents tearing off coupons from more than one page at a time.\n\nINSIDE:\n[Handwritten:] 41 Ply - 37\nPATENT PENDING / U. S. ENVELOPE CO.\n\nRATION BOOK (FRONT):\nIMPORTANT INSTRUCTIONS\n1. Coupons can be used only in connection with the vehicle described on the front cover. Detached coupons are VOID.\n2. If you stop using your car, this book and all unused coupons must be surrendered to your Board within 5 days.\n3. If you sell your car, this book and all unused coupons must be surrendered to your Board. The purchaser will not be issued a gasoline ration unless he presents the receipt which you receive at the time of such surrender.\n\nA BASIC MILEAGE RATION\nUNITED STATES OF AMERICA / OFFICE OF PRICE ADMINISTRATION\nNAME OF REGISTERED OWNER: J. E. Hanifen\nADDRESS: 424 — Virginia\nCITY AND STATE: Des Moines, Iowa\nLICENSE NO.: 77-33990   YEAR MODEL AND MAKE: Plymouth 41\nHolder must fill in any blank spaces above before the first purchase of gasoline.\n[Coupons: OPA FORM R-525C, A17 mileage coupons, serial 584736]\n\nRATION BOOK (BACK):\nCERTIFICATION OF BOOKHOLDER\nI, the undersigned, do hereby agree that I will use this coupon book only in accordance with the rules and regulations of the Office of Price Administration. Each use of the book will constitute a representation to the Office of Price Administration that the book was lawfully acquired and is being lawfully used.\nSignature: James E. Hanifen\nAddress: 424, Virginia Ave\nViolators of the gasoline rationing regulations are subject to revocation of rations and criminal prosecution under the laws of the United States.\nNOTICE: YOU MUST IMMEDIATELY WRITE OR STAMP YOUR CAR LICENSE NUMBER AND STATE OF REGISTRATION ON THE FACE OF EACH COUPON. Otherwise these coupons are INVALID and may be revoked.\nAny person finding a lost coupon book should mail it or return it at once to the nearest War Price and Rationing Board.\n\nENVELOPE BACK:\nConserve Your Car . . . have dented, scratched or rusted areas refinished—damaged sections repaired. For this service, bring your car to—\n[handwritten:] 41 Ply\nHANIFEN BODY & PAINT CO.\n904 Keo Way, Des Moines, Iowa\n[handwritten:] James E. Hanifen  4/8/22-3.\nCompliments of MINNESOTA MINING & MFG. CO., St. Paul, Minn.",
+  "summary": "This item is not a personal letter but a WWII-era gasoline ration book and its envelope, belonging to James E. Hanifen Sr. of 424 Virginia Ave., Des Moines, Iowa. The 'A Basic Mileage Ration' book (OPA Form R-525C) was issued for his 1941 Plymouth (Iowa license 77-33990) and contains several unused 'A17' mileage coupons with serial number 584736. The envelope was a promotional item from Hanifen Body & Paint Co. (904 Keo Way, Des Moines), distributed compliments of Minnesota Mining & Manufacturing Co. (3M), suggesting James Sr. owned or operated an auto body shop — consistent with the family business context. This document provides important evidence of the Hanifen family's wartime home-front experience and their connection to the automobile repair trade in Des Moines."
+}

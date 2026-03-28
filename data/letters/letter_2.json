@@ -1,0 +1,50 @@
+{
+  "letter_id": "2",
+  "metadata": {
+    "from": "Jim Hanifen Jr. (James Edward Hanifen Jr.) — signed 'Jim,' written from Bethany, MO, sent to his father James Edward Hanifen Sr. at 904 No. [something] Way, Des Moines. The tone is that of a young person apologizing to a parent, and the recipient address matches the father's name 'Mr. James E. Hanifen.' The sender is thus the son, Jim Jr.",
+    "to": "James Edward Hanifen Sr. (addressed as 'Dear Pop' and 'Dad')",
+    "date": "5 Feb. 1946",
+    "date_normalized": "1946-02-05",
+    "location_written_from": "Bethany, Mo.",
+    "location_sent_to": "Mr. James E. Hanifen, 904 No. [illegible] Way, Des Moines, 14 [Iowa?]",
+    "postmark": "BETHANY, MO. FEB 5, 8:30 AM, 1946",
+    "envelope_notes": "Pink/red bordered envelope, heavily worn and torn. Return address partially visible in upper left corner, difficult to read fully. Addressed to 'Mr. James E. Hanifen, 904 No. [illegible] Way, Des Moines, 14 [Iowa?]'. Additional partial text visible at bottom edge of envelope.",
+    "topics": [
+      "apology",
+      "screwed up a deal",
+      "oil drain plug",
+      "car trouble",
+      "remorse",
+      "returning to camp on time"
+    ],
+    "people_mentioned": [
+      "Pop (James Edward Hanifen Sr.)",
+      "Gordon"
+    ],
+    "places_mentioned": [
+      "Bethany, Mo.",
+      "Des Moines",
+      "Gordon's (a place or person's property)"
+    ],
+    "mood_tone": "Deeply remorseful, ashamed, and emotionally raw. Jim Jr. is apologizing to his father for failing to carry through on a deal or responsibility, admitting he feels like crying despite being grown up. The letter is contrite and somewhat despairing.",
+    "legibility": "fair",
+    "legibility_notes": "Most of the letter is readable but some words are difficult to decipher due to handwriting style and paper wear. Page 1 has some ambiguous words particularly mid-letter. The phrase 'I dove the damn thing right on 50' is uncertain — 'dove' may be 'drove.' The street name on the envelope is illegible. The return address on the envelope is nearly illegible.",
+    "historical_context": "Written in February 1946, shortly after WWII ended. Reference to 'camp' suggests Jim Jr. may still be in military service or stationed somewhere. The date places this in the immediate post-war period.",
+    "chronological_date": "1946-02-05",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter2.jpg",
+      "transcription": "5 Feb. 1946\nBethany, Mo.,\n8:15 PM\n\nDear Pop,\n\nGot to write, I don't know quite why but I know I have really screwed the works up.\n\nIt wouldn't be so bad, but I wanted to carry through a deal like this just to show you I could, but I didn't.\n\nI'm a big kid now, but right now I feel like crying.\n\nI drove [dove?] the damn thing right on 50, can't understand it.\n\nIf you don't do anything else desk [check?] that oil from maybe"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter2-page1.png",
+      "transcription": "they unscrewed the drain plug at Roy Gordon's.\n\nI'll get back to camp on time but it won't mean a damn thing now.\n\nWell good-bye for now Dad\n\nI really very sorry\n\nJim"
+    }
+  ],
+  "full_transcription": "5 Feb. 1946\nBethany, Mo.,\n8:15 PM\n\nDear Pop,\n\nGot to write, I don't know quite why but I know I have really screwed the works up.\n\nIt wouldn't be so bad, but I wanted to carry through a deal like this just to show you I could, but I didn't.\n\nI'm a big kid now, but right now I feel like crying.\n\nI drove [dove?] the damn thing right on 50, can't understand it.\n\nIf you don't do anything else desk [check?] that oil from maybe they unscrewed the drain plug at Roy Gordon's.\n\nI'll get back to camp on time but it won't mean a damn thing now.\n\nWell good-bye for now Dad\n\nI really very sorry\n\nJim",
+  "summary": "Written on February 5, 1946 from Bethany, Missouri, this is a heartfelt and remorseful letter from Jim Hanifen Jr. to his father James (Pop/Dad). Jim confesses he has 'screwed the works up' — apparently related to a car incident on Route 50, possibly losing oil after the drain plug was left loose at a place called Gordon's. Despite being grown, Jim admits he feels like crying, having failed to prove himself capable of handling something independently. He notes he will make it back to camp on time but feels it no longer matters, and closes with a sincere apology."
+}

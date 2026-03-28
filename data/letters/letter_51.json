@@ -1,0 +1,55 @@
+{
+  "letter_id": "51",
+  "metadata": {
+    "from": "Bob Hanifen (Robert Hanifen) — signed 'Love Your Brother Bob'; return address 'Bob Hanifen, 3614 Noblold[?], Dallas 2, Texas'",
+    "to": "Cpl. John R. Hanifen — Bob's brother John, serving in Korea",
+    "date": "March 5, 1952",
+    "date_normalized": "1952-03-05",
+    "location_written_from": "Dallas, Texas",
+    "location_sent_to": "Cpl. John R. Hanifen 55046284, Co. C 439 Eng. Com. Bn, APO 301, c/o Post Master San Francisco, Calif.",
+    "postmark": "Dallas, Tex., Mar 6[?], 2 PM, 1952",
+    "envelope_notes": "Air Mail envelope. Return address: Bob Hanifen, 3614 Noblold[?] (street name partially obscured by redaction), Dallas 2, Texas. 3-cent US postage stamp. Letter addressed to Cpl. John R. Hanifen 55046284, Co. C 439 Eng. Com. Bn, APO 301, c/o Post Master San Francisco, Calif. 'oh' written in pencil above 'Air Mail' — possibly a notation. Right side of envelope torn.",
+    "topics": [
+      "family photos",
+      "Bob's job at Texaco",
+      "salary/wages",
+      "John's military service",
+      "encouraging John to make Sergeant",
+      "Bob's vacation plans",
+      "new Ford and Mercury cars",
+      "family cat",
+      "Christmas box",
+      "Jan (Bob's wife)"
+    ],
+    "people_mentioned": [
+      "John Hanifen",
+      "Jan (Bob's wife, referred to as 'High Again Jan' on stationery heading)",
+      "Bob (sender)",
+      "the old man (father, James Edward Hanifen Sr.)"
+    ],
+    "places_mentioned": [
+      "Dallas, Texas",
+      "San Francisco, California"
+    ],
+    "mood_tone": "Warm, casual, brotherly, upbeat and encouraging; lightly humorous",
+    "legibility": "fair",
+    "legibility_notes": "Some words difficult to read due to cursive style, ink bleed-through from the reverse side of page 2, and a partially obscured street name on the envelope. Page 2 top is partially cut off at left margin. Several words on page 1 require guessing (e.g. street name on envelope, 'rub out the' vs other reading).",
+    "historical_context": "John Hanifen is serving in the Korean War era military, assigned to an Engineer Combat Battalion via APO 301 (which routed through San Francisco, typical of Korea-era mail). The letter is dated March 1952, during the Korean War (1950–1953).",
+    "chronological_date": "1952-03-05",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter51.png",
+      "transcription": "March 5, 1952\n\nDear John,\n\n[Stationery heading reads: 'High Again / Jan' with a cocktail glass illustration]\n\nWe took a few pictures a couple of Sundays ago and thought you would like to see them. I have rub[bed] out the front half and you can sure see it in the picture. The lady next to me is Jan's mother. I now work for Texaco gasoline making $206.50 a month, not bad for a nut like me. I hear you are a Cpl and keep up the good work and get a Sgt. stripe so the old man can't say he was the only Sgt. in the family. Haven't heard too much from home. Guess it is because I don't write myself. I don't know what else could be the matter. Hope you are home by Christmas. I get my vacation around the 12th of Dec. and we could have a swell time. Those new Ford and Merc. are really swell looking cars. Sure wish I had one. We have a little cat and he sure has grown a lot. That"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter51_page1.png",
+      "transcription": "little [cat] tears up the house every day. Well John keep up the good work and get those Sgt. stripes for me. I will try and write more often. Write and tell me if you ever got your Christmas box\nfor Jan & me\n\nLove Your Brother\n    Bob"
+    }
+  ],
+  "full_transcription": "March 5, 1952\n\nDear John,\n\nWe took a few pictures a couple of Sundays ago and thought you would like to see them. I have rub[bed] out the front half and you can sure see it in the picture. The lady next to me is Jan's mother. I now work for Texaco gasoline making $206.50 a month, not bad for a nut like me. I hear you are a Cpl and keep up the good work and get a Sgt. stripe so the old man can't say he was the only Sgt. in the family. Haven't heard too much from home. Guess it is because I don't write myself. I don't know what else could be the matter. Hope you are home by Christmas. I get my vacation around the 12th of Dec. and we could have a swell time. Those new Ford and Merc. are really swell looking cars. Sure wish I had one. We have a little cat and he sure has grown a lot. That little [cat] tears up the house every day. Well John keep up the good work and get those Sgt. stripes for me. I will try and write more often. Write and tell me if you ever got your Christmas box for Jan & me\n\nLove Your Brother\n    Bob",
+  "summary": "Bob Hanifen writes from Dallas, Texas to his brother John, a Corporal serving in Korea with the 439th Engineer Combat Battalion. Bob shares family news — he has taken some photos, is working at Texaco earning $206.50 a month, and has a new pet cat — and encourages John to earn his Sergeant's stripes so their father won't be the only Sergeant in the family. Bob mentions hoping John will be home by Christmas and asks whether John ever received the Christmas package he and his wife Jan sent."
+}

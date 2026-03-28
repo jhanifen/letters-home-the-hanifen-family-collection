@@ -1,0 +1,62 @@
+{
+  "letter_id": "46",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Bob' at the end, writing from Fort Leavenworth, Kansas",
+    "to": "James Edward Hanifen Sr. (Dad) — addressed 'Dear Dad'",
+    "date": "April 15, 1945 (postmark)",
+    "date_normalized": "1945-04-15",
+    "location_written_from": "Fort Leavenworth, Kansas (Service Club stationery)",
+    "location_sent_to": "James E. Hanifen, 904 Leo Way, Des Moines, Iowa",
+    "postmark": "FORT LEAVENWORTH, APR 15, 11 AM, 1945, KANS.",
+    "envelope_notes": "Return address reads: Pvt. B.B. Hanifen, Army Air Corps, Leavenworth, Kans. Marked 'free' in upper right corner (military free frank). Written on Service Club stationery from Fort Leavenworth, Kansas.",
+    "topics": [
+      "army life at Fort Leavenworth",
+      "daily routine and schedule",
+      "shipping out to Texas",
+      "KP duty",
+      "gaining weight",
+      "tetanus shots",
+      "death of President Roosevelt",
+      "no dance due to president's death",
+      "Iowa draftees",
+      "asking about Jim (brother)",
+      "Service Club"
+    ],
+    "people_mentioned": [
+      "Dad (James Edward Hanifen Sr.)",
+      "Kay (possibly a family member or friend)",
+      "Jim (Jim Hanifen Jr., Bob's brother — Bob asks if Jim has shipped out yet)"
+    ],
+    "places_mentioned": [
+      "Fort Leavenworth, Kansas",
+      "Texas",
+      "Iowa",
+      "Des Moines"
+    ],
+    "mood_tone": "Casual, upbeat, and informative; Bob is making the best of army life, showing mild humor and affection toward his family. There is a note of solemnity regarding President Roosevelt's death.",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting is large and generally readable but quite cursive and rushed in places, making some words difficult to decipher. A few words required guessing.",
+    "historical_context": "Letter written April 15, 1945 — the day after President Franklin D. Roosevelt died (April 12, 1945). Bob mentions the president's death and a cancelled dance on account of it. He is at Fort Leavenworth preparing to ship out to Texas. World War II is still ongoing at this point.",
+    "chronological_date": "1945-04-15",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "envelope",
+      "source_file": "letter46.png",
+      "transcription": "Return address (upper left):\nPvt. B.B. Hanifen\nArmy Air Corps\nLeavenworth, Kans.\n\nUpper right: free\n\nPostmark: FORT LEAVENWORTH / APR 15 / 11 AM / 1945 / KANS.\n\nAddressed to:\nJames E. Hanifen\n904 Leo Way\nDes Moines, Iowa"
+    },
+    {
+      "page_label": "page1",
+      "source_file": "letter46_page1.png",
+      "transcription": "Dear Dad\n\nWell the army life is just what they it is, just what they make it. We get up at 4:30 in morning, mess around a while then do a little detail. All we did today was to up a few cigarette butts and sleep. I am at the Service Club it is a pretty nice place. Been to the show it was pretty good.\n\nWe ship on Mon. noon at 12:30 for Texas. It sound pretty good. Haven't got K.P. yet sure am thankful. Had to mop out a big building the other day it took us 3 hours about 30 of us [and] judge for yourself"
+    },
+    {
+      "page_label": "page2",
+      "source_file": "letter46_page2.png",
+      "transcription": "how big the place was.\n\nI have gained a little weight, about 5 pounds. Food is pretty good. I have tetanus shot weren't bad at all hurt for about 10 min and that was all. No dance tonight on account of the president's death, sure hated to hear about it. Boy they drafted about half of Iowa it seems. Every town here it seems is from the farms.\n\nHope everything is all right back at home. Has Jim shipped out yet hope he hasn't. Well it is about time to hit the sack so goodby for now. Say hello to Kay for me tell her I miss not being able to talk to her. Well so long for\nYour loving son\nBob"
+    }
+  ],
+  "full_transcription": "Dear Dad\n\nWell the army life is just what they it is, just what they make it. We get up at 4:30 in morning, mess around a while then do a little detail. All we did today was to up a few cigarette butts and sleep. I am at the Service Club it is a pretty nice place. Been to the show it was pretty good.\n\nWe ship on Mon. noon at 12:30 for Texas. It sound pretty good. Haven't got K.P. yet sure am thankful. Had to mop out a big building the other day it took us 3 hours about 30 of us [and] judge for yourself how big the place was.\n\nI have gained a little weight, about 5 pounds. Food is pretty good. I have tetanus shot weren't bad at all hurt for about 10 min and that was all. No dance tonight on account of the president's death, sure hated to hear about it. Boy they drafted about half of Iowa it seems. Every town here it seems is from the farms.\n\nHope everything is all right back at home. Has Jim shipped out yet hope he hasn't. Well it is about time to hit the sack so goodby for now. Say hello to Kay for me tell her I miss not being able to talk to her. Well so long for\nYour loving son\nBob",
+  "summary": "Written on April 15, 1945, from the Service Club at Fort Leavenworth, Kansas, Bob writes his father describing daily army life: early reveille, light duties, the Service Club, and a show. He mentions shipping out to Texas on Monday at 12:30, having avoided K.P. duty, gaining five pounds, and receiving tetanus shots. He notes the cancellation of a dance due to President Roosevelt's death and asks after his brother Jim, hoping he hasn't shipped out yet. The letter provides a vivid snapshot of a young soldier's life in the final months of World War II."
+}

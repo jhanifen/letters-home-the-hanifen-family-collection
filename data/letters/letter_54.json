@@ -1,0 +1,61 @@
+{
+  "letter_id": "54",
+  "metadata": {
+    "from": "Bob Hanifen (Pvt. Bob Hanifen, as written on envelope return address)",
+    "to": "Hanifen Body & Paint Co. (James Edward Hanifen Sr., father), Des Moines, Iowa",
+    "date": "Sun. 0130",
+    "date_normalized": "1945-06-24",
+    "location_written_from": "Service Club, Chanute Field, Illinois",
+    "location_sent_to": "Hanifen Body & Paint Co., 904 Leo Way, Des Moines, Iowa",
+    "postmark": "RANTOUL, ILL. JUN 25 10-AM 1945",
+    "envelope_notes": "Return address: Pvt. Bob Hanifen 17170600, Sqd. R-3502-BKS-604, AAF-Chanute Field, Ill. Stamp area appears torn. Marked 'Free' (military free mail).",
+    "topics": [
+      "military life",
+      "flight to St. Louis in C-47",
+      "school start date July 2",
+      "swimming",
+      "possible three-day pass",
+      "aircraft at Chanute Field",
+      "B-29 description",
+      "parachute checkout"
+    ],
+    "people_mentioned": [
+      "John Hover",
+      "Lt. (unnamed)",
+      "Colonel (unnamed)"
+    ],
+    "places_mentioned": [
+      "Chanute Field, Illinois",
+      "St. Louis",
+      "Des Moines"
+    ],
+    "mood_tone": "Upbeat, casual, and enthusiastic — Bob is excited about an impromptu flight to St. Louis in a C-47 and marvels at the large aircraft on the base. Lighthearted and conversational.",
+    "legibility": "good",
+    "legibility_notes": "Generally clear cursive throughout. A few words required close reading (e.g., 'monkeying' on page 2). Bleed-through from reverse side is visible but does not significantly impede reading.",
+    "historical_context": "Written near the end of WWII (June 1945, after V-E Day but before V-J Day). Bob is stationed at Chanute Field (AAF technical training base in Rantoul, Illinois) awaiting the start of school on July 2. He references large WWII aircraft including B-17, B-24, B-25, B-26, P-61, P-51, P-40, and B-29 bombers visible at the base.",
+    "date_estimated": "1945-06-24",
+    "date_estimated_confidence": "high",
+    "date_estimation_reasoning": "Letter is dated 'Sun. 0130' from Chanute Field. Bob says he is about to fly to St. Louis 'this afternoon' in a C-47. School starts July 2. This Sunday precedes the Letter 53 flight (Monday). The night-before-the-flight context and school starting date place this on approximately June 24, 1945 (Sunday before the June 25 flight). Consistent with the Chanute Field timeline and school start of July 2.",
+    "date_is_approximate": true,
+    "chronological_date": "1945-06-24"
+  },
+  "pages": [
+    {
+      "page_label": "envelope",
+      "source_file": "letter54.png",
+      "transcription": "RETURN ADDRESS:\nPvt. Bob Hanifen 17170600\nSqd. R – 3502 – BKS-604\nAAF – Chanute Field, Ill.\n\nPOSTMARK: RANTOUL, ILL. / JUN 25 / 10-AM / 1945\n\nSTAMP AREA: [torn; 'Free' notation visible]\n\nADDRESSED TO:\nHanifen Body & Paint Co.\n904 Leo Way\nDes Moines, Iowa"
+    },
+    {
+      "page_label": "page1",
+      "source_file": "letter54_page1.png",
+      "transcription": "• Service Club • Chanute Field, Illinois •\n\n                                                Sun. 0130\nDear Dad\n\n     Just got done eating chow — chicken it wasn't bad in fact pretty good. I am going to St. Louis this afternoon with a Lt. and John Hover in a C-47 transport. He was down on the line and asked him for a ride and he said okay. He is taking a Colonel's furniture to St. Louis. How do you like that stuff. I will tell you all about it later. We don't start school till July 2, and in the meantime all we do is try and keep out of doing work. Go swimming"
+    },
+    {
+      "page_label": "page2",
+      "source_file": "letter54_page2.png",
+      "transcription": "all day. Might get a three day if I work hard enough on the Capt. Might fly home so if one of these days I popped into the shop don't be too surprised. It is really a lot of monkeying around the hangar. They have a lot of B-17's, B-24 B-25, B-26, P-61, P-51, P-40, and B-29 and are those 29's ever big. Can't hardly believe. One would have to have a step ladder to get in the darn thing. Well dad goodbye for that Lt. won't wait all day and we have to check out a chute yet\n\n          Your Loving Son  Bob"
+    }
+  ],
+  "full_transcription": "• Service Club • Chanute Field, Illinois •\n\n                                                Sun. 0130\nDear Dad\n\n     Just got done eating chow — chicken it wasn't bad in fact pretty good. I am going to St. Louis this afternoon with a Lt. and John Hover in a C-47 transport. He was down on the line and asked him for a ride and he said okay. He is taking a Colonel's furniture to St. Louis. How do you like that stuff. I will tell you all about it later. We don't start school till July 2, and in the meantime all we do is try and keep out of doing work. Go swimming all day. Might get a three day if I work hard enough on the Capt. Might fly home so if one of these days I popped into the shop don't be too surprised. It is really a lot of monkeying around the hangar. They have a lot of B-17's, B-24 B-25, B-26, P-61, P-51, P-40, and B-29 and are those 29's ever big. Can't hardly believe. One would have to have a step ladder to get in the darn thing. Well dad goodbye for that Lt. won't wait all day and we have to check out a chute yet\n\n          Your Loving Son  Bob",
+  "summary": "Written late on a Sunday night (0130) from the Service Club at Chanute Field, Illinois, Bob tells his father he is about to fly to St. Louis in a C-47 transport with a Lieutenant and John Hover, who is transporting a Colonel's furniture. Bob notes that school doesn't start until July 2 and that in the meantime they fill the days swimming and avoiding work detail. He mentions the possibility of a three-day pass and potentially flying home for a surprise visit to the family shop. He marvels at the many WWII aircraft on the field — including B-17s, B-24s, B-25s, B-26s, P-61s, P-51s, P-40s, and especially the enormous B-29s — before signing off quickly because the Lt. is waiting and he still needs to check out a parachute."
+}

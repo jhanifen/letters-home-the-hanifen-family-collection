@@ -1,0 +1,65 @@
+{
+  "letter_id": "26",
+  "metadata": {
+    "from": "Lt. [Prowlite?/Rowbite?] USNR — the sender signs as 'Jon' and 'Limt. [Prowlite?] USNR'. The return address on the envelope reads 'Limt. [Porprite?/Prowbite?] USNR, USS Gen. C.G. Morton AP-138, c/o Fleet Post Office, San Francisco, Calif.' The first name signature appears to be 'Jon' or possibly 'Don'. Given context clues (mentions 'Donnie' as his wife), the sender is likely a Navy lieutenant whose last name is difficult to read — possibly 'Rowbite' or 'Prowlite' — writing to an old friend.",
+    "to": "Mr. James Hanifen, identified on envelope as recipient — likely James Edward Hanifen Sr. (the father), given the friendly but formal tone, mentions of favors extended, and that Donnie (sender's wife) is also known to the recipient. The letter is addressed to '904 Keo, Des Moines, Iowa.'",
+    "date": "21 June 45",
+    "date_normalized": "1945-06-21",
+    "location_written_from": "Aboard USS Gen. C.G. Morton AP-138, at sea (location undisclosed/secret)",
+    "location_sent_to": "904 Keo, Des Moines, Iowa",
+    "postmark": "U.S. JUN 4 1945",
+    "envelope_notes": "6-cent Air Mail stamp (red, US airplane design). Stamp 'PASSED BY NAVAL CENSOR' visible in lower left. Return address: Limt. [Prowlite?] USNR, USS Gen. C.G. Morton AP-138, c/o Fleet Post Office, San Francisco, Calif. Note: postmark date of June 4 precedes the letter's written date of June 21, which may indicate the postmark is from a different mailing or the envelope was pre-stamped.",
+    "topics": [
+      "gift of cigars sent to recipient",
+      "packages not reaching destination",
+      "wife Donnie living in San Francisco area",
+      "apartment at 336 Serrans Drive, Park Merced",
+      "trip to Australia and India",
+      "Melbourne rated as best liberty port",
+      "Calcutta rated as worst",
+      "Helen Mulligan mentioned",
+      "anticipation of return to civilian life",
+      "gratitude for favors"
+    ],
+    "people_mentioned": [
+      "Donnie (sender's wife)",
+      "Helen Mulligan",
+      "Jim (recipient, James Hanifen)"
+    ],
+    "places_mentioned": [
+      "San Francisco (Frisco)",
+      "336 Serrans Drive, Park Merced",
+      "New Caledonia",
+      "Australia",
+      "India",
+      "Melbourne",
+      "Calcutta",
+      "Des Moines"
+    ],
+    "mood_tone": "Warm, friendly, grateful, and upbeat despite wartime conditions; nostalgic for civilian life and eager to return home",
+    "legibility": "fair",
+    "legibility_notes": "Sender's last name on envelope and signature block is difficult to read — possibly 'Prowlite,' 'Rowbite,' or similar. The first name signature reads 'Jon' or 'Don.' Street name '336 Serrans Drive' may be 'Serrano' or similar. Some words require careful interpretation but overall the letter is readable.",
+    "historical_context": "Written during WWII, June 1945 (after V-E Day but before V-J Day). Sender is a U.S. Navy lieutenant aboard a troop transport (USS General C.G. Morton AP-138). References to secret current trip destination, prior trips to Australia and India, and naval censorship all reflect wartime conditions. Sender expresses desire to return to civilian life.",
+    "chronological_date": "1945-06-21",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "envelope",
+      "source_file": "letter26.png",
+      "transcription": "[Return address, upper left]\nLimt. [Prowlite?] USNR\nUSS Gen. C.G. Morton AP-138\nc/o Fleet Post Office\nSan Francisco, Calif.\n\n[Postmark, center]\nU.S.\nJUN\n4\n1945\n\n[Stamp, upper right]\n6 CENTS AIR MAIL — UNITED STATES OF AMERICA [red airplane design stamp]\n\n[Recipient address, lower center-right]\nMr. James Hanifen\n904 Keo\nDes Moines, Iowa\n\n[Censor stamp, lower left]\nPASSED BY NAVAL CENSOR [circular stamp with illegible central text]"
+    },
+    {
+      "page_label": "page 1",
+      "source_file": "letter26_page1.png",
+      "transcription": "Dear Jim:                                                    21 June 45\n     Just stopped in at our little ship's store in picked up a box of cigars for you which I'll send on at the next port of call.\n     We've had some trouble with packages not reaching their destination so will insure this one in see if it helps any. Sent you some cigars from New Caledonia around X mas time, but perhaps like alot of the things we send they never got there.\n     Anyway the cigars are from Donnie & me in I hope you enjoy each & every one as much as we have appreciated the many favors you have extended us.\n     Donnie is in Frisco where we are now living at 336 Serrans Drive, Park Merced. We have a very lovely apartment there & both like it very much. The only trouble is I don't get to see enough of it. Donnie is fine as always in always waiting my return from each trip.\n     The last time in, the latter part of April, we had Helen Mulligan"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter26_page2.png",
+      "transcription": "- 2 -\n\nout for dinner one evening 'n had a wonderful visit. Helen is with Fireman's Fund Ins. Co. in Frisco\n     Our last trip, prior to this one as this is still secret, was to Australia & India a three and a half month jaunt, but interesting. We found Melbourne, Australia is the number one liberty port, and Calcutta, India the worst hole in the universe -- yet lots of sightseeing in spite of the filth.\n     Now be sure & tell all \"Hello\" in I'm anxious to return to Des Moines and civilian life. Write when you have a chance in the best of everything to you & yours.\n\n                                             Sincerely,\n                                                 Jon\n\nLimt. [Prowlite?] USNR"
+    }
+  ],
+  "full_transcription": "Dear Jim:                                                    21 June 45\n     Just stopped in at our little ship's store in picked up a box of cigars for you which I'll send on at the next port of call.\n     We've had some trouble with packages not reaching their destination so will insure this one in see if it helps any. Sent you some cigars from New Caledonia around X mas time, but perhaps like alot of the things we send they never got there.\n     Anyway the cigars are from Donnie & me in I hope you enjoy each & every one as much as we have appreciated the many favors you have extended us.\n     Donnie is in Frisco where we are now living at 336 Serrans Drive, Park Merced. We have a very lovely apartment there & both like it very much. The only trouble is I don't get to see enough of it. Donnie is fine as always in always waiting my return from each trip.\n     The last time in, the latter part of April, we had Helen Mulligan out for dinner one evening 'n had a wonderful visit. Helen is with Fireman's Fund Ins. Co. in Frisco\n     Our last trip, prior to this one as this is still secret, was to Australia & India a three and a half month jaunt, but interesting. We found Melbourne, Australia is the number one liberty port, and Calcutta, India the worst hole in the universe -- yet lots of sightseeing in spite of the filth.\n     Now be sure & tell all \"Hello\" in I'm anxious to return to Des Moines and civilian life. Write when you have a chance in the best of everything to you & yours.\n\n                                             Sincerely,\n                                                 Jon\n\nLimt. [Prowlite?] USNR",
+  "summary": "A U.S. Navy lieutenant (last name unclear, signing as 'Jon') aboard the USS Gen. C.G. Morton AP-138 writes to James Hanifen in Des Moines in June 1945, sending a box of cigars as a gift of gratitude for past favors. He shares that his wife Donnie is living in their apartment in Park Merced, San Francisco, and that their previous trip took them to Australia and India — praising Melbourne as the best liberty port and condemning Calcutta as the worst. He closes by expressing eagerness to return to Des Moines and civilian life, suggesting a pre-war connection to the Hanifen family."
+}

@@ -1,0 +1,59 @@
+{
+  "letter_id": "23",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Bob', return address matches Cpl. Robert Hanifen on envelope",
+    "to": "Hanifen Body & Paint Co. (Dad/James Edward Hanifen Sr.), Des Moines, Iowa",
+    "date": "Jan. 29",
+    "date_normalized": "1946-01-29",
+    "location_written_from": "Greensboro, N.C. (331 North Elm Street — appears to be a telephone company/Bell System letterhead)",
+    "location_sent_to": "Hanifen Body & Paint Co., P.O. Box [illegible], Des Moines, Iowa",
+    "postmark": "GREENSBORO, N.C., JAN 18, 3 PM, 1946",
+    "envelope_notes": "Return address: Cpl. Robert Hanifen, #17170600, Squadron 'O' Branch #2, HAFORD [possibly AAFRD?], Greensboro, N.C. Stamp area marked 'Null' with what appears to be a 'Free' franking notation. Note: postmark date (Jan 18) appears to conflict with letter date (Jan 29) — possibly the envelope was reused or the letter date is in error.",
+    "topics": [
+      "departure from Greensboro",
+      "Camp Kilmer New Jersey",
+      "shipping out overseas",
+      "destination Naples Italy",
+      "troop transport",
+      "Don Pilant going to Germany",
+      "redistribution of troops",
+      "farewell letter"
+    ],
+    "people_mentioned": [
+      "Don Pilant"
+    ],
+    "places_mentioned": [
+      "Greensboro N.C.",
+      "Camp Kilmer N.J.",
+      "New York City",
+      "Naples Italy",
+      "Germany",
+      "Hamburg"
+    ],
+    "mood_tone": "Upbeat and matter-of-fact, with a sense of excitement and urgency; a farewell tone as Bob is shipping out overseas",
+    "legibility": "fair",
+    "legibility_notes": "Heavy folding creases obscure some words; ink bleed-through from reverse side visible on page 2; some words difficult to parse due to cursive style. Postmark date (Jan 18) conflicts with letter date (Jan 29) — may indicate the envelope was pre-dated or reused.",
+    "historical_context": "Post-WWII troop redistribution and deployment; Bob is shipping out from Camp Kilmer, NJ (a major WWII embarkation point) to Naples, Italy, likely as part of post-war occupation forces. Reference to troops being sent to Germany (Hamburg) for occupation duty. The letter reflects the large-scale movement of American forces in early 1946.",
+    "chronological_date": "1946-01-29",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "envelope",
+      "source_file": "letter23.png",
+      "transcription": "[Return address - upper left, in reddish/brown ink]\nCpl. Robert Hanifen #17170600\nSqadron 'O' Branch #2\nHAFORD\nGreensboro, N.C.\n\n[Postmark - center]\nGREENSBORO\nJAN 18\n3 PM\n1946\nN.C.\n\n[Stamp area - upper right]\nNull [franking notation]\n\n[Addressee - center, in black ink]\nHanifen Body & Paint Co.\nP.O. Box [illegible]\nDes Moines\nIowa"
+    },
+    {
+      "page_label": "page 1",
+      "source_file": "letter23_page1.png",
+      "transcription": "[Letterhead: 331 NORTH ELM STREET — telephone center — GREENSBORO, N. C. (Bell System logo)]\n\nJan. 29\n\nDear Dad\n\nWe are finally leaving Greensboro. We leave at 8:30 PM the 29 for Camp Kilmer N.J. ersey, it is just 30 min. out of New York City. Hope we get a pass we are supposed to be there 48 hours. 23 hundred of us on the boat. We are going Naples, Italy. Not too bad. Don Pilant is going Germany probably Hamburg. Wish I was going there. We will probably go into Germany somewhere"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter23_page2.png",
+      "transcription": "after a while. Naples is for redistribution to different areas. I received the 26 Saturday they had everything mixed up. I will [write?] you from Camp Kilmer if I can. Well I got to run now. So goodby for now\n\nLots of Love\nBob"
+    }
+  ],
+  "full_transcription": "Jan. 29\n\nDear Dad\n\nWe are finally leaving Greensboro. We leave at 8:30 PM the 29 for Camp Kilmer N.J. ersey, it is just 30 min. out of New York City. Hope we get a pass we are supposed to be there 48 hours. 23 hundred of us on the boat. We are going Naples, Italy. Not too bad. Don Pilant is going Germany probably Hamburg. Wish I was going there. We will probably go into Germany somewhere after a while. Naples is for redistribution to different areas. I received the 26 Saturday they had everything mixed up. I will [write?] you from Camp Kilmer if I can. Well I got to run now. So goodby for now\n\nLots of Love\nBob",
+  "summary": "Written January 29, 1946, Bob informs his father that he is finally leaving Greensboro, North Carolina, heading to Camp Kilmer, New Jersey — a major embarkation point just outside New York City — before shipping out overseas with 2,300 fellow soldiers. His destination is Naples, Italy, which he describes as a redistribution point before likely being sent into Germany. He mentions that his comrade Don Pilant is heading directly to Germany, possibly Hamburg, and Bob wishes he were going there instead. The letter is a brief, rushed farewell written just before departure."
+}

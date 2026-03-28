@@ -1,0 +1,60 @@
+{
+  "letter_id": "48",
+  "metadata": {
+    "from": "Bob Hanifen — confirmed by return address 'Pvt. Bob Hanifen' on envelope and signature 'Bob' at end of letter",
+    "to": "Edith — addressed as 'Dear Edith' in the letter; likely Edith at Hanifen Body & Paint Co., 904 Leo Way, Des Moines, Iowa (possibly his mother or a family member managing the business)",
+    "date": "May 15, 1946",
+    "date_normalized": "1946-05-15",
+    "location_written_from": "Sheppard Field, Texas (AAF B-TC-BKS-602, SQ-I-3706 ABU)",
+    "location_sent_to": "Hanifen Body & Paint Co., 904 Leo Way, Des Moines, Iowa",
+    "postmark": "Wichita Falls, Texas, May 15, 1946, 10:30 AM",
+    "envelope_notes": "Marked 'Free' — military free mail. Return address: Pvt. Bob Hanifen, SQ-I-3706 ABU, AAF B-TC-BKS-602, Sheppard Field, Texas.",
+    "topics": [
+      "military training at Sheppard Field",
+      "Kansas weather (tornado/storm passing through Oklahoma)",
+      "gas chamber training exercise",
+      "service club activities",
+      "bowling alley on base",
+      "theater on base",
+      "weight gain (4 pounds)",
+      "daily marching / physical training",
+      "KP duty on Sunday night",
+      "pay day",
+      "scarcity of women in Texas",
+      "upcoming furlough (18 days, end of August)",
+      "gunnery school"
+    ],
+    "people_mentioned": [
+      "Edith"
+    ],
+    "places_mentioned": [
+      "Sheppard Field",
+      "Texas",
+      "Kansas",
+      "Oklahoma",
+      "Des Moines",
+      "Iowa",
+      "Wichita Falls"
+    ],
+    "mood_tone": "Upbeat, conversational, and good-humored; Bob is cheerful despite the rigors of military training, joking about the weather, gas chamber exercises, and the lack of women in Texas",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting is generally readable but some words are difficult due to cursive style and faded ink; some words on page 2 are partially obscured by the fold line. A few words required guessing (e.g., 'KP', 'gunnery school').",
+    "historical_context": "Post-WWII military training, 1946. Bob is stationed at Sheppard Field, a major Army Air Forces training base in Texas. References to gas chamber training are consistent with standard military basic training procedures of the era. The letter mentions gunnery school, suggesting advanced military training. The war has ended but Bob remains on active duty.",
+    "chronological_date": "1946-05-15",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter48.png",
+      "transcription": "Dear Edith\n\nSure glad to hear from you. Hope you are enjoying your little vacation. Texas is sure a funny state one day you walk on it and the next you walk thru it. Oklahoma passes about 11:00 and returns about 9:00 the sky looked red at a distance. It was sure hot today and did my face ever get sun burned. We went thru the Gas Chamber and took off our masks so we would be convinced that they worked and did that tear gas Ever work. My eyes voted for remain and did my face burn. Went to show tonight and right now I am at the service Club. That is all there is to do around here, they have two bowling alley but they are alway full up. The show was pretty they have 3 theatres and boy do they ever"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter48_page1.png",
+      "transcription": "packed them full. I have about 4 pound here no wonder I walked on the average of 10 mile a day. boy do my legs get tired at times Especially after P.T. I drew K.P. on Sunday night at 2:50 to 3 in the morning but I get all day mon. off not too bad. Mon. is pay and we get payed. I nie [illegible] so fast around here, haven't but one or two women in texas and they are always with somebody, what a life. I should make the rounds more after when I am home but it always take me a few day to get rolling. With me when I am home next. We should a 18 day furlough around the end of August after we finished Gunnery school. Well sweetheart goodbye for now.\n\nLoving you as allways\nBob"
+    }
+  ],
+  "full_transcription": "Dear Edith\n\nSure glad to hear from you. Hope you are enjoying your little vacation. Texas is sure a funny state one day you walk on it and the next you walk thru it. Oklahoma passes about 11:00 and returns about 9:00 the sky looked red at a distance. It was sure hot today and did my face ever get sun burned. We went thru the Gas Chamber and took off our masks so we would be convinced that they worked and did that tear gas Ever work. My eyes voted for remain and did my face burn. Went to show tonight and right now I am at the service Club. That is all there is to do around here, they have two bowling alley but they are alway full up. The show was pretty they have 3 theatres and boy do they ever packed them full. I have about 4 pound here no wonder I walked on the average of 10 mile a day. boy do my legs get tired at times Especially after P.T. I drew K.P. on Sunday night at 2:50 to 3 in the morning but I get all day mon. off not too bad. Mon. is pay and we get payed. I nie [illegible] so fast around here, haven't but one or two women in texas and they are always with somebody, what a life. I should make the rounds more after when I am home but it always take me a few day to get rolling. With me when I am home next. We should a 18 day furlough around the end of August after we finished Gunnery school. Well sweetheart goodbye for now.\n\nLoving you as allways\nBob",
+  "summary": "Bob Hanifen writes from Sheppard Field, Texas in May 1946, describing life at the military base to Edith. He recounts a dramatic Oklahoma storm visible from Texas, a tear gas chamber training exercise that left his eyes watering and his face burning, and the limited entertainment options on base (bowling alleys and theaters always packed). He mentions gaining 4 pounds despite walking 10 miles a day, pulling KP duty late Sunday night, and humorously lamenting the scarcity of available women in Texas. He closes by mentioning an anticipated 18-day furlough at the end of August after completing gunnery school."
+}

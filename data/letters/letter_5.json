@@ -1,0 +1,67 @@
+{
+  "letter_id": "5",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Bobby,' return address shows 'Pvt. Bob Hanifen 17170600, Sqd. T - B55-249, Chanute Fld. Ill.'",
+    "to": "Dad (James Edward Hanifen Sr.) — addressed to Hanifen Body & Paint Co., 984 Keo Way, Des Moines, Iowa",
+    "date": "Thur. 9/00 — likely Thursday, July 1945 based on postmark",
+    "date_normalized": "1945-07-12",
+    "location_written_from": "Chanute Field, Illinois (Rantoul, IL area)",
+    "location_sent_to": "Hanifen Body & Paint Co., 984 Keo Way, Des Moines, Iowa",
+    "postmark": "Rantoul, Ill. JUL 14, 11-PM, 1945",
+    "envelope_notes": "Marked 'Free' (military free franking privilege). Return address: Pvt. Bob Hanifen 17170600, Sqd. T - B55-249, Chanute Fld. Ill. Back of envelope has penciled arithmetic/numerical calculations, possibly done by the recipient.",
+    "topics": [
+      "military training at Chanute Field",
+      "courses cut short",
+      "shop training — soldering, riveting, sheet metal",
+      "aircraft repair training",
+      "B-29 bombers",
+      "weekend trip to Chicago",
+      "toothache",
+      "possible 15-day delay en route home",
+      "mention of oil well",
+      "family business inquiry",
+      "possibly seeing brother Jimmy on an island"
+    ],
+    "people_mentioned": [
+      "Dad (James Edward Hanifen Sr.)",
+      "Aunt Violet",
+      "Jimmy (Jim Hanifen Jr., Bob's brother)"
+    ],
+    "places_mentioned": [
+      "Chanute Field, Illinois",
+      "Chicago",
+      "Des Moines, Iowa",
+      "an island (Pacific theater implied)"
+    ],
+    "mood_tone": "Casual, upbeat but slightly weary; mentions toothache and being hungry; optimistic about training and possible leave.",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting is cursive and flows quickly; some words required interpretation. 'Thur. 9/00' at top may indicate the time (9:00) rather than a date. 'McCay' is likely 'McCoy' or an aircraft designation. Some words on page 2 partially obscured by age staining.",
+    "historical_context": "Written during WWII, July 1945. Bob is in military technical training at Chanute Field, Illinois, learning aircraft repair. He mentions B-29 bombers, which were the primary strategic bombers in the Pacific theater at the time. He hints at needing 5,000 men by January, suggesting rapid wartime training demands. The reference to possibly seeing Jimmy 'on an island' likely refers to Pacific island operations.",
+    "chronological_date": "1945-07-12",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "envelope (front)",
+      "source_file": "letter5.jpg",
+      "transcription": "[Return address, upper left:]\nPvt. Bob Hanifen 17170600\nSqd. T – B55-249\nChanute Fld. Ill.\n\n[Postmark:] Rantoul, Ill. / JUL 14 / 11-PM / 1945\n\n[Upper right:] Free\n\n[Recipient address, center:]\nHanifen Body & Paint Co.\n984 Keo Way\nDes Moines, Iowa"
+    },
+    {
+      "page_label": "envelope (back)",
+      "source_file": "letter5-page1.png",
+      "transcription": "[Back of envelope contains penciled arithmetic calculations arranged in columns — appears to be numerical tallies or accounts, possibly done by the recipient (father). Numbers are partially legible and rotated; exact values unclear due to orientation and staining. Sample figures visible include: 5, 6, 8, 4, 3 / 3, 8, 8 / n/2- / 8/3- and lower section: 6, 2, 10, 6, 3, 16, 3, 13 / 2, 9, 0, 8, 5 / etc. Not fully transcribable due to rotation and damage.]"
+    },
+    {
+      "page_label": "page 1",
+      "source_file": "letter5-page2.png",
+      "transcription": "Thur. 9[:]00\n\nDear Dad\n    I am in school right now and not doing much so I thought I would write a line or two. My teeth have been hurting like hell but I suppose I will get over it pretty soon I hope. They have cut our classes here again about a week. We starting work now in the shop learning how to solder, rivet, shape metal. 15 days of it. They cut it down 3 days. 4 weeks after that on aircraft repair the real McCay [McCoy?] and 4 weeks of structural repairs and that all. We are on a rush order they say. They need 5000 guys by the Jan. I guess. Hope we still get a 15 day delay en route. Probably won't though. I am going to Chicago this weekend if everything goes alright."
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter5-back.jpg",
+      "transcription": "say I never got any letter from Aunt Violet yet. Wonder what happen to it. I might come home in about 2 weeks or so. It all depends on how things work out. I am starving to death can't eat very much. But I sure do try. Those B-29s we are big we start working on them in about 2 weeks. Boy that will be a lot of fun. Might see Jimmy one of these days on a Island. Never can tell. Hope business is still good. By the way how is the oil wells coming along. Good I hope. Well time to start working again..\n\nGoodby for now.\n            Love\n                Bobby"
+    }
+  ],
+  "full_transcription": "Thur. 9[:]00\n\nDear Dad\n    I am in school right now and not doing much so I thought I would write a line or two. My teeth have been hurting like hell but I suppose I will get over it pretty soon I hope. They have cut our classes here again about a week. We starting work now in the shop learning how to solder, rivet, shape metal. 15 days of it. They cut it down 3 days. 4 weeks after that on aircraft repair the real McCay [McCoy?] and 4 weeks of structural repairs and that all. We are on a rush order they say. They need 5000 guys by the Jan. I guess. Hope we still get a 15 day delay en route. Probably won't though. I am going to Chicago this weekend if everything goes alright.\n\nsay I never got any letter from Aunt Violet yet. Wonder what happen to it. I might come home in about 2 weeks or so. It all depends on how things work out. I am starving to death can't eat very much. But I sure do try. Those B-29s we are big we start working on them in about 2 weeks. Boy that will be a lot of fun. Might see Jimmy one of these days on a Island. Never can tell. Hope business is still good. By the way how is the oil wells coming along. Good I hope. Well time to start working again..\n\nGoodby for now.\n            Love\n                Bobby",
+  "summary": "Written in July 1945 from Chanute Field, Illinois, this letter from Bob (Bobby) Hanifen to his father describes his military technical training in aircraft repair — including soldering, riveting, and sheet metal work — and the compressed training schedule driven by wartime demand for 5,000 trained men. Bob mentions personal discomforts (a bad toothache, not eating well), plans for a Chicago weekend trip, the possibility of a 15-day leave en route home, and curiosity about the family business and an oil well. He also muses that he might see his brother Jimmy on a Pacific island, reflecting the wartime dispersal of the family."
+}

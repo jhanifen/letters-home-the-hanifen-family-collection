@@ -1,0 +1,54 @@
+{
+  "letter_id": "35",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Bobby,' return address shows 'Pvt. Bob Hanifen 17106[illegible]'",
+    "to": "James Edward Hanifen Sr. (Dad) — addressed to Hanifen Body & Paint Co.",
+    "date": null,
+    "date_normalized": "1945-07-11",
+    "location_written_from": "Chanute Field, Illinois (Rantoul, IL postmark)",
+    "location_sent_to": "Hanifen Body & Paint Co., 934 Keo Way, Des Moines, Iowa",
+    "postmark": "RANTOUL, ILL. / JUL 11 / 11-PM / '45",
+    "envelope_notes": "Return address: Pvt. Bob Hanifen 1710600[?], Sqd. T-BKS-249, Chanute Fld. Ill. Marked 'Free' (military free postage). Envelope is worn and torn on one edge.",
+    "topics": [
+      "dental visit",
+      "wisdom teeth extraction",
+      "swelling",
+      "military school/training",
+      "bullet hole repair",
+      "headaches"
+    ],
+    "people_mentioned": [
+      "Dad"
+    ],
+    "places_mentioned": [
+      "Chanute Field",
+      "Rantoul",
+      "Illinois"
+    ],
+    "mood_tone": "Casual and slightly dramatic; Bob recounts his dental experience with humor and some anxiety, then updates his father on his military training.",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting is generally readable but some words are difficult — 'Plepiclas' on page 3 is unclear (possibly 'Plexiglas'). Some staining on page 1 partially obscures text. The word 'Intra' (extra?) is ambiguous.",
+    "historical_context": "Written July 1945 during WWII. Bob is stationed at Chanute Field, Illinois (a major Army Air Forces technical training base). He is learning aircraft repair skills including fixing bullet holes, consistent with wartime aviation mechanic training.",
+    "chronological_date": "1945-07-11",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "page1",
+      "source_file": "letter35.jpg",
+      "transcription": "Dear Dad\n\nWell got another brainstorm today an decided to go to the Dentist. I went at 1300 and sat down in the waiting room. In about 6 min. Called me in and looked over my teeth. Said take an X-ray of his wisdom teeth and that Intra [extra?] tooth I got. The picture show their [illegible] the wisdom tooth was pushing in side way on the other tooth. In another had me in another room. The Doc"
+    },
+    {
+      "page_label": "page2",
+      "source_file": "letter35_page1.png",
+      "transcription": "was an expert tooth puller. He numbed the gum got a knife, tooth pullers, chisels, everything you can think of. He really to went in about 20 min of cutting, chiseling, pulling he had it out and the Intra [extra?] one on top of that. You should see me all swelled up on one side. Come back tomorrow for a check and I will pull the other one in about 10 days, because the other wisdom tooth is doing the same thing. Boy I really stepped in it. It didn't hurt too bad, but it sure scared Hell out of me."
+    },
+    {
+      "page_label": "page3",
+      "source_file": "letter35_page2.png",
+      "transcription": "Have to go to school tonight at 7:00 so I hope it don't hurt too much. We are Plepiclas [Plexiglas?] now. Learning how to repair bullet holes and all that kind of stuff. Not too hard. Only hope now I can eat tonight. That what has been causing my head to ache lately.\n\nWell goodbye for now.\nYour Loving Son\n\nBobby"
+    }
+  ],
+  "full_transcription": "Dear Dad\n\nWell got another brainstorm today an decided to go to the Dentist. I went at 1300 and sat down in the waiting room. In about 6 min. Called me in and looked over my teeth. Said take an X-ray of his wisdom teeth and that Intra [extra?] tooth I got. The picture show their [illegible] the wisdom tooth was pushing in side way on the other tooth. In another had me in another room. The Doc was an expert tooth puller. He numbed the gum got a knife, tooth pullers, chisels, everything you can think of. He really to went in about 20 min of cutting, chiseling, pulling he had it out and the Intra [extra?] one on top of that. You should see me all swelled up on one side. Come back tomorrow for a check and I will pull the other one in about 10 days, because the other wisdom tooth is doing the same thing. Boy I really stepped in it. It didn't hurt too bad, but it sure scared Hell out of me.\n\nHave to go to school tonight at 7:00 so I hope it don't hurt too much. We are Plepiclas [Plexiglas?] now. Learning how to repair bullet holes and all that kind of stuff. Not too hard. Only hope now I can eat tonight. That what has been causing my head to ache lately.\n\nWell goodbye for now.\nYour Loving Son\n\nBobby",
+  "summary": "Written from Chanute Field, Illinois in July 1945, Bob (Bobby) Hanifen writes to his father about an eventful trip to the dentist, where he had an impacted wisdom tooth and an extra tooth surgically removed. He describes the procedure with vivid detail — numbing, cutting, chiseling, and pulling — and notes he is left with one side of his face swollen, with another wisdom tooth to be pulled in about 10 days. He also briefly mentions his military technical training, noting they are now studying Plexiglas repair and learning how to fix bullet holes in aircraft."
+}

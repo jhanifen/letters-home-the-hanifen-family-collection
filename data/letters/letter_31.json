@@ -1,0 +1,43 @@
+{
+  "letter_id": "31",
+  "metadata": {
+    "from": "Bob Hanifen — return address reads 'Bob Hanifen' with military unit details at Sheppard Field, Texas",
+    "to": "Hanifen Body & Paint Co., Des Moines, Iowa",
+    "date": null,
+    "date_normalized": "1945-06-10",
+    "location_written_from": "Sheppard Field, Texas",
+    "location_sent_to": "Hanifen Body & Paint Co., 704 Keo Way, Des Moines, Iowa",
+    "postmark": "Wichita Falls, Texas, JUN 10, 2:30 PM, 1945",
+    "envelope_notes": "Return address reads: 'Bob Hanifen 17MO600 / Sqd. I-3706-A30 / AAF-BAS-B05 / Sheppard Fld Texas'. Pink stamp: 'POSTAGE DUE 2 CENTS'. A 2-cent postage due stamp (red, United States) is affixed on the right side. An airmail stamp is partially visible upper right, torn. Handwritten '103' near center. Letter addressed in cursive to 'Hanifen Body & Paint Co., 704 Keo Way, Des Moines Iowa'.",
+    "topics": [
+      "military mail",
+      "postage due",
+      "Sheppard Field",
+      "family business"
+    ],
+    "people_mentioned": [
+      "Bob Hanifen"
+    ],
+    "places_mentioned": [
+      "Sheppard Field, Texas",
+      "Wichita Falls, Texas",
+      "Des Moines, Iowa",
+      "704 Keo Way"
+    ],
+    "mood_tone": "neutral/administrative — envelope only",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting on return address is somewhat cramped; unit designations partially legible. Cursive address is flowing but readable. Postmark partially obscured.",
+    "historical_context": "June 1945 — WWII still ongoing (V-E Day was May 8, 1945; war with Japan continuing). Bob is stationed at Sheppard Field, an AAF training base in Texas.",
+    "chronological_date": "1945-06-10",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "envelope",
+      "source_file": "letter31.png",
+      "transcription": "RETURN ADDRESS (upper left, printed/handwritten):\nBob Hanifen 17MO600\nSqd. I-3706-A30\nAAF-BAS-B05\nSheppard Fld Texas\n\nPOSTMARK:\nWichita Falls [Texas], JUN 10, 2:30 PM, 1945\n\nSTAMP NOTATION (pink ink, center):\nPOSTAGE DUE 2 CENTS\n\nADDRESSED TO (center/right, cursive):\nHanifen Body & Paint Co.\n704 Keo Way\nDes Moines Iowa\n\nOTHER:\nHandwritten '103' near top center.\n2-cent postage due stamp affixed lower right.\nAirmail stamp (partially torn) upper right."
+    }
+  ],
+  "full_transcription": "RETURN ADDRESS (upper left, printed/handwritten):\nBob Hanifen 17MO600\nSqd. I-3706-A30\nAAF-BAS-B05\nSheppard Fld Texas\n\nPOSTMARK:\nWichita Falls [Texas], JUN 10, 2:30 PM, 1945\n\nSTAMP NOTATION (pink ink, center):\nPOSTAGE DUE 2 CENTS\n\nADDRESSED TO (center/right, cursive):\nHanifen Body & Paint Co.\n704 Keo Way\nDes Moines Iowa\n\nOTHER:\nHandwritten '103' near top center.\n2-cent postage due stamp affixed lower right.\nAirmail stamp (partially torn) upper right.",
+  "summary": "This is the envelope for letter 31, sent by Bob Hanifen from Sheppard Field, Texas (an Army Air Forces base) to the Hanifen Body & Paint Co. at 704 Keo Way, Des Moines, Iowa, postmarked June 10, 1945. The envelope was assessed a 2-cent postage due charge, evidenced by both a pink rubber stamp and an affixed postage due stamp. No letter pages were provided — only the envelope image."
+}

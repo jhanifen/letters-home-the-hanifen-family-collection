@@ -1,0 +1,52 @@
+{
+  "letter_id": "66",
+  "metadata": {
+    "from": "Bob Hanifen — written on University of Wyoming 'Cowboy Joe' letterhead, describing college life as a student heading toward sophomore status",
+    "to": "Dad (James Edward Hanifen Sr.)",
+    "date": null,
+    "date_normalized": "1943-12",
+    "location_written_from": "University of Wyoming, Laramie",
+    "location_sent_to": null,
+    "postmark": null,
+    "envelope_notes": null,
+    "topics": [
+      "college life at University of Wyoming",
+      "meeting a girl named Jigger McClare",
+      "needing money for Christmas",
+      "upcoming semester break and return date (Jan. 8)",
+      "becoming a sophomore next semester",
+      "unit dance on Saturday",
+      "Christmas present from Beverly Ratcliffe in Des Moines",
+      "letter received from Jim",
+      "sympathy about uncle/relative"
+    ],
+    "people_mentioned": [
+      "Jigger McClare",
+      "Kay",
+      "Beverly Ratcliffe",
+      "Jim (likely Jim Jr., Bob's brother, based on context)"
+    ],
+    "places_mentioned": [
+      "Laramie (University of Wyoming)",
+      "Des Moines"
+    ],
+    "mood_tone": "Casual, upbeat, conversational; slightly homesick but generally lighthearted",
+    "legibility": "poor",
+    "legibility_notes": "Page is heavily worn, torn along edges, stained, and faded in multiple areas. Several words and phrases are partially or fully illegible, particularly at the beginning of lines where paper is torn or at the bottom of the page.",
+    "historical_context": null,
+    "date_estimated": "1943-12",
+    "date_estimated_confidence": "low",
+    "date_estimation_reasoning": "Bob writes from University of Wyoming about needing money for Christmas cards, returning January 8, meeting Jigger McClare, becoming a sophomore next term, a Christmas present from Beverly Ratcliffe of Des Moines, and condolences about an uncle. The return date of January 8 is consistent with post-Christmas semester break. The mention of becoming a sophomore 'when the next term ends' suggests he is in an earlier semester than Letter 65 (where he has 51 credit hours toward sophomore). This letter appears to be from just before Christmas break, likely December 1943 or possibly December 1944. Given that the summer 1944 ASTP letters clearly exist and this letter has a different, more collegiate (non-ASTP) tone with no military training references, December 1943 seems more likely — before the ASTP phase. Low confidence due to significant letter damage and illegibility.",
+    "date_is_approximate": true,
+    "chronological_date": "1943-12"
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter66_page1.png",
+      "transcription": "Dad\n\nNot much going on around here. [Last?] week is over and I never did very [well?]. The A.S.U. [band?] put on a open house for the [seminary?] room and I met a new [girl] — her name is Jigger McClare. She is just a little taller than Kay. I could use a little money. I will have to send some Christmas [cards?] and all that stuff. I come back to school [we are] to be back Jan. 8. But I will be [almost a] Sophomore when the next [term?] ends. The Unit is having a dance this Sat. so I should have a pretty nice time. I got a Christmas present from [a girl?] in Des Moines named Beverly Ratcliffe [I] just barely know her. Sorry to hear about [un]cle [Dan?]. Got [a] letter from Jim [Jr.?] and [he is] having a pretty easy life at [H— ?]\n[illegible line(s) at bottom]"
+    }
+  ],
+  "full_transcription": "Dad\n\nNot much going on around here. [Last?] week is over and I never did very [well?]. The A.S.U. [band?] put on a open house for the [seminary?] room and I met a new [girl] — her name is Jigger McClare. She is just a little taller than Kay. I could use a little money. I will have to send some Christmas [cards?] and all that stuff. I come back to school [we are] to be back Jan. 8. But I will be [almost a] Sophomore when the next [term?] ends. The Unit is having a dance this Sat. so I should have a pretty nice time. I got a Christmas present from [a girl?] in Des Moines named Beverly Ratcliffe [I] just barely know her. Sorry to hear about [un]cle [Dan?]. Got [a] letter from Jim [Jr.?] and [he is] having a pretty easy life at [H— ?]\n[illegible line(s) at bottom]",
+  "summary": "Bob writes to his father from the University of Wyoming in Laramie, reporting on college life near the holiday break. He mentions meeting a girl named Jigger McClare, asking for money for Christmas expenses, and notes that classes resume January 8th and that he will be a sophomore after the next term. He also mentions receiving an unexpected Christmas present from Beverly Ratcliffe of Des Moines, expresses condolences about a relative ('uncle Dan'?), and references a letter from Jim describing an easy life. The letter is significantly damaged and partially illegible."
+}

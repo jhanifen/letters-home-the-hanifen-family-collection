@@ -1,0 +1,62 @@
+{
+  "letter_id": "59",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Bob', return address 'Cpl. Bob', serial number 19170600, BRS 249, Indianapolis, Ill.",
+    "to": "Hanifen Body & Paint Co., 954 Keo Way, Des Moines, Iowa (James Edward Hanifen Sr., his father)",
+    "date": "June 29",
+    "date_normalized": "1945-06-29",
+    "location_written_from": "USO, Champaign, Illinois (based on postmark and return address listing Indianapolis/Ill.)",
+    "location_sent_to": "Hanifen Body & Paint Co., 954 Keo Way, Des Moines, Iowa",
+    "postmark": "CHAMPAIGN, ILL. JUL 29 10-PM 1945",
+    "envelope_notes": "Return address: Cpl. Bob, 19170600, BRS 249, Indianapolis [?], Ill. Marked 'Free' in upper right (military free mail). Envelope is torn/damaged at top left. Note: letter is dated 'June 29' but postmark reads 'JUL 29 1945' — likely the letter date is actually July 29, or the postmark month is correct and the written date is a slip.",
+    "topics": [
+      "jaw swelling/dental issue",
+      "Air Forces Day",
+      "school day off",
+      "aluminum parts forming training",
+      "wing tip repairs",
+      "letters from Jimmy",
+      "pay day",
+      "Cubs/Pirates baseball game",
+      "pass to Des Moines",
+      "expected return home August 4"
+    ],
+    "people_mentioned": [
+      "Dad (James Edward Hanifen Sr.)",
+      "Jimmy (Jim Hanifen Jr., Bob's brother)"
+    ],
+    "places_mentioned": [
+      "USO (Champaign, Illinois)",
+      "Des Moines",
+      "Indianapolis"
+    ],
+    "mood_tone": "Casual, cheerful, and conversational; Bob is in good spirits despite a swollen jaw keeping him close to base, and he is looking forward to coming home.",
+    "legibility": "fair",
+    "legibility_notes": "Page 1 is reasonably legible though some words are compressed at the bottom. Page 2 has significant bleed-through from the reverse side making some words harder to read. The word 'Indianapolis' on the envelope is partially obscured. The date '29' could be June or July — postmark says July.",
+    "historical_context": "Written during WWII in 1945 (postmark July 29, 1945). Bob is in military training at what appears to be an Army Air Forces technical school in Champaign/Indianapolis area, learning aluminum parts forming and wing tip repairs. Air Forces Day is mentioned. The war in the Pacific was still ongoing at this date (Japan surrendered August 15, 1945).",
+    "date_estimated": "1945-07-29",
+    "date_estimated_confidence": "high",
+    "date_estimation_reasoning": "Although the letter is dated 'June 29,' the postmark is July 29, 1945 per the metadata. Bob's jaw is still swollen (wisdom tooth extracted in Letter 35, dated July 1945 per Rantoul postmark), he references Air Forces Day on August 30, and plans to come home Sunday August 4 — consistent with Letter 27 (July 20, 1945) also mentioning August 4 as the planned home visit. 'June 29' is almost certainly a writing error for 'July 29.' Confirmed as July 29, 1945.",
+    "date_is_approximate": true,
+    "chronological_date": "1945-07-29"
+  },
+  "pages": [
+    {
+      "page_label": "envelope",
+      "source_file": "letter59.png",
+      "transcription": "FROM: Cpl. Bob\n19170600\nBRS 249, Indianapolis [?]\nIll.\n\n[Postmark: CHAMPAIGN, ILL. JUL 29 10-PM 1945]\n\n[Marked: Free]\n\nTO:\nHanifen Body & Paint Co.\n954 Keo Way\nDes Moines, Iowa"
+    },
+    {
+      "page_label": "page 1",
+      "source_file": "letter59_page1.png",
+      "transcription": "June 29\n\nDear Dad\n    Down at the U.S.O. for a couple of hours. Jaw is still swelled up so I never went anywhere this week. Wish you could come over Wed. for Air Forces Day. We get off school so that means a couple days off. Not bad. We start hand forming of aluminum parts next week and wing tip repairs. Haven't had a"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter59_page2.png",
+      "transcription": "letters from Jimmy in a long time. Has he moved out yet? Pay day is [this?] Tues. Glad of that. The [Cubs?] Pirates play here Mon. Should be a good game. I can get a clear thro to Des Moines and back, so if nothing happened I will be home Sun. Aug. 4. Well goodbye for now.\n\n        Your Loving Son\n            Bob"
+    }
+  ],
+  "full_transcription": "June 29\n\nDear Dad,\n    Down at the U.S.O. for a couple of hours. Jaw is still swelled up so I never went anywhere this week. Wish you could come over Wed. for Air Forces Day. We get off school so that means a couple days off. Not bad. We start hand forming of aluminum parts next week and wing tip repairs. Haven't had a letters from Jimmy in a long time. Has he moved out yet? Pay day is [this?] Tues. Glad of that. The [Cubs?] Pirates play here Mon. Should be a good game. I can get a clear thro to Des Moines and back, so if nothing happened I will be home Sun. Aug. 4. Well goodbye for now.\n\n        Your Loving Son,\n            Bob",
+  "summary": "Written July 29, 1945 (though dated 'June 29,' likely a slip), Bob writes to his father from the USO in Champaign, Illinois while in military technical training. His jaw is swollen and he has stayed on base all week; he mentions upcoming training in aluminum parts forming and wing tip repairs, an Air Forces Day holiday from school, and a Cubs/Pirates baseball game. He expects to get a pass home to Des Moines around Sunday, August 4, and asks after his brother Jimmy, from whom he hasn't heard in a while."
+}

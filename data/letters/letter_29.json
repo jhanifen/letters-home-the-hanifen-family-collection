@@ -1,0 +1,52 @@
+{
+  "letter_id": "29",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — writing to his father from a military base. The U.S. Army Air Forces letterhead, tone, and content (garden detail, Sgt., passes, school) are consistent with Bob's wartime letters.",
+    "to": "Dad (James Edward Hanifen Sr.)",
+    "date": "Sat. 0800",
+    "date_normalized": "1945-07",
+    "location_written_from": "U.S. Army Air Forces base (specific location unknown)",
+    "location_sent_to": null,
+    "postmark": null,
+    "envelope_notes": "No envelope image provided.",
+    "topics": [
+      "garden detail assignment",
+      "restricted to area / unable to come home",
+      "moving to another squadron",
+      "difficulty getting a pass from Sgt.",
+      "payday delayed",
+      "money situation",
+      "buying new shoes",
+      "shoe stamp needed",
+      "flight shoes description",
+      "starting school soon"
+    ],
+    "people_mentioned": [
+      "Dad"
+    ],
+    "places_mentioned": [],
+    "mood_tone": "Casual, conversational, and mildly frustrated but upbeat; writer complains lightheartedly about garden duty, a stingy Sgt., and being restricted to the area, but remains good-humored.",
+    "legibility": "fair",
+    "legibility_notes": "General legibility is fair to good; some words difficult to parse due to cursive style and faded ink. Background text from the reverse side bleeds through on both pages, creating interference. A few words required best-guess interpretation.",
+    "historical_context": "Letter written during WWII while the sender is stationed at a U.S. Army Air Forces base. References to squadron moves, Sgt. authority over passes, and wartime shoe rationing (shoe stamp) are consistent with the WWII home-front and military context.",
+    "date_estimated": "1945-07",
+    "date_estimated_confidence": "medium",
+    "date_estimation_reasoning": "Bob describes being on a 'permanent garden detail' at an Army Air Forces base, waiting to start school on Monday, moving to another squadron, and needing a shoe stamp (wartime rationing). References payday around the 10th and holding $4 plus a $10 money order from Dad. The mention of starting school 'Mon' and garden detail are consistent with the period at Chanute Field before school started (school began July 2 per Letter 54, dated Sun. 0130, ca. June 24, 1945). The garden detail may have been the 'temporary work while waiting to get in school' referenced in Letter 27 (July 20, 1945: 'I don't work in the garden anymore; that was just temporary work while we were waiting to get in school'). This places Letter 29 just before school started, approximately late June to early July 1945. Estimated July 1945, possibly late June.",
+    "date_is_approximate": true,
+    "chronological_date": "1945-07"
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter29_page1.png",
+      "transcription": "Sat. 0800\n\nDear Dad\n\nWell I am a gardener now. Permanent detail at the field garden. Not much work but I still don't like to weed & hoe. I imagine weeding carrots. All we do is sit around and work a couple hours at a time. I can't come this Sun. as we are restricted to our area. We are going to move to another Sqd. and so they say tough about you guys. Worked on a detail Sgt. for a week still couldn't get a pass out of him. Boy is he ever hard to convinced [sic]. It is raining now so that means no work today in the garden. I think we start to school Mon but I am not sure of it yet. We are suppose [sic] to get payed [sic] today but will"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter29_page2.png",
+      "transcription": "probably won't I think we will get payed [sic] around the tenth. I still have 4 bucks from last payday. and that 10 dollars money order Dad sent me. I am either going to buy some good Sun tan or a new pair of shoes. I can sell my old for four bucks 80 cents that [is half?] of what I'd pay for them. I need a shoe stamp though. See what you can do will you. When your [sic] downtown see if they have any of those flight shoes they are half cuts just a little bit higher than a pair of oxford. They have a slightly raised toe and some of them are sheep-line [sic] on the inside. If you can find a pair like that I wear a 10 ½ B and I will send the money to you. The End for now."
+    }
+  ],
+  "full_transcription": "Sat. 0800\n\nDear Dad\n\nWell I am a gardener now. Permanent detail at the field garden. Not much work but I still don't like to weed & hoe. I imagine weeding carrots. All we do is sit around and work a couple hours at a time. I can't come this Sun. as we are restricted to our area. We are going to move to another Sqd. and so they say tough about you guys. Worked on a detail Sgt. for a week still couldn't get a pass out of him. Boy is he ever hard to convinced [sic]. It is raining now so that means no work today in the garden. I think we start to school Mon but I am not sure of it yet. We are suppose [sic] to get payed [sic] today but will probably won't I think we will get payed [sic] around the tenth. I still have 4 bucks from last payday. and that 10 dollars money order Dad sent me. I am either going to buy some good Sun tan or a new pair of shoes. I can sell my old for four bucks 80 cents that [is half?] of what I'd pay for them. I need a shoe stamp though. See what you can do will you. When your [sic] downtown see if they have any of those flight shoes they are half cuts just a little bit higher than a pair of oxford. They have a slightly raised toe and some of them are sheep-line [sic] on the inside. If you can find a pair like that I wear a 10 ½ B and I will send the money to you. The End for now.",
+  "summary": "Bob writes to his father on a Saturday morning from a U.S. Army Air Forces base, reporting that he has been assigned to a permanent garden detail — light work he dislikes nonetheless. He mentions being restricted to the area so he cannot visit on Sunday, an upcoming move to another squadron, and difficulty getting a pass from a tough Sgt. He discusses his financial situation (waiting on payday, holding $4 plus a $10 money order from Dad) and asks his father to look for a pair of 'flight shoes' (half-cut, slightly raised toe, possibly sheepskin-lined) in size 10½ B downtown, noting he will need a shoe stamp — a wartime rationing requirement."
+}

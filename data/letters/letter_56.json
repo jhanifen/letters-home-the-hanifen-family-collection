@@ -1,0 +1,59 @@
+{
+  "letter_id": "56",
+  "metadata": {
+    "from": "Bob Hanifen (Pvt. Bob Hanifen, serial number 17170600)",
+    "to": "Dad (James Edward Hanifen Sr.)",
+    "date": "Fri 9:20",
+    "date_normalized": "1945-XX-XX",
+    "location_written_from": "AAF Chanute Field, Illinois (Sq. R-3502)",
+    "location_sent_to": "Hanifen Body & Paint Co., 904 Keo Way, Des Moines, Iowa",
+    "postmark": "1945 (partial, year only visible)",
+    "envelope_notes": "Sent 'Free' (military free postage). Return address: Pvt. Bob Hanifen 17170600, Sqd. R-3502, AAF Chanute Fld., Ill. Envelope is worn and torn at the top.",
+    "topics": [
+      "incoming processing",
+      "school course details",
+      "overseas shot",
+      "B-29 repair men",
+      "swimming pool",
+      "food quality",
+      "schedules A/B/C",
+      "furlough",
+      "weight gain",
+      "base regulations"
+    ],
+    "people_mentioned": [
+      "Dad"
+    ],
+    "places_mentioned": [
+      "Chanute Field, Illinois",
+      "Des Moines, Iowa"
+    ],
+    "mood_tone": "Upbeat, informative, and positive; Bob sounds enthusiastic about his new assignment and is enjoying the facilities.",
+    "legibility": "fair",
+    "legibility_notes": "Generally readable cursive but some words are difficult due to quick handwriting and paper aging. 'Keo Way' street address partially obscured by stain. Some words required inference from context.",
+    "historical_context": "Written in 1945 during WWII. Bob is at Chanute Field, Illinois for technical training in aircraft repair (sheet metal work, welding, radiator repair, self-sealing gas tanks). He mentions B-29 repair men being needed urgently overseas, and references receiving overseas shots, suggesting possible deployment preparation.",
+    "date_estimated": "1945-07",
+    "date_estimated_confidence": "medium",
+    "date_estimation_reasoning": "Bob describes his first day of incoming processing at Chanute Field, starting a 15-week (84-day) technical training course in sheet metal work, welding, radiator repair. He has received overseas shots and notes the Army needs B-29 repair men urgently. School was set to start July 2 per Letter 54 (June 24, 1945). This letter describes the first day of processing, which would be around July 2 or shortly after. The description matches the 'Sgt T-BKS-249' squadron designation seen in other Chanute letters from July 1945. Estimated early July 1945.",
+    "date_is_approximate": true
+  },
+  "pages": [
+    {
+      "page_label": "envelope",
+      "source_file": "letter56.png",
+      "transcription": "RETURN ADDRESS:\nPvt. Bob Hanifen 17170600\nSqd. R - 3502\nAAF Chanute Fld. Ill.\n\nSENT TO:\nHanifen Body & Paint Co.\n904 Keo Way\nDes Moines Iowa\n\nPOSTAGE: Free (military frank)\nPOSTMARK: 1945 (partial)"
+    },
+    {
+      "page_label": "page1",
+      "source_file": "letter56_page1.png",
+      "transcription": "Fri 9:20\n\nDear Dad\n\n      Another day is done almost time for lights out. Had a swell day got up at 6:00 eat breakfast and then we started incoming processing, got our baggage and all that kind of stuff. We are suppose to start to school Mon. Our course [starts?] last a total of 15 weeks or 84 days total up. It consists of 12 days of basic instruction, a few weeks of welding repairing Radiator and self sealing gas tanks. Cutting and shaping metals for differents parts of planes. And a lot of other stuff the last 30 days consists of actual plane repairs. We are getting our overseas shot next week. They say they need us bad for B-29 repair men. A 15 day delay"
+    },
+    {
+      "page_label": "page2",
+      "source_file": "letter56_page2.png",
+      "transcription": "in route furlough after school and then P.O.E. I think I am going to like the course fine. I went swimming all afternoon pretty nice pool. Clearest I have ever seen in my life. They have 3 schedules here A, B, C. A schedule start at 0600 and ends at 12 noon. B start at 12 and end at 6:00 and C start at 6:00 and end at midnight not bad at all if you get a good shift. Food is damn good here milk twice a day & I have gained the weight I lost coming up on the train. You can do anything on this field no regulations at all hardly a few but that's all.\n\nWell Dad goodbye for now, will write again. Give my address to everybody for me,\n\n      Your Loving Son\n            Bob"
+    }
+  ],
+  "full_transcription": "Fri 9:20\n\nDear Dad\n\n      Another day is done almost time for lights out. Had a swell day got up at 6:00 eat breakfast and then we started incoming processing, got our baggage and all that kind of stuff. We are suppose to start to school Mon. Our course [starts?] last a total of 15 weeks or 84 days total up. It consists of 12 days of basic instruction, a few weeks of welding repairing Radiator and self sealing gas tanks. Cutting and shaping metals for differents parts of planes. And a lot of other stuff the last 30 days consists of actual plane repairs. We are getting our overseas shot next week. They say they need us bad for B-29 repair men. A 15 day delay in route furlough after school and then P.O.E. I think I am going to like the course fine. I went swimming all afternoon pretty nice pool. Clearest I have ever seen in my life. They have 3 schedules here A, B, C. A schedule start at 0600 and ends at 12 noon. B start at 12 and end at 6:00 and C start at 6:00 and end at midnight not bad at all if you get a good shift. Food is damn good here milk twice a day & I have gained the weight I lost coming up on the train. You can do anything on this field no regulations at all hardly a few but that's all.\n\nWell Dad goodbye for now, will write again. Give my address to everybody for me,\n\n      Your Loving Son\n            Bob",
+  "summary": "Written on a Friday evening at 9:20pm from Chanute Field, Illinois, Bob describes his first day of incoming processing at his new base. He outlines his upcoming 15-week (84-day) technical training course in aircraft sheet metal work, welding, radiator repair, and self-sealing gas tank repair, with the final 30 days devoted to actual plane repairs. Bob mentions receiving overseas shots and the Army's urgent need for B-29 repair men, with a 15-day furlough en route to the Port of Embarkation (P.O.E.) after school. He is in good spirits, praising the food, the swimming pool, and the relaxed base regulations, and notes he has already regained weight lost during his train journey."
+}

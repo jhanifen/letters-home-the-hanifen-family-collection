@@ -1,0 +1,28 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store
+
+# Legacy/archive
+old/
+
+# Large binary files (scans, audio, PDF)
+# These are too large for GitHub. See README for details.
+BobScans/
+site/audio/
+site/Letters_Home_Hanifen.pdf
+site/BobScans
+site/photos
+
+# Editor / tool files
+*.swp
+*~
+.vscode/
+.idea/
+.claude/

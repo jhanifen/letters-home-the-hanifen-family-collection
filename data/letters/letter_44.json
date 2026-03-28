@@ -1,0 +1,49 @@
+{
+  "letter_id": "44",
+  "metadata": {
+    "from": "Bob (Robert Hanifen) — signed 'Love Your Brother Bob'",
+    "to": "Jim and Helen — Jim is likely Bob's brother James Edward Hanifen Jr., and Helen is his wife",
+    "date": "April 21, 1952",
+    "date_normalized": "1952-04-21",
+    "location_written_from": "unknown, but references prices compared to Iowa, suggesting he may not be in Iowa",
+    "location_sent_to": null,
+    "postmark": null,
+    "envelope_notes": null,
+    "topics": [
+      "car repair",
+      "car payment",
+      "insurance comparison",
+      "financial struggles and recovery",
+      "asking for pictures of the kids",
+      "insurance policy enclosure"
+    ],
+    "people_mentioned": [
+      "Jim",
+      "Helen",
+      "Bob (sender)"
+    ],
+    "places_mentioned": [
+      "Iowa"
+    ],
+    "mood_tone": "Friendly, grateful, somewhat self-deprecating about finances but optimistic about getting back on his feet; appreciative of Jim and Helen's help",
+    "legibility": "fair",
+    "legibility_notes": "Some words are difficult to read due to cursive style and age of document; a few words required guessing. Some text crossed out or partially obscured. Page 2 has heavy bleed-through from the reverse side making lower portion largely illegible.",
+    "historical_context": null,
+    "chronological_date": "1952-04-21",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter44_page1.png",
+      "transcription": "April 21, 1952\n\nDear Jim & Helen\n\nNot doing to much right now just had today off. Had the car worked on today and it is running pretty good now. The [illegible] valve needed grinding so I had it done. Say who do you have insurance with by the way. I am carrying mine with Hartford. I don't know if I am nuts or not. The damn [stuff?] raise $20.95 since last year. How about seeing how the stuff cost in Iowa. I must be living in a high price town. I am sending you the bal. of the car payment real soon. Write and tell me how much time I got left. Or has it expired already. I know you are holding the bag on it, and I sure appreciate your helping me. I hope I can do something for you someday. I am getting on my feet now and hope to pay off everybody I owe real soon. Write and tell me what kind of Ins. you have. Send some pictures of the [the?] kids one of these"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter44_page2.png",
+      "transcription": "days if you have anything. Well goodbye for now and write and write me up, okay\n\nLove Your Brother\nBob\n\nP.S. Here is my old policy and the new rates are alongside of it."
+    }
+  ],
+  "full_transcription": "April 21, 1952\n\nDear Jim & Helen\n\nNot doing to much right now just had today off. Had the car worked on today and it is running pretty good now. The [illegible] valve needed grinding so I had it done. Say who do you have insurance with by the way. I am carrying mine with Hartford. I don't know if I am nuts or not. The damn [stuff?] raise $20.95 since last year. How about seeing how the stuff cost in Iowa. I must be living in a high price town. I am sending you the bal. of the car payment real soon. Write and tell me how much time I got left. Or has it expired already. I know you are holding the bag on it, and I sure appreciate your helping me. I hope I can do something for you someday. I am getting on my feet now and hope to pay off everybody I owe real soon. Write and tell me what kind of Ins. you have. Send some pictures of the [the?] kids one of these days if you have anything. Well goodbye for now and write and write me up, okay\n\nLove Your Brother\nBob\n\nP.S. Here is my old policy and the new rates are alongside of it.",
+  "summary": "In this April 1952 letter, Bob writes to his brother Jim and Jim's wife Helen with a casual, financially-focused update. He had a day off and got his car repaired — the valves needed grinding. He inquires about Jim and Helen's insurance carrier, comparing his Hartford policy unfavorably after a $20.95 rate increase, and muses that he must be living in a high-cost town compared to Iowa. Bob acknowledges that Jim has been financially helping him with a car payment, thanks him warmly, and promises to send the balance soon and pay off all his debts as he gets back on his feet. He encloses his old insurance policy with new rates noted alongside, and asks for photos of the kids."
+}

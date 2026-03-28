@@ -1,0 +1,50 @@
+{
+  "letter_id": "14",
+  "metadata": {
+    "from": "Bob (Robert Hanifen) — signed 'Love, Bob' at the end",
+    "to": "Family (likely parents/family at home in Des Moines)",
+    "date": null,
+    "date_normalized": "1944-09",
+    "location_written_from": "Ft. Warren (likely Fort Warren, Massachusetts or Wyoming)",
+    "location_sent_to": null,
+    "postmark": null,
+    "envelope_notes": "Only page 2 of the letter is shown; no envelope visible",
+    "topics": [
+      "sleeping at Ft. Warren",
+      "MP quarters visit",
+      "church attendance",
+      "airport visit to arrange ride home",
+      "leave dates September 30 to October 10",
+      "C-47 paratrooper plane",
+      "flights to Des Moines and Omaha",
+      "physical fitness class progress"
+    ],
+    "people_mentioned": [
+      "Bob",
+      "Capt. from Des Moines"
+    ],
+    "places_mentioned": [
+      "Ft. Warren",
+      "Des Moines",
+      "Omaha"
+    ],
+    "mood_tone": "Casual and upbeat; Bob is describing weekend activities, planning for leave, and reporting on his physical fitness progress with a sense of humor",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting is generally readable but some words require interpretation; 'Black Maria' (patrol vehicle) transcribed as best guess; some words partially obscured by folds or ink smearing",
+    "historical_context": "References to military police (MP) detachment, C-47 paratrooper planes, and physical fitness training suggest this is a WWII-era military letter, likely from Bob while stationed at a military base",
+    "date_estimated": "1944-09",
+    "date_estimated_confidence": "medium",
+    "date_estimation_reasoning": "Letter mentions leave September 30 to October 10 and C-47 planes to Des Moines and Omaha from the airport at 'Ft. Warren.' References physical fitness scores and visiting MP quarters. Letter 18a (Wyoming, 1944) also mentions a leave 'the last of the 30th of Sept. to Oct. 12' and states 'If you want to come up then would be a time.' The dates are nearly identical, strongly suggesting this is the same leave period. Fort Warren (Cheyenne, Wyoming) is near Laramie, consistent with Bob being at University of Wyoming in 1944. This is likely page 2 of a letter written in September 1944 from Laramie/Cheyenne area. Estimated September 1944.",
+    "date_is_approximate": true,
+    "chronological_date": "1944-09"
+  },
+  "pages": [
+    {
+      "page_label": "page2",
+      "source_file": "letter14_page2.png",
+      "transcription": "sleeping at Ft. Warren. He sent us to the head M.P. quarters and we talked to a Capt. from Des Moines for a while, we got out and got in the Black Maria [Black Maria?] and started for camp. On the way we picked up a couple of men. We left them off at the Guard House, and went on to the M.P. Detachment B.C.K. Check out a couple of blankets and went to bed. Got up at 8:00 & eat breakfast & went back to bed till about 10:00 we than went down town to church. After church we went out to the airport to see about a ride home. We get off the 30th of Sept. to the 10 Oct. They said sure and if we had wanted to go to Omaha we could have went right then on a C-47 paratrooper plane. He says the C.O. of the airport a plane leave for Des Moines every afternoon of the week, and there is almost one every day to Omaha. I am leading my class in Physical fitness so far. 50 sit ups. 45 push ups. 13 pull ups and 30 squat jumps. It is a pretty rugged course. Well so long for now & take it easy.\n\nLove Bob."
+    }
+  ],
+  "full_transcription": "sleeping at Ft. Warren. He sent us to the head M.P. quarters and we talked to a Capt. from Des Moines for a while, we got out and got in the Black Maria [Black Maria?] and started for camp. On the way we picked up a couple of men. We left them off at the Guard House, and went on to the M.P. Detachment B.C.K. Check out a couple of blankets and went to bed. Got up at 8:00 & eat breakfast & went back to bed till about 10:00 we than went down town to church. After church we went out to the airport to see about a ride home. We get off the 30th of Sept. to the 10 Oct. They said sure and if we had wanted to go to Omaha we could have went right then on a C-47 paratrooper plane. He says the C.O. of the airport a plane leave for Des Moines every afternoon of the week, and there is almost one every day to Omaha. I am leading my class in Physical fitness so far. 50 sit ups. 45 push ups. 13 pull ups and 30 squat jumps. It is a pretty rugged course. Well so long for now & take it easy.\n\nLove Bob.",
+  "summary": "This is page 2 of a letter from Bob Hanifen, written while stationed at Fort Warren. Bob describes a weekend outing involving the MP (Military Police) quarters, riding in a patrol vehicle ('Black Maria'), attending church downtown, and visiting the airport to arrange a ride home during his upcoming leave (September 30 to October 10). He mentions the availability of C-47 paratrooper planes flying to Des Moines and Omaha, and closes by proudly noting he is leading his physical fitness class with impressive scores in sit-ups, push-ups, pull-ups, and squat jumps."
+}

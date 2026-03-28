@@ -1,0 +1,51 @@
+{
+  "letter_id": "65",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Bob', writing on University of Wyoming 'Cowboy Joe' letterhead",
+    "to": "Dad (James Edward Hanifen Sr.)",
+    "date": null,
+    "date_normalized": "1944-01",
+    "location_written_from": "University of Wyoming, Laramie",
+    "location_sent_to": null,
+    "postmark": null,
+    "envelope_notes": "No envelope visible; letter written on University of Wyoming 'Cowboy Joe' branded stationery",
+    "topics": [
+      "apology for last letter",
+      "ROTC/military inspection",
+      "recommendation from Colonel",
+      "basketball game",
+      "cold weather",
+      "promotion to Platoon Sergeant",
+      "academic credit hours",
+      "Air Corps deferment",
+      "Jim at Fort Riley"
+    ],
+    "people_mentioned": [
+      "Jim (brother, at Fort Riley — Jim Jr. based on context of being at a military post as a student/enlisted man)"
+    ],
+    "places_mentioned": [
+      "University of Wyoming",
+      "Laramie",
+      "Casper Air Base",
+      "Fort Riley"
+    ],
+    "mood_tone": "Casual and conversational; generally upbeat despite cold weather; matter-of-fact about military matters and academic standing",
+    "legibility": "fair",
+    "legibility_notes": "Some words difficult to parse due to cursive style and ink flow; a few words required guessing (e.g., 'Platoon Sergeant', 'sophomore', 'Air Corps')",
+    "historical_context": "Letter references ROTC activities at University of Wyoming, Jim at Fort Riley (military training), and the Air Corps — consistent with WWII-era military context. Mention of Casper Air Base and deferment by Air Corps suggests wartime period, likely early 1940s.",
+    "date_estimated": "1944-01",
+    "date_estimated_confidence": "medium",
+    "date_estimation_reasoning": "Bob writes from University of Wyoming on 'Cowboy Joe' letterhead about ROTC inspection, basketball, cold weather (-10°F), promotion to Platoon Sergeant, brother Jim at Fort Riley, and anticipation of Air Corps call-up. The mention of 48 hours needed for Sophomore status and currently having 51 hours after one more term suggests he is completing his first or second semester. Given that the ASTP program at Wyoming is documented from summer 1944 (Letter 16, July 1944), and Bob was 'almost a Sophomore' in Letter 66 ('I will be a sophomore when the next term ends'), this letter appears to be from a slightly later term than the summer letters — perhaps late fall 1943 or winter/spring 1944, before the confirmed summer 1944 ASTP period. Jim being at Fort Riley's 'Stables' (cavalry training) and the Air Corps deferment context suggest early 1944. Estimated January–February 1944.",
+    "date_is_approximate": true,
+    "chronological_date": "1944-01"
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter65_page1.png",
+      "transcription": "Dear Dad\n\nSorry about the last letter. Not much doing here at school. Our govt. inspection came off fine and we got a recommendation from the Colonels. Went to a basketball game last night between the U of Wyoming and Casper Air Base. Casper won by a big margin. Got a letter from Jim from the Stables at Ft. Riley. He says he has it pretty easy. It is really getting cold up here. Sat. night it was about 10 below and the wind is always blowing. I am now a Platoon Sergeant, got a promotion. If I come back for another term I will [be a?] [Freshman?]. It takes 48 hours to be a Sophomore and I will have 51 hours. But another [term?] I will [spend?] [die?] but the Air Corps won't call me until then, so there's not much I can do.\n\nLove Bob"
+    }
+  ],
+  "full_transcription": "Dear Dad\n\nSorry about the last letter. Not much doing here at school. Our govt. inspection came off fine and we got a recommendation from the Colonels. Went to a basketball game last night between the U of Wyoming and Casper Air Base. Casper won by a big margin. Got a letter from Jim from the Stables at Ft. Riley. He says he has it pretty easy. It is really getting cold up here. Sat. night it was about 10 below and the wind is always blowing. I am now a Platoon Sergeant, got a promotion. If I come back for another term I will [be a?] [Freshman?]. It takes 48 hours to be a Sophomore and I will have 51 hours. But another [term?] I will [spend?] [die?] but the Air Corps won't call me until then, so there's not much I can do.\n\nLove Bob",
+  "summary": "Bob writes to his father from the University of Wyoming in Laramie, apologizing for a previous letter and sharing updates from campus life. He mentions a successful ROTC inspection earning a recommendation from the Colonels, a basketball loss by U of Wyoming to Casper Air Base, extremely cold weather (-10°F), and his promotion to Platoon Sergeant. He also notes that his brother Jim is stationed at Fort Riley and doing well, and discusses his academic credit hours and his anticipation of being called up by the Air Corps."
+}

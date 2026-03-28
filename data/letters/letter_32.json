@@ -1,0 +1,51 @@
+{
+  "letter_id": "32",
+  "metadata": {
+    "from": "Bob (Robert C. Hanifen), P.F.C., Army Air Forces",
+    "to": "Dad (James Edward Hanifen Sr.), at Hansen Body & Paint Co., Des Moines, Iowa",
+    "date": "Jan. 14",
+    "date_normalized": "1946-01-14",
+    "location_written_from": "Greensboro, N.C. (Apt. O Branch 2)",
+    "location_sent_to": "Hanifen Body & Paint Co., 904 Keo Way, Des Moines, Iowa",
+    "postmark": "GREENSBORO, N.C., JAN 14, 6 PM, 1946",
+    "envelope_notes": "Return address: P.F.C. Robert C. Hanifen 17170600, Apt. O Branch 2, Greensboro N.C. Air mail stamp (green). Envelope addressed to 'Hanifen Body & Paint Co., 904 Keo Way, Des Moines, Iowa.' The business name on the envelope reads 'Hanifen Body & Paint Co.' consistent with family business context.",
+    "topics": [
+      "money/travel pay",
+      "war bonds",
+      "fountain pen request",
+      "upcoming port of embarkation",
+      "coat hanger request",
+      "meeting Don Clark"
+    ],
+    "people_mentioned": [
+      "Dad",
+      "Don Clark",
+      "Johnny",
+      "Jimmy"
+    ],
+    "places_mentioned": [
+      "Greensboro, N.C.",
+      "Des Moines, Iowa"
+    ],
+    "mood_tone": "Casual, upbeat, practical; son checking in with father, making requests and sharing brief news",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting is generally readable but some words require interpretation. 'Apt. O Branch 2' on envelope uncertain. 'Don Plart' on page 1 interpreted as 'Don Clark' — the handwriting is ambiguous. 'P.X.' is a military post exchange. 'P.O.E.' is Port of Embarkation.",
+    "historical_context": "January 1946, post-WWII. Bob is still in the Army Air Forces, stationed in Greensboro, N.C., and anticipating departure through a Port of Embarkation, suggesting possible overseas deployment or processing for discharge. References to travel pay and war bonds reflect wartime/postwar financial context.",
+    "chronological_date": "1946-01-14",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter32.png",
+      "transcription": "Jan. 14\n\nArmy Air Forces\n\nDear Dad\n  Sorry I haven't sooner but just haven't got around to it. I owe 16 dollars from my travel pay in Oct. I will be sending about 90 more in a couple of days. Just put it in Warbonds if you want for me. Haven't done much of anything yet except lay around. Met Don Clark last night had a swell time. Say have Johnny see if they still sell those fountain pen at school. Esterbrook is the name. Have him buy me one. If not write and tell me right away or have him go to P.X. and see if a Wac or somebody out there if Jimmy still there have him do it."
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter32_page1.png",
+      "transcription": "Be sure to answer if you do. And say send my coat hanger forget I buy some some place. Say I will call if I can when I get to my P.O.E. which will be pretty soon I imagine\nWell Dad goodbye for now\nLove your Son Bob"
+    }
+  ],
+  "full_transcription": "Jan. 14\n\nArmy Air Forces\n\nDear Dad\n  Sorry I haven't sooner but just haven't got around to it. I owe 16 dollars from my travel pay in Oct. I will be sending about 90 more in a couple of days. Just put it in Warbonds if you want for me. Haven't done much of anything yet except lay around. Met Don Clark last night had a swell time. Say have Johnny see if they still sell those fountain pen at school. Esterbrook is the name. Have him buy me one. If not write and tell me right away or have him go to P.X. and see if a Wac or somebody out there if Jimmy still there have him do it.\n\nBe sure to answer if you do. And say send my coat hanger forget I buy some some place. Say I will call if I can when I get to my P.O.E. which will be pretty soon I imagine\nWell Dad goodbye for now\nLove your Son Bob",
+  "summary": "Bob writes to his father from Greensboro, N.C. on January 14, 1946, apologizing for not writing sooner. He mentions owing $16 from October travel pay and plans to send about $90 more, asking his father to put it in War Bonds. He requests that his brother Johnny find him an Esterbrook fountain pen at school or the P.X., and asks his father to send his coat hanger. He closes by noting he expects to reach his Port of Embarkation soon and will try to call."
+}

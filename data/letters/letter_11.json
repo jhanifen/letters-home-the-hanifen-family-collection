@@ -1,0 +1,52 @@
+{
+  "letter_id": "11",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Bobby,' writing to his father",
+    "to": "Dad (James Edward Hanifen Sr.)",
+    "date": "7 June 1946",
+    "date_normalized": "1946-06-07",
+    "location_written_from": "Unknown military/overseas posting (post-WWII occupation era, likely Japan or occupied territory based on context)",
+    "location_sent_to": null,
+    "postmark": null,
+    "envelope_notes": "No envelope visible in provided images",
+    "topics": [
+      "receipt of package from father",
+      "work situation — office closed down",
+      "working with buddy at General Supply",
+      "awaiting rating/discharge",
+      "sending package home with gifts for family",
+      "45 pistol/firearm to be kept safe",
+      "accidental shooting incident nearby",
+      "buddy Lou transferring and becoming an interpreter",
+      "locating graves of unknown soldiers",
+      "hot weather",
+      "inquiry about brother Jimmy leaving the Army"
+    ],
+    "people_mentioned": [
+      "Dad (James Edward Hanifen Sr.)",
+      "Lou (buddy, transferring to be an interpreter)",
+      "Jimmy (Jim Hanifen Jr., Bob's brother — asked if he's out of the Army yet)"
+    ],
+    "places_mentioned": [],
+    "mood_tone": "Casual and conversational; somewhat lighthearted but includes a vivid and unsettling account of a nearby accidental shooting; generally optimistic about coming home soon",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting is cursive and somewhat difficult in places; several words required guessing. 'General Supply' is inferred from 'Genered Supply' or similar. The word 'rating' may refer to a discharge rating or points. 'safe place' has a crossed-out word before it. Page 2 has some faded/bleed-through areas.",
+    "historical_context": "Written in June 1946, post-WWII. Bob appears to be still serving overseas during the occupation period, waiting for his discharge rating to come through. He mentions locating graves of unknown soldiers, reflecting post-war graves registration work. The accidental shooting incident involving a .45 pistol reflects the dangers of peacetime military life with weapons still present.",
+    "chronological_date": "1946-06-07",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter11_page1.png",
+      "transcription": "7 June 1946\n\nDear Dad\n    I received your package today and everything was in good shape. I am not doing much now. The office I used to work in closed down, so now I am working with my buddie at Genered Supply. Just killing time for two week till my rating come through. If it does, I am going to send a package in a couple of weeks with presents for different people. You open it alone. Inside will be a 45, you put it up for me in a [safe?] safe place. Wed. afternoon a kid two bags from me about 36 feet was shot by another kid messing around with a 45. The slug entered his right"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter11_page2.png",
+      "transcription": "side and came out the left side hitting his arm at the elbow and then glance off two walls. The bullet just missed his heart by 1/4 of inch. He is okay now, but I seen him a couple seconds after it happen and it wasn't very pretty. The Blood was on his legs all over the floor. My buddie Lou is transferring to [illegible] ome. He is going to be an interpreter, locating graves of unknown soldiers. Pretty good deal. Hope everything is okay at the now. It is getting mighty hot around here, believe me. Well that is about all the news.\n        So long for now\n            Lots of love Your Son\n                Bobby\n\nP.S. Is Jimmy out of the Army yet?"
+    }
+  ],
+  "full_transcription": "7 June 1946\n\nDear Dad\n    I received your package today and everything was in good shape. I am not doing much now. The office I used to work in closed down, so now I am working with my buddie at Genered Supply. Just killing time for two week till my rating come through. If it does, I am going to send a package in a couple of weeks with presents for different people. You open it alone. Inside will be a 45, you put it up for me in a [safe?] safe place. Wed. afternoon a kid two bags from me about 36 feet was shot by another kid messing around with a 45. The slug entered his right side and came out the left side hitting his arm at the elbow and then glance off two walls. The bullet just missed his heart by 1/4 of inch. He is okay now, but I seen him a couple seconds after it happen and it wasn't very pretty. The Blood was on his legs all over the floor. My buddie Lou is transferring to [illegible] ome. He is going to be an interpreter, locating graves of unknown soldiers. Pretty good deal. Hope everything is okay at the now. It is getting mighty hot around here, believe me. Well that is about all the news.\n        So long for now\n            Lots of love Your Son\n                Bobby\n\nP.S. Is Jimmy out of the Army yet?",
+  "summary": "Written on June 7, 1946, Bob writes to his father from an overseas posting during the post-WWII occupation period. He thanks his dad for the package, mentions his office closed and he is now working with a buddy at General Supply, killing time waiting for his discharge rating. He plans to send a package home including a .45 pistol for safekeeping. He recounts a frightening accidental shooting incident in which a nearby soldier was shot through the chest with a .45, narrowly missing his heart. He closes by noting his buddy Lou is transferring to work as an interpreter locating graves of unknown soldiers, and adds a postscript asking if his brother Jimmy is out of the Army yet."
+}

@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About — Letters Home</title>
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+
+:root {
+  --bg: #faf6f0;
+  --bg-dark: #1a1510;
+  --bg-card: #f5f0e8;
+  --text: #2c2416;
+  --text-secondary: #5a4e3a;
+  --text-muted: #8b7355;
+  --accent: #6b5b4f;
+  --accent-gold: #b5a68a;
+  --accent-warm: #a0876b;
+  --border: #d4c5a9;
+  --border-light: #e8e0d0;
+  --serif: 'EB Garamond', 'Georgia', serif;
+  --display: 'Cormorant Garamond', 'Georgia', serif;
+  --sans: 'Inter', -apple-system, system-ui, sans-serif;
+  --shadow: 0 2px 12px rgba(42, 36, 22, 0.08);
+  --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  margin: 0; padding: 0;
+  font-family: var(--serif);
+  font-size: 19px;
+  line-height: 1.7;
+  color: var(--text);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* === NAV === */
+nav {
+  background: rgba(26, 21, 16, 0.95);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(139, 115, 85, 0.2);
+}
+.nav-inner {
+  max-width: 1100px; margin: 0 auto;
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 0 24px; height: 56px;
+}
+.nav-brand {
+  font-family: var(--display); font-size: 18px; font-weight: 500;
+  color: var(--accent-gold); text-decoration: none; letter-spacing: 0.06em;
+}
+.nav-brand:hover { color: #d4c5a9; }
+.nav-links { display: flex; gap: 28px; align-items: center; }
+.nav-links a {
+  font-family: var(--sans); font-size: 15px; font-weight: 400;
+  color: #a89578; text-decoration: none; letter-spacing: 0.04em;
+  transition: color var(--transition);
+}
+.nav-links a:hover { color: #d4c5a9; }
+.nav-links a.active { color: #d4c5a9; }
+
+/* === PAGE === */
+.container { max-width: 740px; margin: 0 auto; padding: 0 28px; }
+
+.page-header {
+  text-align: center;
+  padding: 80px 0 48px;
+}
+.page-label {
+  font-family: var(--sans); font-size: 13px; font-weight: 500;
+  text-transform: uppercase; letter-spacing: 0.2em; color: var(--accent-warm);
+  margin-bottom: 8px;
+}
+.page-title {
+  font-family: var(--display); font-size: 40px; font-weight: 400;
+  color: var(--text); margin: 0 0 16px; letter-spacing: 0.04em;
+}
+.page-rule {
+  width: 60px; height: 1px; background: var(--accent-gold);
+  margin: 0 auto;
+}
+
+/* === CONTENT === */
+.content {
+  padding-bottom: 120px;
+}
+.content p {
+  margin-bottom: 20px; text-indent: 24px;
+  font-size: 20px; line-height: 1.8; color: var(--text-secondary);
+}
+.content p:first-child { text-indent: 0; }
+.content p:first-child::first-letter {
+  font-family: var(--display); font-size: 56px; float: left;
+  line-height: 0.85; margin: 4px 8px 0 0; color: var(--accent);
+  font-weight: 400;
+}
+
+.content h2 {
+  font-family: var(--display); font-size: 28px; font-weight: 400;
+  color: var(--text); margin: 56px 0 16px; letter-spacing: 0.04em;
+  text-indent: 0;
+}
+
+.content a {
+  color: var(--accent); text-decoration: underline;
+  text-decoration-color: var(--border);
+  text-underline-offset: 3px;
+  transition: text-decoration-color var(--transition);
+}
+.content a:hover { text-decoration-color: var(--accent); }
+
+/* === PIPELINE === */
+.pipeline {
+  display: grid; gap: 16px;
+  margin: 32px 0;
+}
+.pipeline-step {
+  display: flex; gap: 20px; align-items: flex-start;
+  background: var(--bg-card); padding: 20px 24px;
+  border-left: 3px solid var(--accent-gold);
+}
+.pipeline-num {
+  font-family: var(--display); font-size: 28px; font-weight: 300;
+  color: var(--accent-gold); line-height: 1; flex-shrink: 0;
+  min-width: 28px; text-align: center;
+}
+.pipeline-body { text-indent: 0 !important; }
+.pipeline-body strong {
+  font-family: var(--sans); font-size: 14px; font-weight: 600;
+  text-transform: uppercase; letter-spacing: 0.08em; color: var(--text);
+  display: block; margin-bottom: 4px;
+}
+.pipeline-body p {
+  font-size: 17px; line-height: 1.6; color: var(--text-secondary);
+  margin: 0; text-indent: 0;
+}
+
+/* === FOOTER === */
+footer {
+  border-top: 1px solid var(--border-light);
+  padding: 40px 0;
+  text-align: center;
+}
+footer p {
+  font-family: var(--sans); font-size: 14px;
+  color: var(--text-muted); margin: 0;
+  text-indent: 0;
+}
+footer a { color: var(--accent-warm); text-decoration: none; }
+footer a:hover { text-decoration: underline; }
+
+@media (max-width: 600px) {
+  .page-title { font-size: 32px; }
+  .content p { font-size: 18px; }
+  .pipeline-step { flex-direction: column; gap: 8px; }
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <a href="index.html" class="nav-brand">Letters Home</a>
+    <div class="nav-links">
+      <a href="index.html">The Letters</a>
+      <a href="about.html" class="active">About</a>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+
+  <div class="page-header">
+    <div class="page-label">About This Project</div>
+    <h1 class="page-title">How These Letters Found Their Way Online</h1>
+    <div class="page-rule"></div>
+  </div>
+
+  <div class="content">
+
+    <p>Sometime in the early 2020s, Bob Hanifen Jr. handed over a box of letters to his cousin Jim. They had been written decades earlier by his father, Bob Sr., along with Bob's brothers Jim and John and their father James. The letters spanned from the late 1930s through the mid-1940s — years that carried the boys from home through college and into the Second World War.</p>
+
+    <p>The letters had survived in remarkably good condition, but they were handwritten in the flowing cursive of another era, and there were a lot of them. Transcribing 84 letters by hand — some running more than a dozen pages — was a project that could easily take months. So Jim tried a different approach.</p>
+
+    <h2>Built with AI</h2>
+
+    <p>This entire project was built with the help of <a href="https://claude.ai/claude-code">Claude Code</a>, Anthropic's AI coding assistant, and the <a href="https://docs.anthropic.com/en/docs/overview">Claude API</a>. The pipeline works like this:</p>
+
+    <div class="pipeline">
+      <div class="pipeline-step">
+        <div class="pipeline-num">1</div>
+        <div class="pipeline-body">
+          <strong>Scan</strong>
+          <p>Each letter was carefully scanned, producing 304 page images from 84 letters.</p>
+        </div>
+      </div>
+      <div class="pipeline-step">
+        <div class="pipeline-num">2</div>
+        <div class="pipeline-body">
+          <strong>Transcribe</strong>
+          <p>Claude's vision model read each handwritten page and produced structured data — the full text, plus metadata like sender, recipient, date, and location.</p>
+        </div>
+      </div>
+      <div class="pipeline-step">
+        <div class="pipeline-num">3</div>
+        <div class="pipeline-body">
+          <strong>Analyze</strong>
+          <p>The full collection was analyzed to build a narrative timeline, infer missing dates, and identify the story arc that connects all 84 letters.</p>
+        </div>
+      </div>
+      <div class="pipeline-step">
+        <div class="pipeline-num">4</div>
+        <div class="pipeline-body">
+          <strong>Generate</strong>
+          <p>From the structured data, the code generated this interactive website, a typeset PDF memoir with embedded scans, and a narrated audiobook.</p>
+        </div>
+      </div>
+    </div>
+
+    <p>Every script in the pipeline — the transcription, the analysis, the web and book generators — was written collaboratively with Claude Code. The AI didn't just process the letters; it helped build the tools to process them.</p>
+
+    <h2>Open Source</h2>
+
+    <p>The full source code for this project is available on <a href="https://github.com/jhanifen/letters-home-the-hanifen-family-collection">GitHub. It includes the Python pipeline scripts, the structured letter data, and the web output. The original scans are too large for a code repository but the transcriptions and metadata are all there — enough for someone to pick up where this left off, or adapt the approach for their own family's letters.</p>
+
+    <p>If your family has a box of old letters gathering dust somewhere, maybe this can show what's possible.</p>
+
+  </div>
+
+  <footer>
+    <p>A Hanifen family project &middot; <a href="https://github.com/jhanifen/letters-home-the-hanifen-family-collection">View on GitHub</a></p>
+  </footer>
+
+</div>
+
+</body>
+</html>

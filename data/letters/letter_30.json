@@ -1,0 +1,66 @@
+{
+  "letter_id": "30",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Bob' at the end of page 2; return address 'Pvt. Bob Hanifen 17170600'",
+    "to": "Dad (James Edward Hanifen Sr.) — addressed 'Dear Dad'; sent to Hansen Body & Paint Co., 904 Keo Way, Des Moines, Iowa",
+    "date": "Mon. 1800",
+    "date_normalized": "1945-07-30",
+    "location_written_from": "Chanute Field, Illinois (Apt T BKS-249, Chanute Fld., Ill.)",
+    "location_sent_to": "Hanifen Body & Paint Co., 904 Keo Way, Des Moines, Iowa",
+    "postmark": "RANTOUL, ILL. JUL 30 4-PM 1945",
+    "envelope_notes": "Return address: Pvt. Bob Hanifen 17170600, Apt T BKS-249, Chanute Fld., Ill. Some writing in upper right corner of envelope, partially obscured by torn stamp area, appears to read 'went ... [Miami?] ... fly ...' — possibly notes added by recipient. Envelope is worn and torn at stamp corner.",
+    "topics": [
+      "shift change",
+      "night shifts",
+      "weekend pass",
+      "trip to Chicago",
+      "Blue Island",
+      "hitchhiking back to base",
+      "missing a train",
+      "visit to aunt's house"
+    ],
+    "people_mentioned": [
+      "Dad",
+      "Kay",
+      "Aunt Bonnie"
+    ],
+    "places_mentioned": [
+      "Chicago",
+      "Blue Island",
+      "Chanute Field",
+      "Illinois",
+      "Des Moines",
+      "Iowa"
+    ],
+    "mood_tone": "Casual, upbeat, and conversational; Bob recounts a fun but slightly chaotic weekend trip to Chicago with some mishaps along the way.",
+    "legibility": "fair",
+    "legibility_notes": "Some words are heavily crossed out or overwritten (e.g., crossed-out words before 'released' on page 1). Page 3 is written in a different hand and appears to be a separate note or insert — possibly written by someone else (perhaps a child or younger family member based on handwriting style and content). Some words on page 3 are difficult to parse. The word crossed out on page 3 is illegible.",
+    "historical_context": "Bob is stationed at Chanute Field, Illinois, during WWII (July 1945, just before the end of the war). He uses military time notation and references his shift schedule, consistent with wartime military service.",
+    "chronological_date": "1945-07-30",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "envelope",
+      "source_file": "letter30.png",
+      "transcription": "RETURN ADDRESS:\nPvt. Bob Hanifen 17170600\nApt T BKS-249\nChanute Fld., Ill.\n\nADDRESSED TO:\nHanifen Body & Paint Co.\n904 Keo Way\nDes Moines, Iowa\n\nPOSTMARK: RANTOUL, ILL. JUL 30 4-PM 1945\n\nNOTES IN UPPER RIGHT (partially torn): 'went ... [Miami?] ... fly ...'"
+    },
+    {
+      "page_label": "page1",
+      "source_file": "letter30_page1.png",
+      "transcription": "Mon. 1800\n\nDear Dad\n    Well here I am again, a couple of days have elapsed since I started this letter, a lot has happened since. Sat. I down & bought a new set of furniture 5 bucks. I am on the C shift now, from 1900 to 0100 that means no nights off except Sun. for 15 weeks. & no chance to come home very good. We were [crossed out] [crossed out] released Sun. at 0100 and so we decided to go to Chicago. We left at 1200 and got to Blue Island at 4:00 had a swell time at aunt Bonnie"
+    },
+    {
+      "page_label": "page2",
+      "source_file": "letter30_page2.png",
+      "transcription": "We to Chicago with Kay next morning on the Burban[?] train. I was suppose to leave on the Ill. Central at 9:05 and after I left Kay I took out for the station and missed the thing by 5 min. Boy was I burned. I went back got the Blue Island train and went back and started to hitch hike back, got back too by 9osh in plenty of time. Well Dad Goodby for now & think. I will go back to Chicago again next week so goodby for now\n    Love Bob"
+    },
+    {
+      "page_label": "page3",
+      "source_file": "letter30_page3.png",
+      "transcription": "Here is one you missed\nI don't no how\nalso one to join\n[arrow pointing up]\n[crossed out word/line — illegible]\nwhat is that word.\nI dont Know Myself"
+    }
+  ],
+  "full_transcription": "Mon. 1800\n\nDear Dad\n    Well here I am again, a couple of days have elapsed since I started this letter, a lot has happened since. Sat. I down & bought a new set of furniture 5 bucks. I am on the C shift now, from 1900 to 0100 that means no nights off except Sun. for 15 weeks. & no chance to come home very good. We were [crossed out] [crossed out] released Sun. at 0100 and so we decided to go to Chicago. We left at 1200 and got to Blue Island at 4:00 had a swell time at aunt Bonnie\n\nWe to Chicago with Kay next morning on the Burban[?] train. I was suppose to leave on the Ill. Central at 9:05 and after I left Kay I took out for the station and missed the thing by 5 min. Boy was I burned. I went back got the Blue Island train and went back and started to hitch hike back, got back too by 9osh in plenty of time. Well Dad Goodby for now & think. I will go back to Chicago again next week so goodby for now\n    Love Bob\n\n[Separate insert — different handwriting:]\nHere is one you missed\nI don't no how\nalso one to join\n[arrow pointing up]\n[crossed out word/line — illegible]\nwhat is that word.\nI dont Know Myself",
+  "summary": "Written Monday evening (postmarked July 30, 1945) from Chanute Field, Illinois, Bob tells his father about being assigned to the C shift (1900–0100), which limits his chances of coming home. He recounts a weekend trip to Chicago with a friend named Kay, visiting Aunt Bonnie in Blue Island, but missing his return train by five minutes and having to hitchhike back to base. A third page in a different handwriting appears to be an insert or note added by another person — possibly a child — commenting on a crossed-out word they cannot identify."
+}

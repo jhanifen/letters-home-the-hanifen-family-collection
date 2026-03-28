@@ -1,0 +1,57 @@
+{
+  "letter_id": "67",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Bob' at the end, writing to his father",
+    "to": "Dad (James Edward Hanifen Sr.)",
+    "date": "Jan. 18, 45",
+    "date_normalized": "1945-01-18",
+    "location_written_from": "Greensboro, N.C. — AAF ORD AND AAF RS NO. 5 Service Club",
+    "location_sent_to": null,
+    "postmark": null,
+    "envelope_notes": null,
+    "topics": [
+      "money sent home",
+      "processing complete",
+      "vaccinations and shots",
+      "mess hall food",
+      "pending deployment (POE)",
+      "Jimmy leaving soon",
+      "town visit",
+      "Grandma's health",
+      "automobiles back home"
+    ],
+    "people_mentioned": [
+      "Dad",
+      "Jimmy",
+      "Grandma",
+      "Jim"
+    ],
+    "places_mentioned": [
+      "Greensboro, N.C.",
+      "P.O.E. (Port of Embarkation)"
+    ],
+    "mood_tone": "Upbeat and conversational, with some concern about family members and anticipation of deployment",
+    "legibility": "fair",
+    "legibility_notes": "Cursive handwriting is generally readable but some words require interpretation; 'Don Grant' on page 2 is uncertain; 'P.O.E.' abbreviation readable in context",
+    "historical_context": "WWII-era letter; Bob has completed processing at an AAF base in Greensboro, NC, received vaccinations (including smallpox), and is anticipating shipping out to a Port of Embarkation. Jimmy (brother) is also apparently being deployed soon. References to a 'project' the unit was on having already left suggests troop movements.",
+    "date_estimated": "1945-01-18",
+    "date_estimated_confidence": "high",
+    "date_estimation_reasoning": "Letter is explicitly dated 'Jan. 18, 45' in the text. Content matches perfectly: Bob has completed military processing at Greensboro, NC (same Service Club heading as Letter 13 dated Jan. 21), received five shots and smallpox vaccination, and is awaiting deployment to a POE. Letter 13 (Jan. 21) and Letter 32 (Jan. 14) are from the same Greensboro location, creating a tight date cluster in January 1945. Confirmed as January 18, 1945.",
+    "date_is_approximate": true,
+    "chronological_date": "1945-01-18"
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter67_page1.png",
+      "transcription": "Jan. 18, 45\n\nService Club\nAAF ORD AND AAF RS NO. 5\nGREENSBORO, N.C.\n\nDear Dad\n\nHow are things at home now, guess I had better call to see what is going on around there. Guess Jimmy will be leaving pretty soon too bad on his account. I sent 10 dollars more. Tell me soon if you receive it all. I will be sending about 40 or 50 in a couple of weeks. We are all done processing now. I caught 5 shots and a smallpox vaccination. And I believe the smallpox is taking. My arms were so damn sore I couldn't hardly carry my tray"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter67_page2.png",
+      "transcription": "to get my food. I am eating at Don Grant [illegible word], Mess hall No. 9 it is about ten times better than ever. I tell you when we get to a P.O.E. I will call home. I will know about when we'll ship out by one. I guess there is nothing as to where we are going. The project we was on has already left. Have only been to town once since my arrival, what a town. Good for — ask Jim he'll tell you. How is Grandma now hope she is a lot better by now. Hope all the automobiles are still running since my departure. Well Dad goodbye for now. Your loving son Bob"
+    }
+  ],
+  "full_transcription": "Jan. 18, 45\n\nService Club\nAAF ORD AND AAF RS NO. 5\nGREENSBORO, N.C.\n\nDear Dad\n\nHow are things at home now, guess I had better call to see what is going on around there. Guess Jimmy will be leaving pretty soon too bad on his account. I sent 10 dollars more. Tell me soon if you receive it all. I will be sending about 40 or 50 in a couple of weeks. We are all done processing now. I caught 5 shots and a smallpox vaccination. And I believe the smallpox is taking. My arms were so damn sore I couldn't hardly carry my tray to get my food. I am eating at Don Grant [illegible word], Mess hall No. 9 it is about ten times better than ever. I tell you when we get to a P.O.E. I will call home. I will know about when we'll ship out by one. I guess there is nothing as to where we are going. The project we was on has already left. Have only been to town once since my arrival, what a town. Good for — ask Jim he'll tell you. How is Grandma now hope she is a lot better by now. Hope all the automobiles are still running since my departure. Well Dad goodbye for now. Your loving son Bob",
+  "summary": "Bob writes to his father from the AAF Service Club in Greensboro, NC on January 18, 1945. He reports that he has completed military processing, received five shots and a smallpox vaccination that left his arms very sore, and is now awaiting deployment to a Port of Embarkation (POE). He mentions sending money home ($10 now, with $40-50 more to follow), notes that Jimmy will be leaving soon, asks about Grandma's health, and signs off warmly as 'your loving son Bob.'"
+}

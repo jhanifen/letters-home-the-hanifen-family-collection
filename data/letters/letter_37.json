@@ -1,0 +1,59 @@
+{
+  "letter_id": "37",
+  "metadata": {
+    "from": "Bob Hanifen (Pvt. Bob Hanifen, Sq. I-3716 ABU, Sheppard Field, Texas)",
+    "to": "Hanifen Body & Paint Co. (likely addressed to his father, James Edward Hanifen Sr.), 904 Keo Way, Des Moines, Iowa",
+    "date": "Sat. Morn. 9/10",
+    "date_normalized": "1946-06-08",
+    "location_written_from": "Sheppard Field, Texas",
+    "location_sent_to": "Hanifen Body & Paint Co., 904 Keo Way, Des Moines, Iowa",
+    "postmark": "Wichita Falls, Texas, JUN 11, 1946",
+    "envelope_notes": "Marked 'Free' in upper right corner (military free franking). Return address: Pvt. Bob Hanifen, Sq. I-3716 ABU, Sheppard Fld. Texas. Note: the date written on the letter says 'Sat. Morn. 9/10' which likely refers to 9:10 AM Saturday, not a month/day date, as the postmark is June 11, 1946.",
+    "topics": [
+      "military training",
+      "parade postponed",
+      "heat",
+      "hike",
+      "P.T.",
+      "medical aid",
+      "artificial respiration",
+      "severe storm",
+      "hail",
+      "wind damage",
+      "downtown damage",
+      "discharge orders",
+      "Denver assignment"
+    ],
+    "people_mentioned": [
+      "Dad"
+    ],
+    "places_mentioned": [
+      "Sheppard Field, Texas",
+      "Des Moines, Iowa",
+      "Denver"
+    ],
+    "mood_tone": "Chatty and descriptive; somewhat weary from physical training but energetic in recounting the dramatic storm; a hint of envy toward those receiving discharge orders.",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting is generally readable but some words required guessing, particularly 'Sq. I-3716 ABU' on the envelope and a few phrases on page 2. The date '9/10' appears to be a time (9:10 AM) rather than a date.",
+    "historical_context": "Post-WWII military life at Sheppard Field, Texas. Bob is still in the Army in June 1946 after the war's end. Mentions other soldiers receiving discharge orders and being sent to Denver, reflecting the ongoing demobilization process after WWII.",
+    "date_estimated": "1946-06-08",
+    "date_estimated_confidence": "high",
+    "date_estimation_reasoning": "Letter is dated 'Sat. Morn. 9/10' with return address at Sheppard Field, Texas. Content describes post-WWII military life at Sheppard Field (June 1946 per metadata: Bob is still in the Army after the war's end). The discharge orders going to Denver are consistent with June 1946 demobilization. The 105° heat, 7½-mile hike, and dramatic storm match the metadata estimate of June 8, 1946. The '9/10' is likely the time (9:10 AM) not a date. Return address shows 'Pvt. Bob Hanifen, Sq. I-3716 ABU, Sheppard Field' — consistent with Bob back at Sheppard Field in 1946 after returning from Italy or being reassigned.",
+    "date_is_approximate": true,
+    "chronological_date": "1946-06-08"
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter37.png",
+      "transcription": "Sat. Morn. 9/10\n\nDear Dad\n\nI am writing this on Sat morn. We were suppose to have a parade but they postpone it. It was really hot yesterday 105° in the shade we went on a 7½ mile [hike?] hike. Boy was it a long way. We came back and had a hour of drill, 3 hours of P.T. and Medical aid. We pract-ice artificial respiration. The ground was hot you could hardly lay on it. About 6:00 a storm started brewing and a few min. later it hit and I mean hit. The street was full to the curb with water and it was hailing. The wind was terrific it blew the water along in sheets. It really tore"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter37_page1.png",
+      "transcription": "up the camp. They a big outdoor theater and it turn it down a threw it clear across the drill field. It tore a lot roof off knock a lot of signs down. Went down town and there was one place where the bus went thru for about 50 yds. about 2 feet down. It really rained. We have another hike today 5 miles I guess. A lot more guys got orders today but no luck as yet. They are going to Denver for fire gunnery boy what a break for them guys. Well Dad goodby for now.\n\nYour loving Son\n\nBob"
+    }
+  ],
+  "full_transcription": "Sat. Morn. 9/10\n\nDear Dad\n\nI am writing this on Sat morn. We were suppose to have a parade but they postpone it. It was really hot yesterday 105° in the shade we went on a 7½ mile [hike?] hike. Boy was it a long way. We came back and had a hour of drill, 3 hours of P.T. and Medical aid. We pract-ice artificial respiration. The ground was hot you could hardly lay on it. About 6:00 a storm started brewing and a few min. later it hit and I mean hit. The street was full to the curb with water and it was hailing. The wind was terrific it blew the water along in sheets. It really tore up the camp. They a big outdoor theater and it turn it down a threw it clear across the drill field. It tore a lot roof off knock a lot of signs down. Went down town and there was one place where the bus went thru for about 50 yds. about 2 feet down. It really rained. We have another hike today 5 miles I guess. A lot more guys got orders today but no luck as yet. They are going to Denver for fire gunnery boy what a break for them guys. Well Dad goodby for now.\n\nYour loving Son\n\nBob",
+  "summary": "Written on a Saturday morning from Sheppard Field, Texas, Bob describes an exhausting previous day that included a 7½-mile hike in 105° heat followed by drill, P.T., and first aid training including artificial respiration practice. He vividly recounts a powerful storm that struck around 6 PM, bringing hail, flooding, and violent winds that destroyed an outdoor theater and tore roofs off buildings. He notes that more fellow soldiers received discharge orders (headed to Denver for fire gunnery training), but he himself has not yet received orders, hinting at impatience to be released."
+}

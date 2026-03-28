@@ -1,0 +1,59 @@
+{
+  "letter_id": "78",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Bob,' writing to his aunt and grandmother from Chanute Field, Illinois",
+    "to": "Mrs. John Hanifen (Aunt Pauline) and 'Gran' (grandmother)",
+    "date": "Mon. 1900",
+    "date_normalized": "1945-06-25",
+    "location_written_from": "Service Club, Chanute Field, Illinois",
+    "location_sent_to": "904 Heo Way [Leo Way?], Des Moines, Iowa",
+    "postmark": "RANTOUL, ILL. JUN 25 10-AM 1945",
+    "envelope_notes": "Marked 'Free' in upper right corner (military free frank). Envelope is torn/damaged. Addressed to Mrs. John Hanifen, 904 Heo [Leo?] Way, Des Moines, Iowa.",
+    "topics": [
+      "KP duty",
+      "fatigue and sleep",
+      "airplane ride in C-47",
+      "flooding near St. Louis",
+      "sheet metal work on B-29s",
+      "possible Chicago visit",
+      "hot weather turning rainy",
+      "classmate from Lincoln High",
+      "anticipated posting date"
+    ],
+    "people_mentioned": [
+      "Aunt Pauline",
+      "Gran",
+      "Aunt Bonnie"
+    ],
+    "places_mentioned": [
+      "Chanute Field, Illinois",
+      "Chicago",
+      "St. Louis",
+      "Des Moines",
+      "Rantoul, Illinois"
+    ],
+    "mood_tone": "Casual, upbeat, and conversational; mildly tired from KP but good-humored about military life",
+    "legibility": "fair",
+    "legibility_notes": "Heavy bleed-through from the reverse side of the pages makes several words difficult to read. Some street address on envelope unclear — 'Heo Way' likely 'Leo Way.' The date written as 'Mon. 1900' appears to be a shorthand notation; the postmark confirms June 25, 1945.",
+    "historical_context": "Written near the end of WWII (June 1945). Bob mentions training at Chanute Field (an Army Air Forces technical training base), flying in a C-47 transport, the Mississippi River flooding near St. Louis, and sheet metal work needed to repair shot-up B-29s — all consistent with late-war AAF technical training activities.",
+    "date_estimated": "1945-06-25",
+    "date_estimated_confidence": "high",
+    "date_estimation_reasoning": "Letter is dated 'Mon. 1900' from Chanute Field Service Club, addressed to Aunt Pauline and Gran. Bob mentions having KP from 2:30 AM to 1:00 PM today (Monday), the C-47 flight to St. Louis 'yesterday' (Sunday), and anticipating KP again tomorrow (Tuesday). The C-47 flight is the same event described in Letters 53 (Monday flight account) and 54 (Sunday night before). Therefore this Monday is the day of the flight return, approximately June 25, 1945. Confirmed as approximately June 25, 1945.",
+    "date_is_approximate": true,
+    "chronological_date": "1945-06-25"
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter78.png",
+      "transcription": "• Service Club • Chanute Field, Illinois •\n\n                                                          Mon. 1900\nDear Aunt Pauline & Gran\n\n        Just got back from chow after sleeping all afternoon I won't be too tired so I stay a little later tonight in order so that I get to sleep. Had K.P. from 2:30 in the morn. till 1:00 this afternoon so at that I worked a little bit today. I was pretty sick this morn. Eat a couple of lead pancakes and 3 peaches and a couple bottles of milk. I have K.P. again tomorrow but it from 9:00 to 7:00 not too bad. Might get a three day and if I do I am going to go Chicago and see Aunt Bonnie I think. It has been hot all week but today it rained and it is rather chilly out. Ran into a kid in my Graduation class"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter78_page1.png",
+      "transcription": "a Lincoln High. He is here taking electronics. Had a swell airplane ride yesterday in a C-47 transport flew down to St. Louis and back only took two hrs. and a half both way. It sure seemed funny flying around at 9000 ft. the Miss. is flooding around St. Louis. Been in a big river. I am going to be here at least 16 weeks so that means sometime around the first of Nov. I will get a 15 day delay in route and P.O.E. They need Sheet Metal Workers bad to fix up those shot up B-29s.\n\nWell goodby for now and I will write again soon.\n        Your Loving Nephew\n                Bob"
+    }
+  ],
+  "full_transcription": "• Service Club • Chanute Field, Illinois •\n\n                                                          Mon. 1900\nDear Aunt Pauline & Gran\n\n        Just got back from chow after sleeping all afternoon I won't be too tired so I stay a little later tonight in order so that I get to sleep. Had K.P. from 2:30 in the morn. till 1:00 this afternoon so at that I worked a little bit today. I was pretty sick this morn. Eat a couple of lead pancakes and 3 peaches and a couple bottles of milk. I have K.P. again tomorrow but it from 9:00 to 7:00 not too bad. Might get a three day and if I do I am going to go Chicago and see Aunt Bonnie I think. It has been hot all week but today it rained and it is rather chilly out. Ran into a kid in my Graduation class a Lincoln High. He is here taking electronics. Had a swell airplane ride yesterday in a C-47 transport flew down to St. Louis and back only took two hrs. and a half both way. It sure seemed funny flying around at 9000 ft. the Miss. is flooding around St. Louis. Been in a big river. I am going to be here at least 16 weeks so that means sometime around the first of Nov. I will get a 15 day delay in route and P.O.E. They need Sheet Metal Workers bad to fix up those shot up B-29s.\n\nWell goodby for now and I will write again soon.\n        Your Loving Nephew\n                Bob",
+  "summary": "Bob Hanifen writes to his Aunt Pauline and grandmother from the Service Club at Chanute Field, Illinois on June 25, 1945. He describes exhausting KP duty, a C-47 airplane ride down to St. Louis and back where he observed the flooding Mississippi River, and his training as a sheet metal worker needed to repair battle-damaged B-29s. He anticipates being at Chanute Field for at least 16 more weeks before receiving a 15-day delay en route to a port of embarkation, and mentions possibly visiting Aunt Bonnie in Chicago if he gets a three-day pass."
+}

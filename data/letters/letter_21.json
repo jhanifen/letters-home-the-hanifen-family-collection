@@ -1,0 +1,52 @@
+{
+  "letter_id": "21",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — writing from Sheppard Field, Texas, based on the return address on the envelope",
+    "to": "Mr. James C. Hanifen — his father, James Edward Hanifen Sr., at 104 New Way, Des Moines, Iowa 14",
+    "date": "April 23, 1945 (postmark)",
+    "date_normalized": "1945-04-23",
+    "location_written_from": "Sheppard Field, Texas (AAF-B-T-U-BK3-502)",
+    "location_sent_to": "104 New Way, Des Moines, Iowa 14",
+    "postmark": "Wichita Falls, Texas, APR 23, 3 PM, 1945",
+    "envelope_notes": "Return address reads: [illegible name/number] 170600, A.I.-3706-ABO, AAF-B-T-U-BK3-502, Sheppard Field Texas. Addressed to Mr. James C. Hanifen, 104 New Way, Des Moines, Iowa 14. Stamp area torn/damaged. 'Free' franking mark partially visible at top right.",
+    "topics": [
+      "basic training",
+      "barracks inspection",
+      "B-29 gunner training pipeline",
+      "gunnery school",
+      "furlough plans",
+      "overseas deployment timeline",
+      "weather",
+      "food",
+      "daily routine",
+      "bedtime"
+    ],
+    "people_mentioned": [
+      "Dad (James Edward Hanifen Sr.)"
+    ],
+    "places_mentioned": [
+      "Sheppard Field, Texas",
+      "Des Moines, Iowa"
+    ],
+    "mood_tone": "Casual, informative, upbeat but matter-of-fact; son updating father on military training progress and expectations for deployment",
+    "legibility": "fair",
+    "legibility_notes": "Page 1 is mostly legible with some difficulty in the lower third where text fades and crosses folds. Page 2 is significantly harder to read — the paper shows heavy bleed-through from the reverse side (text appears to be from a previously written page showing through), making much of the lower half of page 2 very difficult to decipher. Only the top portion of page 2 is reliably transcribed.",
+    "historical_context": "Written in April 1945, near the end of WWII in Europe (Germany surrendered May 8, 1945). Bob is training at Sheppard Field as part of the AAF (Army Air Forces) pipeline, apparently destined to be a B-29 gunner — the B-29 Superfortress was the primary bomber used in the Pacific theater. The training schedule described (basic training, gunnery school, furlough, combat crew assignment, overseas) was the standard AAF training pipeline in 1945.",
+    "chronological_date": "1945-04-23",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter21.jpg",
+      "transcription": "Dear Dad,\n\nNot much doing around here tonight being as we are through for the day. Drilled a lot and took a few tests. Had a barracks inspection today as it was Sat. so we got the night off but can't leave the field. Not much to do in town anyway from the way the guys talk. Every body is going to be a B-29 gunner it seems judging from what the officers say. They need plenty of them. 71 days of basic training a week of gunnery school 18 day furlough 12 weeks with a combat crew, a small furlough and then overseas.\n\nI figured if it goes according to schedule we should be over by Christmas. It is not so hot here yet as it has been cloudy about every day. The food is still pretty good 3 times a few [?]. We go to sleep at 6:30 in the"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter21_page1.png",
+      "transcription": "morning pretty good deal I should say. To Bag it is really a hard bed not having anyplace to put anything in. Everything you have you keep in your barracks bag. Well I got to go to shower now so goodbye for now.\n\nYour loving son,\n\nBob\n\n[remainder of page heavily obscured by bleed-through from reverse side — illegible]"
+    }
+  ],
+  "full_transcription": "Dear Dad,\n\nNot much doing around here tonight being as we are through for the day. Drilled a lot and took a few tests. Had a barracks inspection today as it was Sat. so we got the night off but can't leave the field. Not much to do in town anyway from the way the guys talk. Every body is going to be a B-29 gunner it seems judging from what the officers say. They need plenty of them. 71 days of basic training a week of gunnery school 18 day furlough 12 weeks with a combat crew, a small furlough and then overseas.\n\nI figured if it goes according to schedule we should be over by Christmas. It is not so hot here yet as it has been cloudy about every day. The food is still pretty good 3 times a few [?]. We go to sleep at 6:30 in the morning pretty good deal I should say. To Bag it is really a hard bed not having anyplace to put anything in. Everything you have you keep in your barracks bag. Well I got to go to shower now so goodbye for now.\n\nYour loving son,\n\nBob",
+  "summary": "Bob Hanifen writes from Sheppard Field, Texas on April 23, 1945, giving his father a casual update on his Army Air Forces training. He describes their routine of drilling, tests, and barracks inspections, and relays what the officers are saying about the training pipeline for B-29 gunners: 71 days of basic training, gunnery school, an 18-day furlough, 12 weeks with a combat crew, another small furlough, and then overseas — estimating he might be overseas by Christmas. He briefly notes the weather, food, and living conditions before signing off to shower."
+}

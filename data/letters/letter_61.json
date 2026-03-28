@@ -1,0 +1,54 @@
+{
+  "letter_id": "61",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Your loving son, Bob'; return address on envelope reads 'Cpl. Boffangen [Hanifen?] 17060[0], Sqd. 1 - BPS-279, Chanute Fld. Ill.'",
+    "to": "Hanifen Body & Paint Co., 904 Des Way N. [?], Des Moines, Iowa — likely addressed to James Edward Hanifen Sr. (Dad)",
+    "date": "Sept. 1, 45",
+    "date_normalized": "1945-09-01",
+    "location_written_from": "Chanute Field, Illinois",
+    "location_sent_to": "Hanifen Body & Paint Co., 904 Des [Moines] Way N., Des Moines, Iowa",
+    "postmark": "Rantoul, ILL, SEP 11, 3:30 PM, 1945",
+    "envelope_notes": "Marked 'Free' in upper right corner (military free mail). Return address: Cpl. B[ob] [H]anifen, 17060[0?], Sqd. 1 - BPS-279, Chanute Fld. Ill. Some ink scrawls/marks on front of envelope. The surname on the return address is partially obscured but consistent with Hanifen.",
+    "topics": [
+      "safe return to camp",
+      "new shoes helped on the trip",
+      "no trouble from camp about absence",
+      "buying Edith a present",
+      "plans to come home again this week",
+      "brief and casual update"
+    ],
+    "people_mentioned": [
+      "Edith",
+      "Dad"
+    ],
+    "places_mentioned": [
+      "Chanute Field, Illinois",
+      "Des Moines, Iowa"
+    ],
+    "mood_tone": "Light, casual, and upbeat; Bob is relieved that he got back on time and avoided any repercussions from camp, and looks forward to coming home again soon.",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting is somewhat hurried and cursive; a few words required interpretation. Return address on envelope partially unclear. 'Sqd.' and unit number on envelope are best guesses. '904 Des Way N.' in recipient address is uncertain — could be a street address abbreviation.",
+    "historical_context": "Written September 1, 1945, just days after V-J Day (August 15, 1945) and the formal end of WWII (September 2, 1945). Bob is stationed at Chanute Field, Illinois, a U.S. Army Air Forces training base. The 'Free' mail designation indicates active military service. The relaxed tone suggests the war's end and anticipation of discharge/return home.",
+    "chronological_date": "1945-09-01",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "envelope",
+      "source_file": "letter61.png",
+      "transcription": "[Return address, upper left]\nCpl. B[ob] [H]anifen, 170600\nSqd. 1 - BPS-279\nChanute Fld. Ill.\n\n[Postmark, center]\nRANTOUL, ILL.\nSEP 11\n3:30 PM\n1945\n\n[Upper right]\nFree\n\n[Recipient address, center]\nHanifen Body & Paint Co.\n904 Des [Moines?] Way N.\nDes Moines, Iowa"
+    },
+    {
+      "page_label": "page 1",
+      "source_file": "letter61_page1.png",
+      "transcription": "Sept. 1, 45\n\nDear Dad\n  We had a swell time and got back on time. Never had a bit of trouble, those new shoes really helped a lot. We got off okay at Camp no body said a word to us yet, so it looks like we came out ahead I hope. Not a lot to write about around here same old place. Not doing a lot in the shop. I will get Edith a present today hope she will like it. I guess"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter61_page2.png",
+      "transcription": "I will be home again this week as long as everything goes right. to expect me anytime\nWell Dad goodbye for now.\n\nYour loving son\n  Bob"
+    }
+  ],
+  "full_transcription": "Sept. 1, 45\n\nDear Dad\n  We had a swell time and got back on time. Never had a bit of trouble, those new shoes really helped a lot. We got off okay at Camp no body said a word to us yet, so it looks like we came out ahead I hope. Not a lot to write about around here same old place. Not doing a lot in the shop. I will get Edith a present today hope she will like it. I guess I will be home again this week as long as everything goes right. to expect me anytime\nWell Dad goodbye for now.\n\nYour loving son\n  Bob",
+  "summary": "Written September 1, 1945, from Chanute Field, Illinois, Bob writes a brief note to his father (Dad) reporting that he had a great visit home, got back to camp on time, and that new shoes made the trip easier. He notes no one at camp said anything about their absence, so he hopes they came out ahead. He plans to get Edith a present and expects to come home again later that week. The letter is short and upbeat, reflecting the relaxed atmosphere near the end of WWII."
+}

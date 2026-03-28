@@ -1,0 +1,68 @@
+{
+  "letter_id": "76",
+  "metadata": {
+    "from": "Jan Hanifen (Bob's wife, signing as 'Your sister, (almost)' — suggesting she is Bob's girlfriend or fiancée at the time of writing, or recently married; also a second letter from Bob, written on Texas Company memorandum paper)",
+    "to": "Johnnie (John Hanifen, Bob's brother)",
+    "date": "November 8, 1951 (page 1); April 3, 195[?] (page 2)",
+    "date_normalized": "1951-11-08",
+    "location_written_from": "Dallas, Texas (page 1); likely Dallas, Texas (page 2, Texas Company letterhead)",
+    "location_sent_to": "P.F.C. J. R. Hanifen 55046284, Co. C439 Eng. Com. Bn., A.P.O. 301 % P.M., San Francisco, California",
+    "postmark": "Dallas, TX, NOV 8, 6 PM, 1951",
+    "envelope_notes": "Air Mail envelope; return address: Mrs. Jan Hanifen, 3614 Noble, Dallas, Texas. Postage meter stamp reads 'AIR MAIL 6¢'. Slogan cancellation reads 'GIVE ENOUGH THROUGH YOUR COMMUNITY CHEST'. Addressed to P.F.C. J.R. Hanifen-55046284, Co. C439-Eng. Com. Bn., A.P.O. 301 % P.M., San Francisco, California.",
+    "topics": [
+      "apology for not writing sooner",
+      "Bob opening Jan's mail to Johnnie",
+      "setting Johnnie up with girlfriends",
+      "brother Jim's letter about managing dad's shop",
+      "dad elk hunting in Colorado",
+      "Jan's job at United States Fidelity and Guaranty Co.",
+      "Bob's potential General Motors dealership school opportunity",
+      "Johnnie's high school diploma",
+      "second letter from Bob about Christmas package",
+      "voice recording sent as Christmas gift",
+      "local car show in Dallas",
+      "children's milestones (talking, walking)"
+    ],
+    "people_mentioned": [
+      "Bob (Robert Hanifen)",
+      "Jim (Jimmy Hanifen — brother, context: writing about managing dad's shop, likely Jim Jr.)",
+      "Dad (James Edward Hanifen Sr., elk hunting in Colorado)",
+      "Jan Hanifen",
+      "Johnnie (John Hanifen)",
+      "Mr. Chittenden (claims superintendent at US Fidelity and Guaranty Co.)",
+      "Rosemary (mentioned in page 2, possibly a child)"
+    ],
+    "places_mentioned": [
+      "Dallas, Texas",
+      "Des Moines (Iowa)",
+      "Michigan",
+      "Colorado",
+      "San Francisco, California"
+    ],
+    "mood_tone": "Warm, chatty, affectionate and playful; Jan writes in a friendly sister-in-law tone with humor; second letter (Bob's) is casual and affectionate",
+    "legibility": "fair",
+    "legibility_notes": "Page 1 (typed) is very legible. Page 2 is handwritten on Texas Company Debit or Credit Memorandum paper in cursive and is moderately difficult to read in places; some words uncertain. Year on page 2 is partially cut off (195_). The signature on page 2 appears to read 'Love Your Brother Bob' but is partially illegible.",
+    "historical_context": "John (Johnnie) Hanifen is serving in the U.S. Army during the Korean War era, stationed at APO 301 via San Francisco, suggesting overseas deployment likely in Korea or the Pacific. The letter is dated November 1951, consistent with the Korean War (1950-1953).",
+    "chronological_date": "1951-11-08",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "envelope",
+      "source_file": "letter76.png",
+      "transcription": "[Return Address]\nMrs. Jan Hanifen\n3614 Noble\nDallas, Texas\n\n[Recipient Address]\nP.-F.-C. J. R. Hanifen-55046284\nCo. C439-Eng. Com. Bn.\nA.P.O. 301 % P. M.\nSan Francisco, California\n\n[Postmark] DALLAS, TEX. / NOV 8 / 6 PM / 1951\n[Meter stamp] AIR MAIL 6¢\n[Slogan] GIVE ENOUGH THROUGH YOUR COMMUNITY CHEST\n[Red printed label on envelope face] AIR MAIL"
+    },
+    {
+      "page_label": "page 1",
+      "source_file": "letter76_page1.png",
+      "transcription": "[Header in red, printed/typed]\nPLEASE ADDRESS YOUR NEXT LETTER JUST TO ME,\nTHEN I CAN FUSS AT BOB FOR OPENING MY MAIL.\n\nNovember 8, 1951\n\nP. F. C. J. R. Hanifen 55046284\nCo C439 Eng Co. Bn\nAPO 301 % P. M.\nSan Francisco, California\n\nDear Johnnie,\n\n      I am so sorry I havn't written you before, but Bob never tells me when he is writing you a letter, so I don't have a chance to write you anything.\n\n      You better hurry up and come home, so I can get you a date with some of my girl-friends. I've told a lot of them about you, and they say they would like to go with you.\n\n      Your brother, Jim, just wrote us a letter yesterday, and told us to come to Des Moines, so he could manage your dad's shop at a buck 78 an hour, but you know Jimmy, your dad's in Colorado elk hunting, and I'm sure he doesn't know a thing about it.\n\n      I'm working at an insurance company for a bunch of claim adjusters, and half of them are from Des Moines. The name of it is United States Fidelity and Guaranty Co. The claims superintendent, Mr. Chittenden, said he sent a lot of business to the shop when he was in Des Moines, but Bob said he had never heard of them. I'm trying to get a new job, though, cause I'm not making enough money.\n\n      Bob heard about a good deal. If some general motors dealer will recommend you, you can go to school in Michigan, and, then they will send you out to some plant, anywhere in the U. S. Bob is going to try to get the guy he is working for to recommend him. It would really be a good deal if he could get on.\n\n      If you want me to get one of my girl-friends to write you, I will, cause I know a slew of them that would like to, (write, that is)\n\n      Did that deal about getting your high school diploma work out all right? I sure hope it did, cause you can get a lot better job, if you have it.\n\n      Well, I guess I better close for now, some queer is fixing to dictate me some letters.\n\n                              Be good and take care of yourself,\n\n                                          Love, Your sister, ( almost)\n\n                                          Jan Hanifen\n                                          Jan\n\nP. S.  I will write you lots more in the future."
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter76_page2.png",
+      "transcription": "[Printed header]\nDEBIT OR CREDIT\nMEMORANDUM\n\n[Handwritten date] April 3     195[?]\n\n[Printed form fields: oval blank box, 'We to-day _____ your account as follows:', columns for EXPLANATION and AMOUNT]\n\nDear John\n\n      Pardon the paper I am at work and decided to drop you a line. By the way you never did tell me whether you got your Christmas package or that recording of my voice to you. What a good deal the old man and Jim got for you the 51 [Ford?] they was [were] sure looking cars. I wish I had one myself the Chrysler is okay but it is not worth a thing. I sure hope you get home soon. Tom [?] you can home [come home?] this summer. Jan and I went last Sunday to see some modified stock cars here in Dallas at [Love?] Bowl and they weren't worth a damn. I don't think I saw a fender finished in the whole afternoon. They tell me Jim it is beginning to talk and Rosemary is trying to walk a little bit. I bet those kids are plenty cute. I'll [I'm?] in Des Moines around Christmas I figure to hoping you will be there too.\n\nLove Your Brother [Bob?]\n\n[Printed footer]\nTHE TEXAS COMPANY\nApproved _____ By _____"
+    }
+  ],
+  "full_transcription": "[ENVELOPE]\nReturn Address: Mrs. Jan Hanifen, 3614 Noble, Dallas, Texas\nRecipient: P.-F.-C. J. R. Hanifen-55046284, Co. C439-Eng. Com. Bn., A.P.O. 301 % P.M., San Francisco, California\nPostmark: DALLAS, TEX. / NOV 8 / 6 PM / 1951\nMeter stamp: AIR MAIL 6¢\nSlogan: GIVE ENOUGH THROUGH YOUR COMMUNITY CHEST\n\n[PAGE 1 — Typed letter from Jan Hanifen, November 8, 1951]\n\nPLEASE ADDRESS YOUR NEXT LETTER JUST TO ME,\nTHEN I CAN FUSS AT BOB FOR OPENING MY MAIL.\n\nNovember 8, 1951\n\nP. F. C. J. R. Hanifen 55046284\nCo C439 Eng Co. Bn\nAPO 301 % P. M.\nSan Francisco, California\n\nDear Johnnie,\n\n      I am so sorry I havn't written you before, but Bob never tells me when he is writing you a letter, so I don't have a chance to write you anything.\n\n      You better hurry up and come home, so I can get you a date with some of my girl-friends. I've told a lot of them about you, and they say they would like to go with you.\n\n      Your brother, Jim, just wrote us a letter yesterday, and told us to come to Des Moines, so he could manage your dad's shop at a buck 78 an hour, but you know Jimmy, your dad's in Colorado elk hunting, and I'm sure he doesn't know a thing about it.\n\n      I'm working at an insurance company for a bunch of claim adjusters, and half of them are from Des Moines. The name of it is United States Fidelity and Guaranty Co. The claims superintendent, Mr. Chittenden, said he sent a lot of business to the shop when he was in Des Moines, but Bob said he had never heard of them. I'm trying to get a new job, though, cause I'm not making enough money.\n\n      Bob heard about a good deal. If some general motors dealer will recommend you, you can go to school in Michigan, and, then they will send you out to some plant, anywhere in the U. S. Bob is going to try to get the guy he is working for to recommend him. It would really be a good deal if he could get on.\n\n      If you want me to get one of my girl-friends to write you, I will, cause I know a slew of them that would like to, (write, that is)\n\n      Did that deal about getting your high school diploma work out all right? I sure hope it did, cause you can get a lot better job, if you have it.\n\n      Well, I guess I better close for now, some queer is fixing to dictate me some letters.\n\n                              Be good and take care of yourself,\n\n                                          Love, Your sister, ( almost)\n\n                                          Jan Hanifen\n                                          Jan\n\nP. S.  I will write you lots more in the future.\n\n[PAGE 2 — Handwritten letter from Bob, on Texas Company Debit or Credit Memorandum paper, April 3, 195?]\n\nDear John\n\n      Pardon the paper I am at work and decided to drop you a line. By the way you never did tell me whether you got your Christmas package or that recording of my voice to you. What a good deal the old man and Jim got for you the 51 [Ford?] they was [were] sure looking cars. I wish I had one myself the Chrysler is okay but it is not worth a thing. I sure hope you get home soon. Tom [?] you can home [come home?] this summer. Jan and I went last Sunday to see some modified stock cars here in Dallas at [Love?] Bowl and they weren't worth a damn. I don't think I saw a fender finished in the whole afternoon. They tell me Jim it is beginning to talk and Rosemary is trying to walk a little bit. I bet those kids are plenty cute. I'll [I'm?] in Des Moines around Christmas I figure to hoping you will be there too.\n\nLove Your Brother [Bob?]",
+  "summary": "This envelope contains two letters to John (Johnnie) Hanifen, who is serving in the U.S. Army overseas during the Korean War era. The first letter, dated November 8, 1951, is a warm and humorous typed letter from Jan Hanifen (Bob's wife or fiancée), who playfully asks John to address future letters to her alone so Bob will stop opening her mail; she shares family news including Jim's scheme to manage the family shop, her job at an insurance company, Bob's General Motors school opportunity, and offers to set John up with girlfriends. The second letter, written by Bob on Texas Company office memorandum paper dated April 3 (year partially illegible), mentions a Christmas package and voice recording sent to John, a '51 Ford the family bought, attending a stock car race in Dallas, and news that young children (likely Jim Jr.'s children) are beginning to talk and walk. Together the letters paint a lively picture of the Dallas branch of the Hanifen family during the early 1950s while John was stationed abroad."
+}

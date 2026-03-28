@@ -1,0 +1,55 @@
+{
+  "letter_id": "72",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Bob,' written on Army Air Forces stationery",
+    "to": "Dad (James Edward Hanifen Sr.)",
+    "date": "Jan. 23",
+    "date_normalized": "1946-01-23",
+    "location_written_from": "Camp (military base, location not specified)",
+    "location_sent_to": null,
+    "postmark": null,
+    "envelope_notes": "Envelope shows back flap with handwritten notation in teal/green ink: 'Sunday Jan' and 'Sand [barcode/marks] 2222' — possibly a sorting or reference annotation. The text visible through the envelope appears to be bleed-through from the letter pages inside.",
+    "topics": [
+      "pen purchase",
+      "waiting to ship out",
+      "rumor about shipping date",
+      "YMCA visit",
+      "stationery folder",
+      "pictures"
+    ],
+    "people_mentioned": [
+      "Picart (or Picard?)"
+    ],
+    "places_mentioned": [
+      "YMCA"
+    ],
+    "mood_tone": "Casual and lighthearted; Bob is bored and idle, passing time at camp waiting to ship out, with a hint of wry humor about the pen deal and rumors",
+    "legibility": "fair",
+    "legibility_notes": "Some words are partially obscured by bleed-through from other pages or folds. 'Picart' (buddy's name) is uncertain. The second page has only a few lines of text at the top and the rest is bleed-through. The word 'Eversharp' is written as 'Evershrpt' or similar — likely 'Eversharp lifetime.' Page 2 top lines are in a different darker ink/pen.",
+    "historical_context": "WWII era — Bob is stationed at a military camp awaiting orders to ship out, referencing rumors about a departure date (the 25th). Written on Army Air Forces stationery.",
+    "date_estimated": "1946-01-23",
+    "date_estimated_confidence": "medium",
+    "date_estimation_reasoning": "Letter is dated 'Jan. 23' on Army Air Forces stationery. Bob mentions buying an Eversharp pen for $3, lying around doing nothing waiting to ship out (rumored departure on the 25th), visiting the YMCA with Picard. This fits the Greensboro timeline: Letter 32 (Jan. 14), Letter 72 (Jan. 23), Letter 68 (Jan. 25), Letter 23 (Jan. 29). The Picard reference matches 'Don Picard' mentioned in Letter 68, confirming the same location and period. Confirmed as January 23, 1946.",
+    "date_is_approximate": true,
+    "chronological_date": "1946-01-23"
+  },
+  "pages": [
+    {
+      "page_label": "envelope",
+      "source_file": "letter72.png",
+      "transcription": "[Back of envelope, handwritten in teal ink:]\nSunday Jan\nSand [|||] 2222\n\n[Note: Text visible through envelope paper is bleed-through from letter contents, not additional writing on the envelope itself.]"
+    },
+    {
+      "page_label": "page1",
+      "source_file": "letter72_page1.png",
+      "transcription": "[Army Air Forces letterhead with winged propeller insignia]\n\nJan. 23\n\nDear Dad\n     You can forget about the pen I bought here at camp for 3 bucks at $4 pen if it is a Eversharp lifetime. Not a bad deal.\nWe are still lying around doing nothing at all. They say we should ship out by the 25 but I guess it was just another rumor. Went evening at YMCA last night with Picart and a couple buddies not much else to do. How we [doing?] around the shop now. Going good I hope. Well Dad goodby for now          over\n          Love Bob"
+    },
+    {
+      "page_label": "page2",
+      "source_file": "letter72_page2.png",
+      "transcription": "[Continuation, written on back/inside of folded letter — top of page:]\nsay have they ever found that stationery folder of mine if they do send the pictures in it.\n\n[Remainder of page is bleed-through text from other pages, not additional content.]\n\n[Bottom of page repeats envelope annotation in teal ink:]\nSunday Jan\nSand [|||] 2222"
+    }
+  ],
+  "full_transcription": "[Army Air Forces letterhead with winged propeller insignia]\n\nJan. 23\n\nDear Dad,\n     You can forget about the pen I bought here at camp for 3 bucks at $4 pen if it is a Eversharp lifetime. Not a bad deal.\nWe are still lying around doing nothing at all. They say we should ship out by the 25 but I guess it was just another rumor. Went evening at YMCA last night with Picart and a couple buddies not much else to do. How we [doing?] around the shop now. Going good I hope. Well Dad goodby for now\n\n[over]\n\nsay have they ever found that stationery folder of mine if they do send the pictures in it.\n\n          Love Bob",
+  "summary": "Written on January 23rd on Army Air Forces stationery, Bob writes his father a brief, casual letter from camp. He mentions buying an Eversharp lifetime pen for 3 dollars (a good deal), notes that he and his fellow soldiers are idle waiting to ship out — a rumored departure date of the 25th apparently just another false rumor. He also asks whether the family has found his stationery folder and requests they send the pictures inside it."
+}

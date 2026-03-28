@@ -1,0 +1,60 @@
+{
+  "letter_id": "31a",
+  "metadata": {
+    "from": "Alvin, Carolyn, and girls (Miller family — return address shows 'Alvin Miller, 808 South Second, Laramie, Wyo.')",
+    "to": "James E. Hanifen (Jim Hanifen Jr., based on the address: 904 Keo Way, Des Moines, Iowa)",
+    "date": "June 11, 45",
+    "date_normalized": "1945-06-11",
+    "location_written_from": "808 So. 2nd, Laramie, Wyoming",
+    "location_sent_to": "James E. Hanifen, 904 Keo Way, Des Moines, Iowa",
+    "postmark": "Laramie, WYO. JUN 5 1 30PM 1945",
+    "envelope_notes": "Pre-printed 'AFTER FIVE DAYS RETURN TO' text on envelope. 3-cent purple 'Win the War' stamp. Note: postmark date (June 5) does not match letter date (June 11) — the envelope may have been reused or the postmark date is misread. It is possible the letter date is June 4 or 5 and '11' is a misread, or the envelope was prepared separately.",
+    "topics": [
+      "fishing",
+      "family update",
+      "children growing up",
+      "Jimmie overseas",
+      "negatives/photographs",
+      "vacation plans",
+      "invitation to visit"
+    ],
+    "people_mentioned": [
+      "Jimmie",
+      "Bobbie",
+      "Alvin",
+      "Edith",
+      "Shirley Rae",
+      "Sharon Kay",
+      "Carolyn"
+    ],
+    "places_mentioned": [
+      "Laramie, Wyoming",
+      "Des Moines, Iowa"
+    ],
+    "mood_tone": "Warm, friendly, and cheerful; family-oriented with light news about fishing, children, and distant relatives serving overseas.",
+    "legibility": "good",
+    "legibility_notes": "Bleed-through from the reverse side of pages makes some areas slightly harder to read, but overall the handwriting is clear and legible. 'Jimmie' likely refers to Bob Hanifen (Robert), as the letter is written to Jim and refers to 'Jimmie' as someone overseas — possibly Bob/Robert who was in WWII service. 'Bobbie' may refer to another family friend or relative.",
+    "historical_context": "Written in June 1945 near the end of WWII. 'Jimmie' had recently left the States, suggesting military deployment. The 'Win the War' stamp on the envelope reflects the wartime period.",
+    "chronological_date": "1945-06-11",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "envelope",
+      "source_file": "letter31a.png",
+      "transcription": "AFTER FIVE DAYS RETURN TO\nAlvin Miller\n808 South Second\nLaramie Wyo.\n\n[Postmark: LARAMIE WYO. JUN 5 1 30PM 1945]\n\n[Addressee:]\nJames E. Hanifen\n904 Keo Way\nDes Moines Iowa\n\n[Stamp: 3¢ United States Postage — 'Win the War' purple stamp]"
+    },
+    {
+      "page_label": "page 1",
+      "source_file": "letter31a_page1.png",
+      "transcription": "808 So 2nd.\nLaramie Wyo.\nJune 11, 45\n\nDear Jim,\n\n   We heard from Jimmie today and he asked us to send these negatives to you so some could be enlarged. You can keep the negatives as we have some pictures finished. This was the first letter we had from Jimmie since he left the States. Heard from Bobbie about a month ago. How about coming out.\n\n   Alvin went fishing last Sunday. Got his limit of some real nice ones. Better come out so as to go fishing with him"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter31a_page2.png",
+      "transcription": "during his vacation. That is the latter part of July.\n\n   How is Edith? Would so enjoy another good visit with both of you.\n\n   Our girls are sure growing. Shirley Rae looks and even acts a lot like Alvin. She is almost four months old now. We have taken her on a couple fishing trips already. Of course Sharon Kay really enjoys her picnics this summer. It is time to put the baby to bed now so will stop. Hope you write to us soon.\n\n                    Alvin, Carolyn &\n                         Girls."
+    }
+  ],
+  "full_transcription": "808 So 2nd.\nLaramie Wyo.\nJune 11, 45\n\nDear Jim,\n\n   We heard from Jimmie today and he asked us to send these negatives to you so some could be enlarged. You can keep the negatives as we have some pictures finished. This was the first letter we had from Jimmie since he left the States. Heard from Bobbie about a month ago. How about coming out.\n\n   Alvin went fishing last Sunday. Got his limit of some real nice ones. Better come out so as to go fishing with him during his vacation. That is the latter part of July.\n\n   How is Edith? Would so enjoy another good visit with both of you.\n\n   Our girls are sure growing. Shirley Rae looks and even acts a lot like Alvin. She is almost four months old now. We have taken her on a couple fishing trips already. Of course Sharon Kay really enjoys her picnics this summer. It is time to put the baby to bed now so will stop. Hope you write to us soon.\n\n                    Alvin, Carolyn &\n                         Girls.",
+  "summary": "This June 1945 letter from Alvin and Carolyn Miller in Laramie, Wyoming to Jim Hanifen in Des Moines, Iowa relays a request from 'Jimmie' — who had recently left the States (likely on military deployment) — to send photo negatives to Jim so enlargements could be made. The letter also shares family news: Alvin's successful fishing trip, an invitation for Jim and Edith to visit in late July, and updates on their two daughters, Shirley Rae (almost four months old) and Sharon Kay. The tone is warm and sociable, reflecting a close friendship between the families during the final months of WWII."
+}

@@ -1,0 +1,59 @@
+{
+  "letter_id": "33",
+  "metadata": {
+    "from": "Bob Hanifen — signed 'Bob,' sent from Sheppard Field, Texas",
+    "to": "Dad (James Edward Hanifen Sr.) — addressed to Hanifen Body & Paint Co., Des Moines, Iowa",
+    "date": "June 18, 45",
+    "date_normalized": "1945-06-18",
+    "location_written_from": "Sheppard Field, Texas (AAF, Sheppard Fld, Tex.)",
+    "location_sent_to": "Hanifen Body & Paint Co., 934 Keo Way, Des Moines, Iowa",
+    "postmark": "Wichita Falls, Texas, Jun 18, 1-PM, 1945",
+    "envelope_notes": "Return address: P.Y. Boh[?] fn 17176600, 3 BRT-3706 ABO, AAF, Sheppard Fld, Tex. Upper right corner reads 'Free' (military free mail franking). Addressed to Hanifen Body & Paint Co., 934 Keo Way, Des Moines, Iowa.",
+    "topics": [
+      "shipping/deployment postponed again",
+      "bad railroad conditions causing cancellation of orders",
+      "reassignment from teletype operators to sheet metal workers or Air Corps unassigned",
+      "frustration with Army reshuffling",
+      "loss of flight pay",
+      "floods rerouting trains through New Orleans",
+      "Father's Day wishes",
+      "promise to send a gift from next posting"
+    ],
+    "people_mentioned": [
+      "Dad (James Edward Hanifen Sr.)"
+    ],
+    "places_mentioned": [
+      "Sheppard Field, Texas",
+      "Wichita Falls, Texas",
+      "Chanute (likely Chanute Field, Illinois)",
+      "New Orleans",
+      "Des Moines, Iowa",
+      "Kessler (likely Keesler Field, Mississippi)"
+    ],
+    "mood_tone": "Frustrated, discouraged, and resigned; Bob is fed up with repeated postponements and the Army's reshuffling of assignments, but maintains a measured, conversational tone with his father.",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting is generally readable but some words require interpretation (e.g., 'Sowery' on page 2 may be a misspelling or place name, possibly 'So we're'; 'Kessler' inferred from context; 'tack' may be 'stack'; some words partially obscured by folds).",
+    "historical_context": "Written near the end of WWII (June 1945, just after V-E Day). Bob is at Sheppard Field, Texas, awaiting deployment orders that keep being postponed. References to bad railroad conditions, floods, and the Army's reshuffling of personnel (from teletype operators to sheet metal workers or unassigned Air Corps) reflect the chaotic demobilization/redeployment logistics of mid-1945. No flight pay when reclassified to ground duties was a real financial concern for airmen.",
+    "chronological_date": "1945-06-18",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "envelope",
+      "source_file": "letter33.png",
+      "transcription": "[Return address]\nP.Y. Boh[?]fn 17176600\n3 BRT – 3706 ABO\nAAF\nSheppard Fld, Tex.\n\n[Postmark: Wichita Falls, Texas / Jun 18 / 1-PM / 1945]\n\n[Upper right: Free]\n\n[Recipient address]\nHanifen Body & Paint Co.\n934 Keo Way\nDes Moines, Iowa"
+    },
+    {
+      "page_label": "page 1",
+      "source_file": "letter33_page1.png",
+      "transcription": "June 18, 45\n\nDear Dad\n\nWell the shipping has been postponed again. It was definitely June. But bad condition of railroad travel forced a cancellation of orders. And on top of that they told us that all Teletype operators would go to Chanute as Sheet Metal workers. Now they say will go as Air Corps unassigned. All they are doing is playing with us. They don't need us any place in particular and they have to get us off the field somehow so that how they are doing it. I am discouraged about it all. No flight pay when you are a sheet metal or teletype worker. What a deal.\n\nA few lucky guys are going to gunnery but they have been here since"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter33_page2.png",
+      "transcription": "January & February. God only knows who will ship. When we are on the train I will believe but not until then. We might go anywhere. So we're[?], Kessler, the floods are so bad they are routing trains going to Chanute thru New Orleans — it takes about 3 days to get there. But we are it easy though, don't have to do nothing but eat and sleep and attend roll call. We work harder trying to get out of work than if we were really working. Got caught day dreaming and had to clean latrines and stack[?] beds. Hope you had a nice Father's Day. I will send you something better when I get to a place where they have something.\n\nWell goodbye for now\n\nLove, Bob"
+    }
+  ],
+  "full_transcription": "June 18, 45\n\nDear Dad\n\nWell the shipping has been postponed again. It was definitely June. But bad condition of railroad travel forced a cancellation of orders. And on top of that they told us that all Teletype operators would go to Chanute as Sheet Metal workers. Now they say will go as Air Corps unassigned. All they are doing is playing with us. They don't need us any place in particular and they have to get us off the field somehow so that how they are doing it. I am discouraged about it all. No flight pay when you are a sheet metal or teletype worker. What a deal.\n\nA few lucky guys are going to gunnery but they have been here since January & February. God only knows who will ship. When we are on the train I will believe but not until then. We might go anywhere. So we're[?], Kessler, the floods are so bad they are routing trains going to Chanute thru New Orleans — it takes about 3 days to get there. But we are it easy though, don't have to do nothing but eat and sleep and attend roll call. We work harder trying to get out of work than if we were really working. Got caught day dreaming and had to clean latrines and stack[?] beds. Hope you had a nice Father's Day. I will send you something better when I get to a place where they have something.\n\nWell goodbye for now\n\nLove, Bob",
+  "summary": "Written on June 18, 1945 from Sheppard Field, Texas, Bob tells his father that his deployment has been postponed yet again — this time due to poor railroad conditions — and that his group has been reshuffled from teletype operators to sheet metal workers and now to 'Air Corps unassigned.' He expresses deep frustration at the Army's disorganized handling of personnel and the loss of flight pay that comes with these ground reassignments. He also mentions severe flooding rerouting trains through New Orleans, wishes his father a happy Father's Day, and promises to send a gift once he reaches a permanent posting."
+}

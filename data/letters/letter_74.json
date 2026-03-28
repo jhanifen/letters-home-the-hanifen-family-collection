@@ -1,0 +1,55 @@
+{
+  "letter_id": "74",
+  "metadata": {
+    "from": "Bob (Bobby) Hanifen — signed 'Bobby' at the end",
+    "to": "Dad (James Edward Hanifen Sr.)",
+    "date": "March 20, 1946",
+    "date_normalized": "1946-03-20",
+    "location_written_from": "Military base, likely stateside — references getting out 'Friday night' and being home in time for Easter; mentions possible assignment to Kessler Field or Sheppard Field, Texas",
+    "location_sent_to": "Des Moines, Iowa (implied — letter references shipping equipment there)",
+    "postmark": null,
+    "envelope_notes": "No envelope image provided. Letter header notes 'June: 1045' possibly a time notation or unit designation.",
+    "topics": [
+      "money received",
+      "basketball tournament",
+      "train ticket home",
+      "shipping equipment home",
+      "Easter plans",
+      "possible reassignment to Texas",
+      "weather"
+    ],
+    "people_mentioned": [
+      "Dad (James Edward Hanifen Sr.)",
+      "Captain (unnamed)"
+    ],
+    "places_mentioned": [
+      "Des Moines",
+      "Kessler Field",
+      "Sheppard Field",
+      "Texas"
+    ],
+    "mood_tone": "Cheerful, upbeat, and eager — Bob is excited about coming home for Easter and wrapping up his military service. Light and conversational.",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting is cursive and somewhat difficult in places; some words required interpretation. Page 2 has heavier ink bleed and wear making some phrases harder to read. 'June: 1045' at the top is unclear — possibly a time or unit code. The phrase 'two left deep' at the end of page 1 is uncertain.",
+    "historical_context": "Post-WWII demobilization period, March 1946. Bob appears to be winding down his military service and preparing to return home. References to shipping equipment home and getting out on Friday are consistent with the large-scale demobilization occurring in early 1946. Mention of Kessler Field and Sheppard Field suggests possible reassignment before final discharge.",
+    "date_estimated": "1946-03-20",
+    "date_estimated_confidence": "high",
+    "date_estimation_reasoning": "Letter is explicitly dated 'March 20, 1946' in the text (with an odd notation 'June: 1045' which appears to be military time notation for 10:45 AM, not a month). Bob mentions getting out Friday night and being home for Easter, shipping equipment home, and possibly going to Kessler Field or Sheppard Field, Texas. Easter 1946 fell on April 21. Getting out on a Friday before Easter and being home in time is consistent with mid-to-late March 1946. The mention of a basketball tournament in the letter and the weather 'fine today' fits late March in the South/Midwest. Confirmed as March 20, 1946.",
+    "date_is_approximate": true,
+    "chronological_date": "1946-03-20"
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter74_page1.png",
+      "transcription": "March 20, 1946\nJune: 1045\n\nDear Dad\n\nI received the money but I haven't spent any of it yet. We got in to most of the games free except the semifinal and final and I had enough money to go to them. I will use the money to get my train ticket with it cost about 16 bucks. I think I will ride the train right into Des Moines that way you won't have to go all the way to Ames. The tournament was pretty nice seen a lot of good basketball especially the Championship game. Their baby is really nice. I will have to get up around 1:00 in the morning to see Jim so I don't I will go to bed that night till after the train comes goes. The weather is fine today don't even have to wear a field jacket. Last week snow was two left[?] deep. D.D."
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter74_page2.png",
+      "transcription": "test start [this?] so that it's almost all over. I have all my equipment ready to send home. If I am missing in a couple of handkerchiefs not bad. I am going to ship them [home?] to Des Moines so I won't be bother with them. I will insure them for 50 bucks apiece in case they lost. That what the Captain said to do. Don't take any chances. We are getting out Friday night so that means I will be home in time for Easter. You be home and we will go to Church together. Hope it is nice weather at home. I don't like rainy weather. We are either going to Kessler Field or Sheppard Field, Texas we don't for sure yet.\n\nWell good by for now and don't work to hard.\n\nLove,\nBobby"
+    }
+  ],
+  "full_transcription": "March 20, 1946\nJune: 1045\n\nDear Dad\n\nI received the money but I haven't spent any of it yet. We got in to most of the games free except the semifinal and final and I had enough money to go to them. I will use the money to get my train ticket with it cost about 16 bucks. I think I will ride the train right into Des Moines that way you won't have to go all the way to Ames. The tournament was pretty nice seen a lot of good basketball especially the Championship game. Their baby is really nice. I will have to get up around 1:00 in the morning to see Jim so I don't I will go to bed that night till after the train comes goes. The weather is fine today don't even have to wear a field jacket. Last week snow was two left[?] deep. D.D.\n\ntest start [this?] so that it's almost all over. I have all my equipment ready to send home. If I am missing in a couple of handkerchiefs not bad. I am going to ship them [home?] to Des Moines so I won't be bother with them. I will insure them for 50 bucks apiece in case they lost. That what the Captain said to do. Don't take any chances. We are getting out Friday night so that means I will be home in time for Easter. You be home and we will go to Church together. Hope it is nice weather at home. I don't like rainy weather. We are either going to Kessler Field or Sheppard Field, Texas we don't for sure yet.\n\nWell good by for now and don't work to hard.\n\nLove,\nBobby",
+  "summary": "Written March 20, 1946, Bob (Bobby) Hanifen writes to his father from what appears to be a military base, reporting that he received money sent by his dad but hasn't spent it yet as they got into most of the basketball tournament games for free. He plans to use the money for his train ticket home to Des Moines (~$16), so his father won't need to travel to Ames to pick him up. Bob is excited to be getting out on Friday night and expects to be home in time for Easter, hoping they can go to church together. He is shipping his equipment home to Des Moines, insured for $50 per item on the Captain's advice, and notes they may be reassigned to either Kessler Field or Sheppard Field in Texas, though details are not yet confirmed."
+}

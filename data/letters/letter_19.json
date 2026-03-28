@@ -1,0 +1,55 @@
+{
+  "letter_id": "19",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Your Brother, Bob'; return address is 'B.C. Hanifen, 434 Virginia Ave., Des Moines, Iowa'",
+    "to": "Pvt. James Hanifen (Jim, Bob's brother, James Edward Hanifen Jr.) at Cook & Baker School, Fort Riley, Kansas",
+    "date": null,
+    "date_normalized": "1944-06-11",
+    "location_written_from": "Des Moines, Iowa",
+    "location_sent_to": "Pvt. James Hanifen, 37692453, Cook & Baker School, Fort Riley, Kansas",
+    "postmark": "Des Moines 2, Iowa, Jun 11, 9:30 PM, 1944",
+    "envelope_notes": "3-cent purple 'Win the War' stamp. Return address: B.C. Hanifen, 434 Virginia Ave., Des Moines, Iowa. Service number 37692453 written next to Jim's name.",
+    "topics": [
+      "graduation gift thanks",
+      "graduation gifts received",
+      "college plans / Navy Air Corps",
+      "news about family member (Don P.?)",
+      "Pauline making cookies for Jim",
+      "bad storm and river flooding",
+      "John's playful threat"
+    ],
+    "people_mentioned": [
+      "Jim (James Hanifen Jr.)",
+      "Pauline Hanifen",
+      "John Hanifen",
+      "Don P. [last name illegible]"
+    ],
+    "places_mentioned": [
+      "Des Moines, Iowa",
+      "Fort Riley, Kansas"
+    ],
+    "mood_tone": "Warm, youthful, conversational; appreciative and lighthearted with a touch of family humor",
+    "legibility": "fair",
+    "legibility_notes": "Some words difficult to decipher due to cursive style; 'Don P.' last name illegible; a few words on page 2 require guessing.",
+    "historical_context": "Letter dated June 1944, during WWII. Bob mentions plans to attend college or join the Navy Air Corps after graduation. Jim is stationed at the Cook & Baker School, Fort Riley, Kansas, a WWII Army training facility.",
+    "date_estimated": "1944-06-11",
+    "date_estimated_confidence": "high",
+    "date_estimation_reasoning": "Envelope is postmarked June 11, 1944 per the letter metadata ('postmarked June 11, 1944'). Bob thanks Jim for a graduation gift and mentions plans for college or the Navy Air Corps. This aligns with Bob graduating from high school in June 1944. The letter is addressed to Jim at Cook & Baker School, Fort Riley, Kansas. Date is confirmed by postmark.",
+    "date_is_approximate": true,
+    "chronological_date": "1944-06-11"
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter19.jpg",
+      "transcription": "Dear Jim,\n\n    I want to thank you very much for my graduation gift. Everybody liked it very much & so do I. I got a small briefcase, a new ink pen, 2 dollar [worth of?] billfold, a chain & medal and a toilet set. I am going to [go?] to college in July or the Navy Air Corp. so don't be surprised when you hear it. I heard from Don P[illegible] and he has a pretty good deal he says."
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter19_page1.png",
+      "transcription": "Pauline made some cookies for you and she won't let us have any of them — they'll be there some day soon. We had another bad storm last night and did the river ever rise — they think it might flood again.\n\n                    Your Brother,\n                        Bob\n\nP.S. John says he is going to throw you in the sewer when you come home again."
+    }
+  ],
+  "full_transcription": "Dear Jim,\n\n    I want to thank you very much for my graduation gift. Everybody liked it very much & so do I. I got a small briefcase, a new ink pen, 2 dollar [worth of?] billfold, a chain & medal and a toilet set. I am going to [go?] to college in July or the Navy Air Corp. so don't be surprised when you hear it. I heard from Don P[illegible] and he has a pretty good deal he says.\n\nPauline made some cookies for you and she won't let us have any of them — they'll be there some day soon. We had another bad storm last night and did the river ever rise — they think it might flood again.\n\n                    Your Brother,\n                        Bob\n\nP.S. John says he is going to throw you in the sewer when you come home again.",
+  "summary": "Bob Hanifen writes to his brother Jim (Pvt. James Hanifen Jr.) at Fort Riley, Kansas, thanking him for a graduation gift and listing other gifts he received. Bob mentions he plans to attend college in July or join the Navy Air Corps, and shares family news: Pauline has baked cookies reserved for Jim, a bad storm caused the river to rise with possible flooding, and younger brother John humorously threatens to throw Jim in the sewer when he comes home. The letter is postmarked June 11, 1944."
+}

@@ -1,0 +1,62 @@
+{
+  "letter_id": "69",
+  "metadata": {
+    "from": "Bob Hanifen (Pvt. Bob Hanifen, as written on envelope)",
+    "to": "Dad (James Edward Hanifen Sr.)",
+    "date": null,
+    "date_normalized": "1945-06-08",
+    "location_written_from": "Sheppard Field, Texas",
+    "location_sent_to": "Hanifen Body & Paint Co., 904 Neo Way, Des Moines, Iowa",
+    "postmark": "Wichita Falls, Texas, Jun 8, 1:30 PM, 1945",
+    "envelope_notes": "Return address: Pvt. Bob Hanifen 12110600, Sqd-I-370C-ABO, AAF-BT-C-BKS-605, Sheppard Fld., Texas. Marked 'Free' in upper right corner (military free postage).",
+    "topics": [
+      "heat and weather",
+      "military detail duty",
+      "barracks move",
+      "flight unit breakup",
+      "physical training",
+      "hike tomorrow",
+      "letter from Wyoming",
+      "ADTB benefits in Army",
+      "hydration/salt tablets",
+      "letter from Jimmy",
+      "exhaustion"
+    ],
+    "people_mentioned": [
+      "Cap. Jackson",
+      "Jimmy (Jim Hanifen Jr., Bob's brother)"
+    ],
+    "places_mentioned": [
+      "Sheppard Field, Texas",
+      "Wichita Falls, Texas",
+      "Wyoming",
+      "Des Moines, Iowa"
+    ],
+    "mood_tone": "Tired, mildly complaining but good-humored; candidly describes the heat, physical demands, and longing to get out of Sheppard Field.",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting is cursive and somewhat hurried; a few words require interpretation. 'Neo Way' on envelope may be 'Heo Way' or another street name — difficult to read clearly. 'ADTB' on page 2 is an abbreviation that is somewhat unclear. 'Sqd-I-370C-ABO' and unit designations on envelope are interpreted as best as possible.",
+    "historical_context": "Bob is stationed at Sheppard Field (Army Air Forces base near Wichita Falls, Texas) during WWII, mid-1945. References to ADTB (Army Air Forces District Training Base or similar) and military training. The war in Europe had ended by this date (May 1945); Pacific theater still ongoing. Military free mail postage used.",
+    "jimmy_note": "Jimmy/Jim mentioned as receiving more training — context suggests this is Bob's brother Jim (James Jr.), also in the Army.",
+    "chronological_date": "1945-06-08",
+    "date_is_approximate": true
+  },
+  "pages": [
+    {
+      "page_label": "envelope",
+      "source_file": "letter69.png",
+      "transcription": "Return address:\nPvt. Bob Hanifen 12110600\nSqd-I-370C-ABO\nAAF-BT-C-BKS-605\nSheppard Fld., Texas\n\n[Postmark: Wichita Falls, Texas, Jun 8, 1:30 PM, 1945]\n\n[Upper right: 'Free' (military free postage)]\n\nAddressed to:\nHanifen Body & Paint Co.\n904 Neo Way [street name uncertain]\nDes Moines, Iowa"
+    },
+    {
+      "page_label": "page 1",
+      "source_file": "letter69_page1.png",
+      "transcription": "Dear Dad\n\n     Well I am still here sweating it out. Boy was it hot to today must have been around 100°. We had detail the other day. I was a runner for Cap. Jackson's office must have walked 10 miles. But it is pretty nice place to work. An air condition building, ice water to drink and a coke machine and 15 good looking women to work with. A sweet girl came me my order I didn't mind it at all. Today was a rough day we move to another barracks and they broke up our flight we are all over the field now. More guys got orders tonight. But me no luck. Tomorrow we have a 7 miles hike and a couple of hours of P.T. boy will I be glad to get out of here. I suppose you are wondering about that letter from Wyo. It was from Cap."
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter69_page2.png",
+      "transcription": "East. He wanted to know how ADTB benefited us in the Army. It really helped a lot. I drank about 7 bottles of pop today and about 15 glasses of water and salt tablets, and I am still thirsty. Give a 5 cent for a good cold glass of water. Got a letter from Jimmy he didn't a whole lot. Say he is receiving more training. I think that all you do in the Army train and train some more. Well Dad goodby for now. I am so tired I can hardly sit, I hate to think of tomorrow. Goodby for now\n\nYour Loving Son\n     Bob"
+    }
+  ],
+  "full_transcription": "Dear Dad\n\n     Well I am still here sweating it out. Boy was it hot to today must have been around 100°. We had detail the other day. I was a runner for Cap. Jackson's office must have walked 10 miles. But it is pretty nice place to work. An air condition building, ice water to drink and a coke machine and 15 good looking women to work with. A sweet girl came me my order I didn't mind it at all. Today was a rough day we move to another barracks and they broke up our flight we are all over the field now. More guys got orders tonight. But me no luck. Tomorrow we have a 7 miles hike and a couple of hours of P.T. boy will I be glad to get out of here. I suppose you are wondering about that letter from Wyo. It was from Cap.\n\nEast. He wanted to know how ADTB benefited us in the Army. It really helped a lot. I drank about 7 bottles of pop today and about 15 glasses of water and salt tablets, and I am still thirsty. Give a 5 cent for a good cold glass of water. Got a letter from Jimmy he didn't a whole lot. Say he is receiving more training. I think that all you do in the Army train and train some more. Well Dad goodby for now. I am so tired I can hardly sit, I hate to think of tomorrow. Goodby for now\n\nYour Loving Son\n     Bob",
+  "summary": "Private Bob Hanifen writes to his father from Sheppard Field, Texas in June 1945, complaining about the extreme heat (around 100°F) and grueling military life. He describes a pleasant detail running messages for Captain Jackson's air-conditioned office, but laments that his flight unit has been broken up and scattered across the field, and that he has yet to receive his orders. He mentions a letter from a Captain in Wyoming asking how ADTB training benefited soldiers, reports on his brother Jimmy also receiving more military training, and closes exhausted, dreading the next day's 7-mile hike and physical training."
+}

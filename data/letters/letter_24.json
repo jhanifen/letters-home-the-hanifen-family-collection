@@ -1,0 +1,59 @@
+{
+  "letter_id": "24",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Bobby,' writing to his father",
+    "to": "James Edward Hanifen Sr. (Dad)",
+    "date": "19 June 1946",
+    "date_normalized": "1946-06-19",
+    "location_written_from": "Naples, Italy (implied from references to the Docks at Naples and APO 528)",
+    "location_sent_to": "Hanifen Body & Paint Co., 904 Keo Way, Des Moines, Iowa",
+    "postmark": "US ARMY POSTAL SERVICE, JUN 19 [1946?], 512",
+    "envelope_notes": "6-cent US Airmail stamp (red, airplane design). Return address typed: Col. Robert E. Hanifen 17170600, 2012 Ord. & Mt. Co. AF., APO 528, % P.M. New York, N.Y. Envelope is worn and torn at top.",
+    "topics": [
+      "military duty in Naples",
+      "transport work to Naples docks",
+      "dancing at the Officers Club",
+      "weather in Italy",
+      "weapons and ammunition",
+      "German POW strike",
+      "standing guard over POWs",
+      "riot in Naples",
+      "mention of family member Violet and school",
+      "Johnny's wellbeing",
+      "red tape for sending things home",
+      "enclosing $59 money order"
+    ],
+    "people_mentioned": [
+      "Dad",
+      "Johnny",
+      "Violet",
+      "Bobby (self)"
+    ],
+    "places_mentioned": [
+      "Naples",
+      "New York",
+      "Des Moines",
+      "Iowa"
+    ],
+    "mood_tone": "Casual, lively, and slightly adventurous; Bob describes exciting and sometimes tense military experiences with a matter-of-fact tone, mixed with family concern",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting is cursive and moderately difficult; some words are ambiguous (e.g., 'Carbine & 30 Thompson' on page 1, 'bubbie' or similar nickname unclear). Several words required close interpretation. The sketch of a guard tower is included on page 1.",
+    "historical_context": "Post-WWII occupation period in Italy, June 1946. Bob is stationed near Naples with an Ordnance and Maintenance Company. German POWs were still being used as labor and staged a work strike, requiring US soldiers to stand armed guard. A serious riot occurred in Naples that same night, with 14 people and 8 police reportedly killed — likely referencing post-war civil unrest in Naples. The letter reflects the chaotic conditions of post-war occupied Italy.",
+    "chronological_date": "1946-06-19",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter24.png",
+      "transcription": "19 June 1946\n\nDear Dad\n\n   Down to work already, have been working rather hard the last week. Have been taking trucks to the Docks at Naples, a 90 foot float. Takes all day for one trip down & back. Went dancing at the Off[icers] Bros[?] last night, the girls are very nice there. It is raining like hell here, hasn't been very hot here yet. They say it can get pretty hot, but as yet it hasn't. We brought in to our Armament shop yesterday 400 Carbine & 30 Thompson Sub Machine guns. My [bubbie?] & I now have about 2000 rounds of 45 ammo. We are going to shoot it up [&?] [illegible] with a Sub Machine gun. It is a lot of fun. The German PW went on strike Wed. morning for more food, so we had to stand guard over them. I was in a tower about 60 feet high with a machine gun. [None/One] of them boys to go away. They went back to work that afternoon.\n\n[Sketch of guard tower with labels showing dimensions: 3\" and 10\"]"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter24_page1.png",
+      "transcription": "I was coming back through Naples at about 7:00 with my float and the street was filled completely with people, about 2000 of them. I didn't know what to do exactly, so I asked the German. He handed me my 45 pistol. I said not yet, and put my tractor in 3rd and started plowing through. Them ginnies were pumping for their lives. At 10:00 that same night they had a riot there — 14 people were killed and 8 cops. I told them Dan would go if he could walk. I think Violet was against it. It would be [good] for him to go to school. At least now he will have to use his own mind now and not his mother.\n\nHope Johnny is doing alright. It takes so much red tape to send anything home, is why I haven't sent anything. I am enclosing a $59 dollars money order. You know what to do with it.\n\nLots of Love, Your Son\n                Bobby"
+    }
+  ],
+  "full_transcription": "19 June 1946\n\nDear Dad\n\n   Down to work already, have been working rather hard the last week. Have been taking trucks to the Docks at Naples, a 90 foot float. Takes all day for one trip down & back. Went dancing at the Off[icers] Bros[?] last night, the girls are very nice there. It is raining like hell here, hasn't been very hot here yet. They say it can get pretty hot, but as yet it hasn't. We brought in to our Armament shop yesterday 400 Carbine & 30 Thompson Sub Machine guns. My [bubbie?] & I now have about 2000 rounds of 45 ammo. We are going to shoot it up [&?] [illegible] with a Sub Machine gun. It is a lot of fun. The German PW went on strike Wed. morning for more food, so we had to stand guard over them. I was in a tower about 60 feet high with a machine gun. [None/One] of them boys to go away. They went back to work that afternoon.\n\n[Sketch of guard tower with labels showing dimensions: 3\" and 10\"]\n\nI was coming back through Naples at about 7:00 with my float and the street was filled completely with people, about 2000 of them. I didn't know what to do exactly, so I asked the German. He handed me my 45 pistol. I said not yet, and put my tractor in 3rd and started plowing through. Them ginnies were pumping for their lives. At 10:00 that same night they had a riot there — 14 people were killed and 8 cops. I told them Dan would go if he could walk. I think Violet was against it. It would be [good] for him to go to school. At least now he will have to use his own mind now and not his mother.\n\nHope Johnny is doing alright. It takes so much red tape to send anything home, is why I haven't sent anything. I am enclosing a $59 dollars money order. You know what to do with it.\n\nLots of Love, Your Son\n                Bobby",
+  "summary": "Written on June 19, 1946, from post-war Naples, Italy, Bob (Bobby) Hanifen writes to his father describing his military duties hauling equipment to the Naples docks, socializing at the Officers Club, and a tense episode guarding German POWs who went on strike for more food. He recounts a harrowing drive through a crowd of ~2,000 people in Naples and a deadly riot later that night in which 14 civilians and 8 police were killed. He closes with brief family remarks — mentioning Violet and Johnny — and encloses a $59 money order."
+}

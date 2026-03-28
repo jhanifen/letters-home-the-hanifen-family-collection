@@ -1,0 +1,46 @@
+{
+  "letter_id": "12",
+  "metadata": {
+    "from": "Pvt. Robert Hanifen (Bob) — signed 'Pvt. Robert Hanifen' on the interior of the card",
+    "to": "Unknown — no envelope address visible",
+    "date": null,
+    "date_normalized": "1944",
+    "location_written_from": null,
+    "location_sent_to": null,
+    "postmark": null,
+    "envelope_notes": "This is a WWII-era patriotic Christmas card, not a traditional envelope. The cover features a silver bell with holly, red and white ribbons with blue stripes, and blue stars. Text on the cover reads 'A MERRY CHRISTMAS / From One in the SERVICE.' No postmark, stamp, or address is visible.",
+    "topics": [
+      "Christmas greeting",
+      "military service",
+      "WWII patriotic card",
+      "holiday sentiments"
+    ],
+    "people_mentioned": [
+      "Pvt. Robert Hanifen"
+    ],
+    "places_mentioned": [],
+    "mood_tone": "Patriotic, warm, and bittersweet — acknowledging the separation caused by wartime service while maintaining holiday cheer and hope for reunion.",
+    "legibility": "good",
+    "legibility_notes": "The interior text is printed/pre-printed verse in a cursive font, with the signature 'Pvt. Robert Hanifen' handwritten at the bottom. All text is clearly legible.",
+    "historical_context": "This is a WWII-era military Christmas card sent 'From One in the SERVICE.' The verse references postponed joys and 'freedom's light,' clearly alluding to wartime separation. The red, white, and blue patriotic motifs (torch of liberty, ribbons, stars) are consistent with WWII home-front and military iconography. Bob Hanifen is listed as a Private (Pvt.), indicating he was enlisted in the U.S. Army.",
+    "date_estimated": "1944",
+    "date_estimated_confidence": "medium",
+    "date_estimation_reasoning": "WWII patriotic Christmas card from 'Pvt. Robert Hanifen.' Bob held the rank of Private during 1944–early 1945 (he is PFC by February 1946 per Letters 8, 15, 25). The card's verse about postponed joys 'until we meet again 'neath freedom's light' is consistent with active wartime service. Bob was at Sheppard Field in spring/summer 1944 (Letter 71 postmarked May 25, likely 1944) and at University of Wyoming in summer 1944. He may have been home or on leave at Christmas 1944 before shipping to Greensboro in January 1945. Most likely Christmas 1944, possibly 1943 if he was already in some form of service, but 1944 is most probable given his Pvt. rank and active training timeline.",
+    "date_is_approximate": true,
+    "chronological_date": "1944"
+  },
+  "pages": [
+    {
+      "page_label": "cover",
+      "source_file": "letter12.png",
+      "transcription": "[Cover of Christmas card]\n\nA MERRY CHRISTMAS\nFrom One in the SERVICE\n\n[Decorative elements: silver bell, holly with red berries, red and white ribbon with blue stripes, blue stars scattered throughout]"
+    },
+    {
+      "page_label": "page2 (interior)",
+      "source_file": "letter12_page2.png",
+      "transcription": "[Left panel: Illustration of a torch with red flame, wrapped with red, white, and blue ribbons and holly with red berries, set within a decorative shield frame]\n\n[Right panel:]\n\nSome joys must be\n     postponed until\nWe meet again\n   'neath freedom's light,\nBut we'll keep Christmas\n     merry still\nAs long as friendly thoughts\n     unite!\n\nPvt. Robert Hanifen"
+    }
+  ],
+  "full_transcription": "[Cover:]\nA MERRY CHRISTMAS\nFrom One in the SERVICE\n\n[Interior:]\nSome joys must be\n     postponed until\nWe meet again\n   'neath freedom's light,\nBut we'll keep Christmas\n     merry still\nAs long as friendly thoughts\n     unite!\n\nPvt. Robert Hanifen",
+  "summary": "This is a WWII-era patriotic Christmas card sent by Pvt. Robert (Bob) Hanifen 'From One in the SERVICE.' The card features patriotic red, white, and blue imagery including a silver Liberty Bell on the cover and a torch of freedom on the interior. The pre-printed verse acknowledges the wartime separation — 'Some joys must be postponed until / We meet again 'neath freedom's light' — while affirming the spirit of Christmas endures through friendship. Bob signed his name and rank (Pvt. Robert Hanifen) at the bottom, making this a significant document of his WWII military service."
+}

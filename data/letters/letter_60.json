@@ -1,0 +1,54 @@
+{
+  "letter_id": "60",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Bob'",
+    "to": "Dad (James Edward Hanifen Sr.)",
+    "date": "Jan. 31",
+    "date_normalized": "1946-01-29",
+    "location_written_from": "Military camp (large base, possibly stateside staging area before overseas deployment)",
+    "location_sent_to": null,
+    "postmark": null,
+    "envelope_notes": "No envelope image provided",
+    "topics": [
+      "processing for overseas deployment",
+      "APO number",
+      "pay received",
+      "camp size and facilities",
+      "weather",
+      "cold/illness",
+      "car registration (duplicate for '42 Chevy)",
+      "ship size for crossing",
+      "food quality",
+      "key enclosed in letter"
+    ],
+    "people_mentioned": [
+      "Dad"
+    ],
+    "places_mentioned": [
+      "New York City"
+    ],
+    "mood_tone": "Informative and upbeat despite illness; practical and matter-of-fact about impending overseas deployment",
+    "legibility": "fair",
+    "legibility_notes": "Some words are difficult to parse due to cursive style and paper aging; 'initilize' or similar word on page 1 is unclear; 'drizzling' rain reading is a best guess; 'temporary' misspelled as 'temporpary'",
+    "historical_context": "Letter references overseas deployment (WWII era), APO number assignment, processing at a large military camp, and crossing on a ship — consistent with WWII deployment staging.",
+    "date_estimated": "1946-01-29",
+    "date_estimated_confidence": "high",
+    "date_estimation_reasoning": "Letter is dated 'Jan. 31' but the content — 2,300 soldiers being processed, heading to New York City, APO number assignment, a large camp with 8 telephone centers of 30 booths each, crossing on a ship — matches exactly the description in Letter 23 (January 29, 1946): '23 hundred of us on the boat. We are going Naples, Italy' departing from Camp Kilmer NJ. Letter 60 says 'We are going to process here today so we will be leaving here pretty soon. Hope we get to see New York City.' This is Camp Kilmer. The date 'Jan. 31' in the letter is close to Letter 23's January 29 date — likely written January 31 at Camp Kilmer before departure, consistent with the 48-hour staging described in Letter 23. Confirmed as approximately January 31, 1946.",
+    "date_is_approximate": true,
+    "chronological_date": "1946-01-31"
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter60_page1.png",
+      "transcription": "Jan. 31\n\nDear Dad\n\nWell everything is jake with me today. I got to bed about 1:00 after talking to you. I will the key to [initilize?] in the letter. We are going to process here today so we will be leaving here pretty. Hope we get to see the New York city. We get paid 25 so the money situation is good. I will write to everybody else as soon as I get my permanent APO number this one is just temporpary [sic] till we get overseas tell everybody that otherwise I might not get all my mail. The food here is good. This camp is really huge, just an example 8 telephone centers with 30 booths apiece. Pretty big size."
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter60_page2.png",
+      "transcription": "There is 2300 of us so we should get a pretty fair size ship I hope won't be to rough that way. Why don't you go to the courthouse and have a duplicate registration made on the 42 chev I don't ever remember seeing it. The weather is still wet here, She a drizzling rain all the time. Have been shining my combat boots all morning not much else to do. My cold is still with me wish I could get rid of it. Make me feel like hell. Well say goodbye for now.\n\nLots of Love\nBob\n[initial/scrawl]"
+    }
+  ],
+  "full_transcription": "Jan. 31\n\nDear Dad\n\nWell everything is jake with me today. I got to bed about 1:00 after talking to you. I will the key to [initilize?] in the letter. We are going to process here today so we will be leaving here pretty. Hope we get to see the New York city. We get paid 25 so the money situation is good. I will write to everybody else as soon as I get my permanent APO number this one is just temporpary [sic] till we get overseas tell everybody that otherwise I might not get all my mail. The food here is good. This camp is really huge, just an example 8 telephone centers with 30 booths apiece. Pretty big size.\n\nThere is 2300 of us so we should get a pretty fair size ship I hope won't be to rough that way. Why don't you go to the courthouse and have a duplicate registration made on the 42 chev I don't ever remember seeing it. The weather is still wet here, She a drizzling rain all the time. Have been shining my combat boots all morning not much else to do. My cold is still with me wish I could get rid of it. Make me feel like hell. Well say goodbye for now.\n\nLots of Love\nBob",
+  "summary": "Bob writes to his father on January 31st from a large military staging camp, reporting that he and 2,300 fellow soldiers are being processed and will soon be leaving — possibly via New York City — for overseas deployment. He notes the camp's impressive size (including 8 telephone centers with 30 booths each), mentions receiving pay, and asks his dad to get a duplicate registration for the family's 1942 Chevy. He is suffering from a cold and dealing with persistent wet weather, but otherwise remains upbeat and signs off with 'Lots of Love.'"
+}

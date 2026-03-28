@@ -1,0 +1,64 @@
+{
+  "letter_id": "13",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Bob,' return address shows 'P.F.C. Robert E. Hanifen' on envelope",
+    "to": "Hanifen Body & Paint Co. (his father, James Edward Hanifen Sr.), 90 [?] Keo Way, Des Moines, Iowa",
+    "date": "Jan. 21",
+    "date_normalized": "1945-01-21",
+    "location_written_from": "Service Club, AAF ORD and AAF RS No. 5, Greensboro, North Carolina",
+    "location_sent_to": "Hanifen Body & Paint Co., 90 [?] Keo Way, Des Moines, Iowa",
+    "postmark": "Greensboro, N.C., JAN 21, [194?]",
+    "envelope_notes": "Front: 'P.F.C. Robert E. Hanifen [serial number]' in return address area; 'Sqdn Branch 2' handwritten above printed AAF ORD AND AAF RS NO. 5, Greensboro, North Carolina. Marked 'Free' (military free mail). Addressed to 'Hanifen Body & Paint Co., 90 [?] Keo Way, Des Moines, Iowa.' Back of envelope has additional handwritten notes (possibly a forwarding address or later annotation): 'Bob Hanifen / Co A - 35 Sig[nal?] Trng Bn / Camp Crowder, [Neosho?] Mo. / Spr. told mo. / 149 Mormon Motors' — this appears to be a different address notation written on the back, possibly added later. Serial number partially legible: 37169243.",
+    "topics": [
+      "shipping out to Germany",
+      "POE (Port of Embarkation)",
+      "APO number",
+      "orientation briefing",
+      "weight gain",
+      "mail room work",
+      "passes to town",
+      "shows on camp",
+      "bedtime routine"
+    ],
+    "people_mentioned": [
+      "Dad (James Edward Hanifen Sr.)"
+    ],
+    "places_mentioned": [
+      "Greensboro, North Carolina",
+      "Germany",
+      "New Orleans",
+      "Newport News, Virginia",
+      "New York"
+    ],
+    "mood_tone": "Casual and upbeat; Bob is matter-of-fact about shipping out overseas, hopeful about getting a pass in New York, and reporting daily life details without apparent anxiety.",
+    "legibility": "fair",
+    "legibility_notes": "Most of the letter is legible with careful reading. Some words on page 1 are partially obscured by show-through from the reverse side. The back of the envelope annotation is in a different hand and partially illegible. The date year is not written in the letter itself but the postmark year appears to be 1945 based on context (WWII, shipping to Germany).",
+    "historical_context": "Written during WWII. Bob is a PFC at a separation/replacement station in Greensboro, NC, and has been told at orientation that his unit is likely heading to Germany. He references a POE (Port of Embarkation) and APO number, consistent with late-war deployment processing. Possible POE cities listed: New Orleans, Newport News, or New York.",
+    "chronological_date": "1945-01-21",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "envelope_front",
+      "source_file": "letter13.png",
+      "transcription": "[Return address, handwritten:]\nP.F.C. Robert E. Hanifen [serial number]\nSqdn Branch 2\n[Printed:] AAF ORD AND AAF RS NO. 5\nGreensboro, North Carolina\n\n[Postmark:] GREENSBORO, N.C. / JAN 21 / [194?] / [time stamp]\n\n[Upper right:] Free\n\n[Addressed to:]\nHanifen Body & Paint Co.\n90 [?] Keo Way\nDes Moines, Iowa"
+    },
+    {
+      "page_label": "envelope_back",
+      "source_file": "letter13_page1.png",
+      "transcription": "[Written sideways/rotated, appears to be a later annotation or forwarding address in a different hand, green ink:]\nBob Hanifen\nCo A - 35 Sig[nal?] Trng Bn\nCamp Crowder, [Neosho?] Mo.\nSpr. told mo.\n149 Mormon Motors\n\n[Number along side edge:] 37169243"
+    },
+    {
+      "page_label": "page1",
+      "source_file": "letter13_page2.png",
+      "transcription": "Jan. 21.\n\nService Club\nAAF ORD AND AAF RS NO. 5\nGreensboro, N.C.\n\nDear Dad\n\nGot one letter from you the other day. Have you got the 80 bucks yet. I moved to Sqd[ron?] [Bar?]. At Orientation they said we were going to Germany & maybe we will. We should ship out of here in less than 2 weeks. We made out changes of address to be sent to a P.O.E. for our A.P.O. number. You probably will [be] knowing where I am going before I do. Our P.O.E. will either be New Orleans, Newport News, Virginia,"
+    },
+    {
+      "page_label": "page2",
+      "source_file": "letter13_back.png",
+      "transcription": "or New York. Hope it is New York. Maybe we can get a couple of passes out of there. We are doing nothing to speak of in terms of work. Work at the Mail room, one day for 6 hrs. That's all. I have gained a lot weight here all my clothes on I weigh 160 not bad only been to town once. Been to shows on camp almost every night though in bed by 9 or 10 almost every night.\n\nWell Dad goodbye for now.\nLove Your Son\n\nBob"
+    }
+  ],
+  "full_transcription": "Jan. 21.\n\nService Club\nAAF ORD AND AAF RS NO. 5\nGreensboro, N.C.\n\nDear Dad\n\nGot one letter from you the other day. Have you got the 80 bucks yet. I moved to Sqd[ron?] [Bar?]. At Orientation they said we were going to Germany & maybe we will. We should ship out of here in less than 2 weeks. We made out changes of address to be sent to a P.O.E. for our A.P.O. number. You probably will [be] knowing where I am going before I do. Our P.O.E. will either be New Orleans, Newport News, Virginia, or New York. Hope it is New York. Maybe we can get a couple of passes out of there. We are doing nothing to speak of in terms of work. Work at the Mail room, one day for 6 hrs. That's all. I have gained a lot weight here all my clothes on I weigh 160 not bad only been to town once. Been to shows on camp almost every night though in bed by 9 or 10 almost every night.\n\nWell Dad goodbye for now.\nLove Your Son\n\nBob",
+  "summary": "PFC Bob Hanifen writes to his father from the Service Club at the AAF Replacement Station in Greensboro, NC, dated January 21 (likely 1945). He reports that at Orientation they were told they are likely heading to Germany, and that they expect to ship out in under two weeks via a Port of Embarkation — either New Orleans, Newport News, or New York (he hopes New York for the chance at passes). Daily life at camp is very light — just one shift of mail room work — and he notes he has gained weight, now at 160 lbs, going to camp shows most nights and in bed by 9 or 10. The letter reflects the quiet pre-deployment period, with Bob in good spirits but aware of the imminent overseas assignment."
+}

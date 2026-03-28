@@ -1,0 +1,77 @@
+{
+  "letter_id": "64",
+  "metadata": {
+    "from": "Multiple writers: (1) Dad (James Edward Hanifen Sr.) — page 1 written in pencil, upside down/reversed, signed 'Love Dad'; (2) George and Jan — pages 3-4 written in red ink, signed 'Your buddies George & Jan'",
+    "to": "John Hanifen (P.F.C. John R. Hanifen)",
+    "date": "Nov 30-51 (page 1); undated (pages 3-4)",
+    "date_normalized": "1951-11-30",
+    "location_written_from": "Des Moines, Iowa (based on return address on envelope); 1220 Fremont St. (George & Jan's address on page 4)",
+    "location_sent_to": "P.F.C. John R. Hanifen, 55046284, Co. C 439 Eng. Con. Bn., A.P.O. 301, San Francisco, California",
+    "postmark": "Fort Leonard Wood, MO, OCT 31, 11:30 AM, 1951",
+    "envelope_notes": "Return address: Nifen Body & Paint Co., 801 Park Street, Des Moines 14, Iowa. 'Bob' written in large handwriting on front of envelope. Two 3-cent Thomas Jefferson stamps. 'Air Mail' notation. '% Postmaster' noted lower left.",
+    "topics": [
+      "family news",
+      "car purchase",
+      "hunting",
+      "pregnancy",
+      "house sale",
+      "apartment house purchase",
+      "Bob's business struggles",
+      "military service",
+      "friends update"
+    ],
+    "people_mentioned": [
+      "Bob",
+      "Dick",
+      "Leo",
+      "Jan",
+      "George",
+      "Mort",
+      "Joyce",
+      "Pat",
+      "Colleen",
+      "Harold",
+      "Shirley"
+    ],
+    "places_mentioned": [
+      "Des Moines",
+      "California",
+      "Fort Leonard Wood"
+    ],
+    "mood_tone": "Warm, chatty, and newsy; mixture of casual family updates and mild concern about Bob's business",
+    "legibility": "fair",
+    "legibility_notes": "Page 1 is written upside down and must be read rotated 180 degrees; some words partially illegible due to staining and faded ink. Pages 3-4 written in red ink, somewhat faded. Several words uncertain.",
+    "historical_context": "John Hanifen is serving in the U.S. Army, addressed as P.F.C. (Private First Class), with an APO address routing through San Francisco, suggesting overseas deployment likely during the Korean War era (1951).",
+    "chronological_date": "1951-11-30",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "envelope",
+      "source_file": "letter64.png",
+      "transcription": "Return address: NIFEN BODY & PAINT CO. / 801 Park Street / Des Moines 14, Iowa\n\n[Handwritten annotation on envelope front]: Bob\n\nAddressed to:\nP. F. C. John R. Hanifen\n55046284\nCo. C 439 Eng. Con. Bn.\nA. P. O. 301\nSan Francisco, California\n\n% Postmaster\n\nPostmark: FORT LEONARD WOOD / OCT 31 / 11:30 AM / 1951 / MO.\n\nTwo 3-cent United States Postage stamps (Thomas Jefferson). 'Air mail' written in cursive on right side of envelope."
+    },
+    {
+      "page_label": "page1",
+      "source_file": "letter64_page1.png",
+      "transcription": "[Note: This page is written upside down relative to the scan. Transcribed after rotating 180 degrees.]\n\nNov 30-51\n\nDear John,\n\nBeen trying to hear from you — what about\nthe box. Customs + [illegible] don't you\nall do it. [illegible] send some [illegible] the\nell [illegible] from [illegible] letter from you. Have one\nlooking for [illegible] from Her — well no one\nBreaks news from you. I should have gone to\nStill Beway. Here I looked at a 51 Ford March\nCreston 3a + looks pick up more\nbought 4 for you. 4 months [illegible] up more\nB [illegible] it up. I, you got [illegible] 9 times.\nTo us for. Time let me no we got a\nGo each time [illegible] Black + white, get boy get\nDestination [illegible] Hunting is Tough\nif her hear. I heard Hunting is Tough\nthe of her about 6 all year. 9 am just\nCome in. Said said Hello to you. He said\nhe just don't seem to get Time to Write"
+    },
+    {
+      "page_label": "page2",
+      "source_file": "letter64_page2.png",
+      "transcription": "We Bought a 48 coupe good deals.\nBut Need a Body for it. We locked\nup 5 Hot last Sat + went Hunting\nI got 1 pheasant + 3 Rabbits. Dick Brought\nthem Back. Kept 1 Rabbit + I haven't\ngot it yet. We may go Sunday.\nLeo is here Now + He is\nWriting a Note — So Now I will\nKnock it off for You. Bob is not\ndoing so good — I don't think He should\nHaul His Butt, if here He could\nat least get By.\n\nLove Dad"
+    },
+    {
+      "page_label": "page3",
+      "source_file": "letter64_page3.png",
+      "transcription": "[Written in red ink]\n\nDear John,\n      Reed your last letter and\nwas very glad to hear from you.\nBet you had a time with that M[?]\nlewis. I am at your dad's now[?]\nasked Jim if old [illegible]\n[illegible] he said \"I'll [illegible]\ngoing to send him any [illegible]\nHe hasn't wrote me yet.\n\n      Well we sold our house. had\nhave to make $2000.00 and took it +\nhave to [make?] [illegible] apartment house.\nI bought me an apartment house.\nHave more money to spend now.\n      Jan is pregnant, should have\nhave baby in June. My female\ndog is also [pregnant?]\nhave pups in February.\n\nMort and Joyce just got back\nfrom California. I guess [his?] is flat\nbroke again. Pat and Colleen's [illegible]\nbaby has been in the Hospital\n2 months"
+    },
+    {
+      "page_label": "page4",
+      "source_file": "letter64_page4.png",
+      "transcription": "[Written in red ink, continuation]\n\nthe ford is holding up pretty\ngood, but I thinks I get me a new\nPontiac before long.\n      [Saw?] [illegible] Harold & Shirley awhile\nback. They are O.K.\n      Will be glad to see you when\nyou get back.\n      Write soon —\n\n            Your buddies\n            George & Jan.\n\n[Address crossed out]\n1220 Fremont St."
+    }
+  ],
+  "full_transcription": "[ENVELOPE]\nReturn address: NIFEN BODY & PAINT CO. / 801 Park Street / Des Moines 14, Iowa\n[Handwritten on envelope]: Bob\nAddressed to: P. F. C. John R. Hanifen / 55046284 / Co. C 439 Eng. Con. Bn. / A. P. O. 301 / San Francisco, California\n% Postmaster\nPostmark: FORT LEONARD WOOD / OCT 31 / 11:30 AM / 1951 / MO.\n\n[PAGE 1 — Dad's letter, written upside down, dated Nov 30-51]\n\nNov 30-51\n\nDear John,\n\nBeen trying to hear from you — what about the box. Customs + [illegible] don't you all do it. [illegible] send some [illegible] the ell [illegible] from [illegible] letter from you. Have one looking for [illegible] from Her — well no one Breaks news from you. I should have gone to Still Beway. Here I looked at a 51 Ford March Creston 3a + looks pick up more bought 4 for you. 4 months [illegible] up more B [illegible] it up. I, you got [illegible] 9 times. To us for. Time let me no we got a Go each time [illegible] Black + white, get boy get Destination [illegible] Hunting is Tough if her hear. I heard Hunting is Tough the of her about 6 all year. 9 am just Come in. Said said Hello to you. He said he just don't seem to get Time to Write\n\n[PAGE 2 — Dad's letter continued]\n\nWe Bought a 48 coupe good deals. But Need a Body for it. We locked up 5 Hot last Sat + went Hunting I got 1 pheasant + 3 Rabbits. Dick Brought them Back. Kept 1 Rabbit + I haven't got it yet. We may go Sunday. Leo is here Now + He is Writing a Note — So Now I will Knock it off for You. Bob is not doing so good — I don't think He should Haul His Butt, if here He could at least get By.\n\nLove Dad\n\n[PAGES 3-4 — George & Jan's letter, written in red ink]\n\nDear John,\n      Reed your last letter and was very glad to hear from you. Bet you had a time with that M[?] lewis. I am at your dad's now[?] asked Jim if old [illegible] [illegible] he said \"I'll [illegible] going to send him any [illegible] He hasn't wrote me yet.\n\n      Well we sold our house. had have to make $2000.00 and took it + have to [make?] [illegible] apartment house. I bought me an apartment house. Have more money to spend now.\n      Jan is pregnant, should have have baby in June. My female dog is also [pregnant?] have pups in February.\n\nMort and Joyce just got back from California. I guess [his?] is flat broke again. Pat and Colleen's [illegible] baby has been in the Hospital 2 months\n\nthe ford is holding up pretty good, but I thinks I get me a new Pontiac before long.\n      [Saw?] [illegible] Harold & Shirley awhile back. They are O.K.\n      Will be glad to see you when you get back.\n      Write soon —\n\n            Your buddies\n            George & Jan.\n\n1220 Fremont St.",
+  "summary": "This letter to P.F.C. John Hanifen (serving overseas in 1951, likely during the Korean War era) contains two separate notes tucked in the same envelope. The first, from his father (Dad/James Hanifen Sr.), dated November 30, 1951, shares family news including a hunting trip, purchasing a '48 coupe that needs body work, concern about Bob's struggling business, and a visit from Leo. The second note, written in red ink by friends George and Jan, shares personal updates including Jan's pregnancy (baby due in June), the purchase of an apartment house after selling their home, news about mutual friends Mort, Joyce, Pat, Colleen, Harold, and Shirley, and warm wishes for John's safe return."
+}

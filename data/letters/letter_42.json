@@ -1,0 +1,62 @@
+{
+  "letter_id": "42",
+  "metadata": {
+    "from": "Bob (Robert Hanifen) — signed 'Love Bob' on page 2",
+    "to": "Dad (James Edward Hanifen Sr.) — addressed 'Dear Dad'",
+    "date": null,
+    "date_normalized": "1945-07-03",
+    "location_written_from": "Chanute Field, Illinois — return address on envelope reads 'BHS 294, Chanute Fld, Ill.'",
+    "location_sent_to": "Hanifen Body & Paint Co., 914 Keo Way, Des Moines, Iowa",
+    "postmark": "RANTOUL, ILL. / JUL 3 / 11-PM / 1945",
+    "envelope_notes": "Envelope is heavily worn and torn at upper right corner. Return address in handwriting reads approximately: '[illegible] / - BHS 294 / Chanute Fld, Ill.' with what appears to be an additional name or notation at top. Addressed to 'Hanifen Body & Paint Co., 914 Keo Way, Des Moines, Iowa.'",
+    "topics": [
+      "apology for not visiting Des Moines",
+      "C shift work schedule",
+      "trip to Chicago",
+      "getting in trouble for a plane ride",
+      "Chanute Field baseball team beating Great Lakes",
+      "request to store pictures in Service Record Book"
+    ],
+    "people_mentioned": [
+      "Dad",
+      "Bob (sender)"
+    ],
+    "places_mentioned": [
+      "Des Moines",
+      "Chicago",
+      "Chanute Field",
+      "Great Lakes",
+      "California"
+    ],
+    "mood_tone": "Casual, lighthearted, and slightly apologetic; Bob is chatty and upbeat, poking fun at various situations",
+    "legibility": "fair",
+    "legibility_notes": "Page 1 is mostly legible with some difficulty in certain words. Page 2 is largely illegible — the back side of the letter sheet shows heavy bleed-through from the other side, making most of the text unreadable except for the closing lines and signature. Page 3 is a separate small note, clearly legible.",
+    "historical_context": "Letter dated July 1945, near end of WWII. Bob is stationed at Chanute Field, Illinois (a major Army Air Forces technical training base). Reference to Chanute Field baseball team beating Great Lakes Naval Training Station suggests inter-military base sports competitions common during WWII era.",
+    "chronological_date": "1945-07-03",
+    "date_is_approximate": true
+  },
+  "pages": [
+    {
+      "page_label": "envelope",
+      "source_file": "letter42.png",
+      "transcription": "[Return address, upper left]\n[illegible name/line]\n- BHS 294\nChanute Fld, Ill.\n\n[Postmark: RANTOUL, ILL. / JUL 3 / 11-PM / 1945]\n\n[Recipient address, center]\nHanifen Body & Paint Co.\n914 Keo Way\nDes Moines, Iowa"
+    },
+    {
+      "page_label": "page1",
+      "source_file": "letter42_page1.png",
+      "transcription": "Dear Dad\n\n    Sorry I disappointed you but it's pretty far to Des Moines on the times we get off. This C shift don't give a fellow a lot of time over the weekend. I went to Chicago Sun and Mon. That's the reason why I never wrote. We got in no Dutch for going on the plane ride. Hell you can go to Calif. on a plane if you can get back in time. Just seen the Chanute Field baseball team tromp all Great Lakes. What a up set. By the way the word in that paragraph what does it mean. Well Dad took-"
+    },
+    {
+      "page_label": "page2",
+      "source_file": "letter42_page2.png",
+      "transcription": "ing for now.\n\n[illegible line — bleed-through text obscures content]\n\nLove Bob\n\n[decorative underline/flourish]\n\n[Remainder of page is illegible due to heavy bleed-through from the other side of the sheet — ghost text from page 1 is visible but unreadable as distinct content on this side]"
+    },
+    {
+      "page_label": "page3",
+      "source_file": "letter42_page3.png",
+      "transcription": "Would you guys mind if you put these pictures in my Service Record Book then I can save them O.K.?"
+    }
+  ],
+  "full_transcription": "Dear Dad,\n\n    Sorry I disappointed you but it's pretty far to Des Moines on the times we get off. This C shift don't give a fellow a lot of time over the weekend. I went to Chicago Sun and Mon. That's the reason why I never wrote. We got in no Dutch for going on the plane ride. Hell you can go to Calif. on a plane if you can get back in time. Just seen the Chanute Field baseball team tromp all Great Lakes. What a up set. By the way the word in that paragraph what does it mean. Well Dad took-\n\n[page 2:]\nig for now.\n\n[illegible lines]\n\nLove Bob\n\n[page 3 — separate note:]\nWould you guys mind if you put these pictures in my Service Record Book then I can save them O.K.?",
+  "summary": "Written in July 1945 from Chanute Field, Illinois, Bob writes to his father apologizing for not visiting Des Moines, explaining that his C shift schedule doesn't allow enough time off on weekends. He mentions a trip to Chicago and notes they got in no trouble for taking a plane ride. He excitedly reports that the Chanute Field baseball team beat Great Lakes in what he calls a big upset. A separate small note included with the letter asks his family to put some pictures in his Service Record Book for safekeeping."
+}

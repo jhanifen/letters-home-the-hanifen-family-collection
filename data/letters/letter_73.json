@@ -1,0 +1,73 @@
+{
+  "letter_id": "73",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Bobby,' consistent with other letters from Bob to his father",
+    "to": "Dad (James Edward Hanifen Sr.)",
+    "date": "5 April 1946",
+    "date_normalized": "1946-04-05",
+    "location_written_from": "APO 528, c/o PM New York, NY — likely Italy (Foggia area mentioned), serving with 2012 Ord & Mnt Co, A.F.",
+    "location_sent_to": "Hanifen Body & Paint Co., 904 Keo Way, Des Moines, Iowa",
+    "postmark": "Des Moines, Iowa — partially legible circular stamp on front",
+    "envelope_notes": "American Red Cross envelope, Form 2243, Via Air Mail. Return address: PFC Robert F. Hanifen-17190600, 2012 Ord & Mnt Co. A.F., APO 528, c/o P.M. New York, N.Y. Back of envelope has handwritten notes: '39 3unch', '77-31317', '1016', 'allen', 'Mommy front end!' — likely filing or routing notes added later by recipient.",
+    "topics": [
+      "military routine",
+      "annual inspection",
+      "Switzerland trip",
+      "holiday",
+      "trip to Foggia",
+      "camera repair",
+      "cigarette rations",
+      "sending money home",
+      "war bonds",
+      "weight gain"
+    ],
+    "people_mentioned": [
+      "Lt. (Lieutenant)",
+      "Jack Buckley"
+    ],
+    "places_mentioned": [
+      "Switzerland",
+      "Foggia"
+    ],
+    "mood_tone": "Casual and upbeat; Bob is in good spirits, chatting about daily army life, finances, and plans. Slightly businesslike regarding money and war bonds.",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting is generally readable but some words are smudged or cursive-joined making them difficult to parse precisely. The bottom of page 1 is slightly cut off. Some figures and words required careful interpretation.",
+    "historical_context": "Written in April 1946, shortly after the end of WWII. Bob is still stationed in Italy (near Foggia) awaiting demobilization. References to APO 528, Army Pay, war bonds purchased during the war, and Army holiday schedules reflect post-war occupation duty.",
+    "chronological_date": "1946-04-05",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "envelope_front",
+      "source_file": "letter73.png",
+      "transcription": "[American Red Cross logo and text]\nAMERICAN RED CROSS\nPFC. Robert F. Hanifen-17190600\n2012 Ord & Mnt Co. A.F.\nAPO 528\nc/o P.M. New York, N.Y.\n\n[Center/recipient address, large handwriting:]\nHANIFEN BODY & PAINT CO.\n904 KEO WAY\nDES MOINES, IOWA\n\n[Top right:] FORM 2243\n[Stamp:] VIA AIR MAIL\n[Postmark: partially legible circular stamp — Des Moines, Iowa]"
+    },
+    {
+      "page_label": "envelope_back",
+      "source_file": "letter73_page1.png",
+      "transcription": "[Handwritten notes, likely added by recipient for filing/routing:]\n39 3unch [or 'bunch'?]\n77 - 31317\n1016\nallen\nMommy front end!"
+    },
+    {
+      "page_label": "page1",
+      "source_file": "letter73_page2.png",
+      "transcription": "5 April 1946\n\nDear Dad\n        Just got to work so I thought I had better write a few lines before the Lt. got here. We don't have much work to do this month, but they are having a annual inspection by the Colonel of the big office. So we will be on the ball for a couple of days. The Lt. just got back yesterday from Switzerland. He said he had a sweet time up there. It costs something like 80 dollars for 2 weeks. I am sure going if I'd ever get the chance. We are off all day [today?] — some kind of a holiday for the Army I guess. I am going to Foggia Sunday to see Jack Buckley about my camera. I have sold my cigarette rations now for a [couple of?] weeks, and I have enough to [last?]"
+    },
+    {
+      "page_label": "page2",
+      "source_file": "letter73_page3.jpg",
+      "transcription": "beside send home all of my base pay. I will enclose a check for 59 dollars. And in a couple of days another one 40 dollars. You see I have been across the pay table 99.43 and that is all the money I can send home till I am payed [sic] again. I want to know about those war bonds as soon as possible, because I think I am getting screwed. Have May take an inventory on the bonds. They should start in May 1945, and I think I should have 2 bonds for Nov. 1945 and 2 bonds for Dec. 1945. I would like to know. [Sending?] word. Hope everything is going good at the shop. I have gained a little weight. 153.7 lbs. getting large ain't I. Well Dad say hello to everyone for me.\n        Lots of Love Your Son\n                Bobby"
+    },
+    {
+      "page_label": "page3_photo",
+      "source_file": "letter73_page4.jpg",
+      "transcription": "[Photo/novelty image: A carnival-style cutout photograph showing two people — a man and a woman — with their real faces inserted into a painted illustration of a couple riding a tandem bicycle. The man is on the rear seat and the woman on the front. Both are dressed in formal/dress attire as painted. This appears to be a souvenir photo taken at a fairground or amusement attraction.]"
+    },
+    {
+      "page_label": "page4_photo",
+      "source_file": "letter73_back.jpg",
+      "transcription": "[Black and white photograph: Three men standing in front of a large dark-colored automobile, outdoors. The man on the left is a young boy/teenager wearing a plaid shirt. The man in the center is wearing a U.S. Army uniform with garrison cap — likely Bob Hanifen. The man on the right is older, wearing a suit and fedora hat — likely the father, James Edward Hanifen Sr. Trees and a building are visible in the background. This appears to be a family photo, possibly taken during a furlough or visit home.]"
+    }
+  ],
+  "full_transcription": "5 April 1946\n\nDear Dad,\n        Just got to work so I thought I had better write a few lines before the Lt. got here. We don't have much work to do this month, but they are having a annual inspection by the Colonel of the big office. So we will be on the ball for a couple of days. The Lt. just got back yesterday from Switzerland. He said he had a sweet time up there. It costs something like 80 dollars for 2 weeks. I am sure going if I'd ever get the chance. We are off all day [today?] — some kind of a holiday for the Army I guess. I am going to Foggia Sunday to see Jack Buckley about my camera. I have sold my cigarette rations now for a [couple of?] weeks, and I have enough to [last?] beside send home all of my base pay. I will enclose a check for 59 dollars. And in a couple of days another one 40 dollars. You see I have been across the pay table 99.43 and that is all the money I can send home till I am payed [sic] again. I want to know about those war bonds as soon as possible, because I think I am getting screwed. Have May take an inventory on the bonds. They should start in May 1945, and I think I should have 2 bonds for Nov. 1945 and 2 bonds for Dec. 1945. I would like to know. [Sending?] word. Hope everything is going good at the shop. I have gained a little weight. 153.7 lbs. getting large ain't I. Well Dad say hello to everyone for me.\n        Lots of Love Your Son,\n                Bobby",
+  "summary": "Written on April 5, 1946, from PFC Bob Hanifen to his father in Des Moines, Iowa, while still stationed near Foggia, Italy in post-war occupation duty. Bob describes the slow work pace, an upcoming Colonel's inspection, his Lieutenant's recent trip to Switzerland, and his own plans to visit Jack Buckley in Foggia about his camera. He encloses checks totaling $99 from his base pay, explains the limits of what he can send home, and requests an inventory of his war bonds, suspecting he is owed bonds for November and December 1945. The letter also includes two photographs enclosed — a novelty tandem bicycle cutout photo and a family snapshot of Bob in uniform with what appear to be his father and younger brother."
+}

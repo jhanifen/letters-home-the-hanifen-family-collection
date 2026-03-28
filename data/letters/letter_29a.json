@@ -1,0 +1,60 @@
+{
+  "letter_id": "29a",
+  "metadata": {
+    "from": "Bob (Robert Hanifen) — signed 'Bob' at the end",
+    "to": "Dad (James Edward Hanifen Sr.)",
+    "date": null,
+    "date_normalized": "1945-06",
+    "location_written_from": "A military base, likely Barksdale Field or similar — references arriving Thursday at 8:10, a barracks, and school starting Monday; smaller than Sheppard Field",
+    "location_sent_to": null,
+    "postmark": null,
+    "envelope_notes": "No envelope image provided",
+    "topics": [
+      "arrival at new base",
+      "barracks description",
+      "school starting",
+      "weekend pass / going home",
+      "visiting Aunt Bonnie",
+      "teletype operator reassignment",
+      "sheet metal worker assignment",
+      "Scott Field transfer for teletype operators",
+      "payday",
+      "catching a plane home",
+      "road buddy / buddy named Pauline(?)"
+    ],
+    "people_mentioned": [
+      "Dad (James Edward Hanifen Sr.)",
+      "Mom",
+      "Aunt Bonnie",
+      "Pauline (a buddy's name, possibly 'Pauline' — may be a male buddy from Hastings, Nebraska)"
+    ],
+    "places_mentioned": [
+      "Sheppard Field",
+      "Scott Field",
+      "Hastings, Nebraska"
+    ],
+    "mood_tone": "Upbeat and conversational; Bob is settling in and already planning visits home; mild frustration at how quickly assignments change",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting is generally readable but some words are difficult — 'sheet metal' worker is partially unclear, 'Pauline' as a buddy name is unusual and may be misread, 'Hastings Nebr.' is a reasonable interpretation; some words required inference from context",
+    "historical_context": "Bob is in military service, likely WWII era; references to teletype operator training, Scott Field (an Army Air Forces base in Illinois known for communications training), and Sheppard Field (Army Air Forces base in Texas) are consistent with WWII military training context",
+    "date_estimated": "1945-06",
+    "date_estimated_confidence": "medium",
+    "date_estimation_reasoning": "Bob arrives Thursday at 8:10 at a new base, school starts Monday, he was a teletype operator now made a sheet metal worker — consistent with the reassignment chaos documented in Letter 33 (June 18, 1945) from Sheppard Field: 'all Teletype operators would go to Chanute as Sheet Metal workers.' Letter 33 says all teletype operators are going to Chanute. Letter 29a says he arrived at a new base (smaller than Sheppard) after the Leavenworth-to-Texas journey. References to Scott Field (teletype operators transferred there) are consistent with June 1945 reassignment period. The mention of 12-week course and school starting Monday fits the Chanute Field timeline. Estimated June–July 1945, likely just before or at arrival at Chanute Field.",
+    "date_is_approximate": true,
+    "chronological_date": "1945-06"
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter29a_page1.png",
+      "transcription": "Dear Dad\n\nWell I finally got here. We arrived Thur. at 8:10. The field is pretty nice except it is a lot smaller than Sheppard and the buildings around here are black, sure needs a paint job bad. We have a swell barracks one of the few new ones. We start school on Mon. I can get home on a weekend pretty easy a few guys have already gone home. If I leave here Sat. Morn. I don't have to be back till Mon. at 6:00 not bad. I was thinking if I came home one of this weekend and had something to drive back I could go to see Aunt Bonnie the next weekend and bring the car back the next weekend. We are suppose to be here around 12 weeks but it is very indefinite. I was a Teletype"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter29a_page2.png",
+      "transcription": "operator and now I am a sheet metal worker. All teletype operators go to Scott Field in about a week that how quick things change. Next week is payday and so I think I will come home if I can get away. Might catch a plane home a lot of them leave here pretty regular. only one of my buddies is left now, wonder if Pauline would care if I brought him home with me. He is a swell guy leaving in Hastings Nebr. Got to have a road buddie when a guy traveling. well Dad goodbye for now will write again soon\n\nLove Bob"
+    }
+  ],
+  "full_transcription": "Dear Dad\n\nWell I finally got here. We arrived Thur. at 8:10. The field is pretty nice except it is a lot smaller than Sheppard and the buildings around here are black, sure needs a paint job bad. We have a swell barracks one of the few new ones. We start school on Mon. I can get home on a weekend pretty easy a few guys have already gone home. If I leave here Sat. Morn. I don't have to be back till Mon. at 6:00 not bad. I was thinking if I came home one of this weekend and had something to drive back I could go to see Aunt Bonnie the next weekend and bring the car back the next weekend. We are suppose to be here around 12 weeks but it is very indefinite. I was a Teletype operator and now I am a sheet metal worker. All teletype operators go to Scott Field in about a week that how quick things change. Next week is payday and so I think I will come home if I can get away. Might catch a plane home a lot of them leave here pretty regular. only one of my buddies is left now, wonder if Pauline would care if I brought him home with me. He is a swell guy leaving in Hastings Nebr. Got to have a road buddie when a guy traveling. well Dad goodbye for now will write again soon\n\nLove Bob",
+  "summary": "Bob writes to his father shortly after arriving at a new, smaller military base (likely compared unfavorably to Sheppard Field in Texas). He describes the base conditions, notes that school starts Monday, and enthusiastically plans weekend trips home since he only needs to be back by Monday at 6:00. Bob mentions a significant and frustrating reassignment — he was a teletype operator but has now been made a sheet metal worker, as all teletype operators are being sent to Scott Field. He hopes to come home on payday the following week and mentions possibly bringing a buddy from Hastings, Nebraska along for the ride."
+}

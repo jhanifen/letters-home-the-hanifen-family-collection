@@ -1,0 +1,58 @@
+{
+  "letter_id": "43",
+  "metadata": {
+    "from": "Bob (Robert Hanifen) — signed 'Bob' at the end, writing to his father",
+    "to": "Dad (James Edward Hanifen Sr.)",
+    "date": null,
+    "date_normalized": "1945-05",
+    "location_written_from": "Military base (exact location not stated, likely stateside training base)",
+    "location_sent_to": null,
+    "postmark": null,
+    "envelope_notes": "No envelope image provided",
+    "topics": [
+      "military aptitude and classification tests",
+      "flight physical",
+      "psychomotor tests",
+      "obstacle course",
+      "carbine rifle training",
+      "gas mask day",
+      "Mother's Day flowers",
+      "Drake relay results",
+      "San Francisco / Pacific deployment",
+      "Germany almost over"
+    ],
+    "people_mentioned": [
+      "Dad (James Edward Hanifen Sr.)",
+      "Grandma (referred to as 'Drammaw' — likely grandmother, recipient of Mother's Day flowers)",
+      "Lester (mentioned in context of 'tell Lester to get on the ball')"
+    ],
+    "places_mentioned": [
+      "San Francisco, California",
+      "Pacific (theater of war)",
+      "Germany"
+    ],
+    "mood_tone": "Energetic and informative; mildly fatigued from testing but upbeat; hopeful about passing flight physical; shows awareness of impending Pacific deployment as Germany winds down",
+    "legibility": "fair",
+    "legibility_notes": "Several lines partially obscured by staining, foxing, and fold damage; some words guessed from context. The middle section of page 1 is particularly difficult due to bleed-through and staining. Some words remain illegible.",
+    "historical_context": "Written during WWII, likely spring 1945 given reference to Germany being 'almost over' and anticipation of Pacific deployment. References to Drake Relays (spring athletic event in Des Moines) and Mother's Day help narrow timing to May 1945. Gas mask training and military classification tests reflect wartime military training context.",
+    "date_estimated": "1945-05",
+    "date_estimated_confidence": "medium",
+    "date_estimation_reasoning": "Bob mentions mental classification tests, upcoming flight physical and psychomotor tests, gas mask day, Drake Relay results (held late April in Des Moines), Mother's Day flowers sent to grandmother, and word from Jimmy that 'San Francisco, Calif. That's the gateway to the Pacific. That is where we are going I guess. Seeing that Germany is almost over with.' V-E Day was May 8, 1945; 'Germany is almost over' suggests this was written in late April or very early May 1945, before the German surrender. The Drake Relays and Mother's Day both fall in May. This fits within Bob's Sheppard Field training period, consistent with Letters 21 (April 23, 1945, from Sheppard Field) and 52 (June 1, 1945, also Sheppard Field). Estimated May 1945, likely first or second week.",
+    "date_is_approximate": true,
+    "chronological_date": "1945-05"
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter43_page1.png",
+      "transcription": "Dear Dad,\n\nWell the fire works really started yesterday. We started our Mental classification tests & solid hours on everything you hope to think of. I didn't know there was so many different kinds of tests. My head actually [ached?] after we got through.\n\n[Today?] we take our flight physical and the psychomotor tests which takes about 1 or 2 hours. It is a [coordination?] all kind of different machines just like playing with a pin ball machine. Boy is it ever [hot?] down here.\n\nI one of guys who never took the [test?] had to run the obstacle course [and was] after I [illegible] [sit out?] [illegible] from [illegible] listening to an instructor about the carbine rifle. We will have to do it too in a couple days from now. Even during a break they wouldn't let them [illegible] [illegible]. Those guys actually looked black when they got [through?]"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter43_page2.png",
+      "transcription": "If you could find Friday's paper or Sat. with the Drake [R]elay results I wish you would send it. Especially Friday's ones with the high school results. Today is Gas mask day — everybody has to wear them. Never know when they are going to throw a little gas. What a place. I sent some flowers to Drammaw for Mother's Day. Hope she likes them. I received Jimmy [news?] — [word?] yesterday. San Francisco, Calif. That the [gateway to the?] Pacific. That is where we are going I guess. [Seeing?] that Germany is almost over with. Say to [illegible] for me and [illegible]. I am thinking of her. Tell Lester to get on the ball too. Well goodbye for now. I will write again as soon as I find out if I passed my flight physical.\n\nLove, Bob"
+    }
+  ],
+  "full_transcription": "Dear Dad,\n\nWell the fire works really started yesterday. We started our Mental classification tests & solid hours on everything you hope to think of. I didn't know there was so many different kinds of tests. My head actually [ached?] after we got through.\n\n[Today?] we take our flight physical and the psychomotor tests which takes about 1 or 2 hours. It is a [coordination?] all kind of different machines just like playing with a pin ball machine. Boy is it ever [hot?] down here.\n\nI one of guys who never took the [test?] had to run the obstacle course [and was] after I [illegible] [sit out?] [illegible] from [illegible] listening to an instructor about the carbine rifle. We will have to do it too in a couple days from now. Even during a break they wouldn't let them [illegible] [illegible]. Those guys actually looked black when they got [through?].\n\nIf you could find Friday's paper or Sat. with the Drake [R]elay results I wish you would send it. Especially Friday's ones with the high school results. Today is Gas mask day — everybody has to wear them. Never know when they are going to throw a little gas. What a place. I sent some flowers to Drammaw for Mother's Day. Hope she likes them. I received Jimmy [news?] — [word?] yesterday. San Francisco, Calif. That the [gateway to the?] Pacific. That is where we are going I guess. [Seeing?] that Germany is almost over with. Say to [illegible] for me and [illegible]. I am thinking of her. Tell Lester to get on the ball too. Well goodbye for now. I will write again as soon as I find out if I passed my flight physical.\n\nLove, Bob",
+  "summary": "Bob writes to his father from a military training base, describing an intensive day of mental classification tests, upcoming flight physical and psychomotor evaluations, and carbine rifle instruction. He references Gas mask day, Drake Relay results he'd like clippings of, and flowers he sent to his grandmother for Mother's Day. Most significantly, Bob notes he has received word that San Francisco will be their gateway to the Pacific theater, anticipating deployment there as Germany is nearly defeated, and says he will write again once he learns whether he passed his flight physical."
+}

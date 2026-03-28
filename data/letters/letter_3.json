@@ -1,0 +1,63 @@
+{
+  "letter_id": "3",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Bobby' at the end of page 2",
+    "to": "Dad (James Edward Hanifen Sr.)",
+    "date": "22 March, 1946",
+    "date_normalized": "1946-03-22",
+    "location_written_from": "Italy (mentions Rome, Leghorn/Livorno, North Italy; likely stationed in Italy post-WWII)",
+    "location_sent_to": "null",
+    "postmark": "null",
+    "envelope_notes": "No separate envelope image provided; letter3.png is the first page of the letter itself.",
+    "topics": [
+      "military inspection duties",
+      "possible trip to Rome",
+      "jeep maintenance",
+      "shooting practice (45s and carbines)",
+      "Lt. going to Switzerland",
+      "sending money home",
+      "mail delays",
+      "camera and film request",
+      "Russian situation / Cold War anxiety",
+      "learning Italian (Dego)",
+      "souvenirs",
+      "playing catch with the Lt."
+    ],
+    "people_mentioned": [
+      "Dad (James Edward Hanifen Sr.)",
+      "the Lt. (Lieutenant, unnamed)",
+      "Johnny (likely John Hanifen, Bob's brother)",
+      "Pauline Hanifen",
+      "Jack Buckley (friend)",
+      "Bobby (the writer himself)"
+    ],
+    "places_mentioned": [
+      "Rome",
+      "Leghorn (Livorno)",
+      "Pisa",
+      "North Italy",
+      "Switzerland",
+      "New York"
+    ],
+    "mood_tone": "Upbeat, casual, and conversational; the writer is in good spirits, enjoying some downtime, mildly anxious about the Russian situation and mail delays, but generally optimistic.",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting is fluid cursive and generally readable, but some words require interpretation (e.g., 'Dego' for Italian slang, 'Leghorn Pesa' likely 'Leghorn/Pisa', some words smudged or abbreviated). The phrase '45s and carbines' is inferred from context. '$57 some dollars' is a best guess for the dollar amount.",
+    "historical_context": "Written March 22, 1946, shortly after the end of WWII. Bob appears to be part of the post-war occupation forces in Italy. He references the emerging 'Russian situation,' an early reference to Cold War tensions. The mention of inspections, jeeps, shooting practice, and a lieutenant suggest active military duty in a peacetime occupation role.",
+    "chronological_date": "1946-03-22",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "Page 1",
+      "source_file": "letter3.png",
+      "transcription": "22 March, 1946\n\nDear Dad\n\n    Well I am down at work and nobody is here yet. We finished our last inspection Tues. and so we are done for the month. The Lt. let me do the inspection without his help so I feel pretty good about it. I might go to Rome this week with a convoy just to see Rome, Leghorn [Livorno?] Pesa [Pisa?] and the big cities of North Italy. The jeep is still running good. Had to have a new starter motor but now it is okay. Was out shooting 45s and carbines last week just for the hell of it. Had a good old time. The Lt. is going to Switzerland some and coming back April 6, he wants me to do 3 inspections starting the first. You know maybe I will get a rank out of this office. I am sending home all my money it should be about $57 some dollars every month. As yet I have not received a letter addressed to my new address. The letter I got yesterday was dated Feb. 22. Pretty"
+    },
+    {
+      "page_label": "Page 2",
+      "source_file": "letter3-page2.png",
+      "transcription": "long time. How about sending some 620 films. My buddie got a camera so I can take some pictures. Don't send Johnny [a?] camera as most of the stuff is not getting thru. I will get myself a camera thru Jack Buckley, Col. [?] boy friend pretty soon, so don't worry about me. How about sending me that picture of my buddie and me I had taken in New York. Have Pauline and them see if they can find those pictures of mine I left at home. This Russian situation don't look to good to me, as we are in the hot spot right here. I was playing catch with the Lt. yesterday, boy he sure is a swell guy. I will send home some souvenirs one of these days. But I got to get ahead on my money. I am learning Dego pretty good. At least I know what the score is.\n\nWell Dad goodbye for now.\n\n    Lots of Love Your Son\n                Bobby"
+    }
+  ],
+  "full_transcription": "22 March, 1946\n\nDear Dad\n\n    Well I am down at work and nobody is here yet. We finished our last inspection Tues. and so we are done for the month. The Lt. let me do the inspection without his help so I feel pretty good about it. I might go to Rome this week with a convoy just to see Rome, Leghorn [Livorno?] Pesa [Pisa?] and the big cities of North Italy. The jeep is still running good. Had to have a new starter motor but now it is okay. Was out shooting 45s and carbines last week just for the hell of it. Had a good old time. The Lt. is going to Switzerland some and coming back April 6, he wants me to do 3 inspections starting the first. You know maybe I will get a rank out of this office. I am sending home all my money it should be about $57 some dollars every month. As yet I have not received a letter addressed to my new address. The letter I got yesterday was dated Feb. 22. Pretty long time. How about sending some 620 films. My buddie got a camera so I can take some pictures. Don't send Johnny [a?] camera as most of the stuff is not getting thru. I will get myself a camera thru Jack Buckley, Col. [?] boy friend pretty soon, so don't worry about me. How about sending me that picture of my buddie and me I had taken in New York. Have Pauline and them see if they can find those pictures of mine I left at home. This Russian situation don't look to good to me, as we are in the hot spot right here. I was playing catch with the Lt. yesterday, boy he sure is a swell guy. I will send home some souvenirs one of these days. But I got to get ahead on my money. I am learning Dego pretty good. At least I know what the score is.\n\nWell Dad goodbye for now.\n\n    Lots of Love Your Son\n                Bobby",
+  "summary": "Written on March 22, 1946, from Bob Hanifen to his father while stationed in post-war Italy, this letter describes his military duties (inspections, weapons practice), a possible trip to Rome and northern Italian cities, and jeep maintenance. Bob mentions sending money home ($57/month), asks for 620 camera film, and references the worsening 'Russian situation' as a source of concern given his location. The letter is upbeat and affectionate, closing with 'Lots of Love Your Son, Bobby.'"
+}

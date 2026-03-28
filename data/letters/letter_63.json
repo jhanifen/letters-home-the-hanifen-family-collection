@@ -1,0 +1,61 @@
+{
+  "letter_id": "63",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — return address on envelope reads 'Pvt. Bob Hanifen 17170600, Sqd. I-3706-ABU, AAF BKS-505, Sheppard Fld, Texas'; letter signed 'Bob'",
+    "to": "Dad (James Edward Hanifen Sr.) — salutation reads 'Dear Dad'; addressed to Hanifen Body & Paint Co.",
+    "date": "Wed. 1750",
+    "date_normalized": "1945-06-13",
+    "location_written_from": "Sheppard Field, Texas",
+    "location_sent_to": "Hanifen Body & Paint Co., 904 Keo Way, Des Moines, Iowa",
+    "postmark": "Wichita Falls, Texas, Jun 13, 11 PM, 1945",
+    "envelope_notes": "Marked 'Free' in upper right corner (military free mail). Return address: Pvt. Bob Hanifen 17170600, Sqd. I-3706-ABU, AAF BKS-505, Sheppard Fld, Texas.",
+    "topics": [
+      "discharge/shipping out",
+      "10-12 mile hike",
+      "buddies leaving",
+      "going to town",
+      "getting photos taken",
+      "friends and buddies at base"
+    ],
+    "people_mentioned": [
+      "Jack Dee Ray",
+      "John Hare"
+    ],
+    "places_mentioned": [
+      "Sheppard Field, Texas",
+      "Wichita Falls, Texas",
+      "Lance Creek, Wyoming",
+      "Hastings, Nebraska",
+      "Creighton, Nebraska",
+      "Des Moines, Iowa"
+    ],
+    "mood_tone": "Casual and conversational; somewhat wistful about buddies leaving, otherwise upbeat and good-humored",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting is generally readable but somewhat hurried; a few words require interpretation (e.g., 'Lance Creek' vs. other spellings, 'Keo Way' on envelope). 'Sqd.' abbreviation on envelope. 'A.S.T.P.' or similar fraternity/program acronym on page 2 is partially illegible.",
+    "historical_context": "Post-WWII demobilization period; Bob mentions that all tech school men must be out by the 16th, reflecting the rapid discharge of military personnel after the war ended. He is stationed at Sheppard Field, a major AAF technical training base in Texas.",
+    "date_estimated": "1945-06-13",
+    "date_estimated_confidence": "high",
+    "date_estimation_reasoning": "Letter is dated 'Wed. 1750' from Sheppard Field, Texas, postmarked June 13, 1945 per metadata. Bob mentions men being discharged ('all tech school men must be out by the 16th'), an exhausting 10-12 mile hike, and his buddies Jack Dee Ray and John Hare. This is consistent with the June 1945 Sheppard Field period between Letters 52 (June 1) and 33 (June 18). Confirmed as June 13, 1945.",
+    "date_is_approximate": true,
+    "chronological_date": "1945-06-13"
+  },
+  "pages": [
+    {
+      "page_label": "envelope",
+      "source_file": "letter63.png",
+      "transcription": "[Return Address]\nPvt. Bob Hanifen 17170600\nSqd. I-3706-ABU\nAAF BKS-505\nSheppard Fld, Texas\n\n[Postmark: Wichita Falls, Texas, Jun 13, 11 PM, 1945]\n\n[Upper right: Free]\n\n[Recipient Address]\nHanifen Body & Paint Co.\n904 Keo Way\nDes Moines, Iowa"
+    },
+    {
+      "page_label": "page 1",
+      "source_file": "letter63_page1.png",
+      "transcription": "Wed. 1750\n\nDear Dad\n\n     Well the boys are still slipping out but no luck as yet. One remote possibility is they say all tech school men must be out by the 16th, so they really mean business. We went on a 10 miles hike this morning it took us 4 hours to do it. My legs and feet still ached. Boy it seem a long way. When we got back they said it was more like 12 miles. A truck measure it 12 miles. What a life. We got two hours off this afternoon. Boy it seem good to sit down for awhile. My buddies are leaving me all the time. This army sure break up a lot of good buddies. We are going to town tonight, get a couple picture taken in a 10¢ store. I sure hate to leave them. One kid named [continued on page 2]"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter63_page2.png",
+      "transcription": "Jack Dee Ray from Lance Creek Wyo. One swell guy. My other buddies name is John Hare from Hastings Nebr. A great big bruiser 194 pd. of dynamite. The other guy Ray is a small package of dynamite too. A lot of help in a tight place. Sure have a lot of fun with them. They were in a A.S.T.[P.?] at Creighton Nebr. Well so long old boy I will write again real soon.\n\n     Love\n          Bob"
+    }
+  ],
+  "full_transcription": "Wed. 1750\n\nDear Dad\n\n     Well the boys are still slipping out but no luck as yet. One remote possibility is they say all tech school men must be out by the 16th, so they really mean business. We went on a 10 miles hike this morning it took us 4 hours to do it. My legs and feet still ached. Boy it seem a long way. When we got back they said it was more like 12 miles. A truck measure it 12 miles. What a life. We got two hours off this afternoon. Boy it seem good to sit down for awhile. My buddies are leaving me all the time. This army sure break up a lot of good buddies. We are going to town tonight, get a couple picture taken in a 10¢ store. I sure hate to leave them. One kid named Jack Dee Ray from Lance Creek Wyo. One swell guy. My other buddies name is John Hare from Hastings Nebr. A great big bruiser 194 pd. of dynamite. The other guy Ray is a small package of dynamite too. A lot of help in a tight place. Sure have a lot of fun with them. They were in a A.S.T.[P.?] at Creighton Nebr. Well so long old boy I will write again real soon.\n\n     Love\n          Bob",
+  "summary": "Bob writes to his father from Sheppard Field, Texas, dated Wednesday at 1750 hours (postmarked June 13, 1945). He reports that men are being discharged rapidly — all tech school men must be out by the 16th — but he has not yet received orders. He describes an exhausting 10-12 mile hike that morning and laments that his army buddies are constantly leaving; he fondly describes two friends, Jack Dee Ray from Lance Creek, Wyoming, and John Hare from Hastings, Nebraska, both former A.S.T.P. men from Creighton, Nebraska. The letter captures the bittersweet mood of the post-war demobilization period."
+}

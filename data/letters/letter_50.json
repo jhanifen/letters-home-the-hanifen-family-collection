@@ -1,0 +1,54 @@
+{
+  "letter_id": "50",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Your Bob' at the end",
+    "to": "Dad (James Edward Hanifen Sr.)",
+    "date": null,
+    "date_normalized": "1945-05",
+    "location_written_from": "Military training camp, likely in Texas (letter references Texas dust and heat)",
+    "location_sent_to": null,
+    "postmark": null,
+    "envelope_notes": null,
+    "topics": [
+      "military training",
+      "gas mask drill",
+      "gas chamber exercise",
+      "physical training (P.T.)",
+      "Texas dust and heat",
+      "pay day",
+      "swimming at Wichita Falls",
+      "Class A pass",
+      "camoflage area march"
+    ],
+    "people_mentioned": [
+      "Dad"
+    ],
+    "places_mentioned": [
+      "Texas",
+      "Wichita Falls"
+    ],
+    "mood_tone": "Conversational and candid; describes physically demanding and sometimes unpleasant training experiences with a matter-of-fact, slightly humorous tone",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting is cursive and occasionally difficult to parse; some words partially obscured by stains or paper damage; 'too' is crossed out in first paragraph; several words require guessing (e.g., 'Allright', 'D.A.' uncertain abbreviation); letter was written over multiple days as noted by the writer",
+    "historical_context": "Letter describes WWII-era U.S. Army basic training, including gas mask drills and gas chamber exercises, physical training, and military camp life likely at a Texas base near Wichita Falls.",
+    "date_estimated": "1945-05",
+    "date_estimated_confidence": "medium",
+    "date_estimation_reasoning": "Bob describes his second day of training with gas mask drill, Texas dust, and hopes to go swimming at Wichita Falls with a Class A pass — all consistent with basic training at Sheppard Field, Texas. The payday of about $14 and the mention of sending blue swimming trunks are consistent with early basic training (low pay grade). This matches the spring 1945 Sheppard Field period documented in Letters 21 (April 23, 1945) and 52 (June 1, 1945). The gas mask chamber exercise description is very similar to Letter 48 (May 15, 1946, also Sheppard Field) but different enough in detail to suggest a different visit. Given the $14 payday (lowest enlisted pay), this is more likely the 1945 training rather than 1946. Estimated May 1945.",
+    "date_is_approximate": true,
+    "chronological_date": "1945-05"
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter50_page1.png",
+      "transcription": "Dear Dad\n\nWell, one second day of training is finally over. We drilled two hours and had two hours of P.T. It wasn't too bad except for Gas Mask drill we had to practice for an hour putting them on and taking them off and then to wear them for an hour doing double time and running just to get the feel of them. I don't mind being in Texas but when having to eat it, and walk on it it's too much. The dust is so thick the sky looks red. You really get full of it.\n\nThis letter is a couple of days old right now, but I am going to continue it anyway. We had P.T. today and walked out to the Gas Chamber which is around a half mile, there we went thru the [Tear?] Gas Chamber. We went"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter50_page2.png",
+      "transcription": "thru first with our mask on and tested for Gas. It was there allright. The next we went in with our masked on but inside we had to take them off and give our City and State. Took a few steps and boy I couldn't see anything. Got outside my face burned and your eyes water and burned for about 5 min. Was it an experience. This afternoon we are marching out to the Camoflage [Camouflage?] area around a mile out of Camp. Had a case of the D.A. but I feel pretty good now. I think we have to work this Sun. We get payed Mon. I should get around 14 bucks.\n\nI sent my blue trunks with you if you haven't because we can go swimming at Wichita Fall. When we get our Class A pass. Well I will write again real soon\n\nYour Bob"
+    }
+  ],
+  "full_transcription": "Dear Dad\n\nWell, one second day of training is finally over. We drilled two hours and had two hours of P.T. It wasn't too bad except for Gas Mask drill we had to practice for an hour putting them on and taking them off and then to wear them for an hour doing double time and running just to get the feel of them. I don't mind being in Texas but when having to eat it, and walk on it it's too much. The dust is so thick the sky looks red. You really get full of it.\n\nThis letter is a couple of days old right now, but I am going to continue it anyway. We had P.T. today and walked out to the Gas Chamber which is around a half mile, there we went thru the [Tear?] Gas Chamber. We went thru first with our mask on and tested for Gas. It was there allright. The next we went in with our masked on but inside we had to take them off and give our City and State. Took a few steps and boy I couldn't see anything. Got outside my face burned and your eyes water and burned for about 5 min. Was it an experience. This afternoon we are marching out to the Camoflage [Camouflage?] area around a mile out of Camp. Had a case of the D.A. but I feel pretty good now. I think we have to work this Sun. We get payed Mon. I should get around 14 bucks.\n\nI sent my blue trunks with you if you haven't because we can go swimming at Wichita Fall. When we get our Class A pass. Well I will write again real soon\n\nYour Bob",
+  "summary": "Bob writes to his father from a military training camp in Texas, describing his second day of basic training which included physical training and an intense gas mask drill. He recounts a gas chamber exercise where recruits had to remove their masks inside and state their city and state, causing burning eyes and faces. He also mentions Texas dust, upcoming pay day (~$14), and hopes to go swimming at Wichita Falls once they receive a Class A pass. The letter was written over multiple days, as Bob notes midway through."
+}

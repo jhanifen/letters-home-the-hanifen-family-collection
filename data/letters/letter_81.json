@@ -1,0 +1,57 @@
+{
+  "letter_id": "81",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Your Loving Son, Bob'; return address on envelope reads 'Cpl. Bob Hanifen 17170600, Sqd. T B85-249, Chanute Fld. Ill.'",
+    "to": "Hanifen Body & Paint Co., 984 Keo Way, Des Moines, Iowa — addressed to the family business, effectively to his father James Edward Hanifen Sr.",
+    "date": "August 21, 1945 (postmark)",
+    "date_normalized": "1945-08-21",
+    "location_written_from": "Chanute Field, Illinois (Rantoul, IL area)",
+    "location_sent_to": "Hanifen Body & Paint Co., 984 Keo Way, Des Moines, Iowa",
+    "postmark": "RANTOUL, ILL. AUG 21 4-PM 1945",
+    "envelope_notes": "Marked 'Free' in upper right corner (military free mail). Return address: Cpl. Bob Hanifen 17170600, Sqd. T B85-249, Chanute Fld. Ill. Addressed to Hanifen Body & Paint Co., 984 Keo Way, Des Moines, Iowa.",
+    "topics": [
+      "return to camp",
+      "trip to Chicago",
+      "car tire trouble",
+      "ration board",
+      "tire replacement",
+      "gas and oil mileage",
+      "asking about Jimmy",
+      "family update"
+    ],
+    "people_mentioned": [
+      "Dad (James Edward Hanifen Sr.)",
+      "Jimmy (James Edward Hanifen Jr. — Bob's brother, asking if Dad has heard from him)"
+    ],
+    "places_mentioned": [
+      "Camp (Chanute Field, Illinois)",
+      "Chicago",
+      "Des Moines"
+    ],
+    "mood_tone": "Casual, upbeat, and practical — Bob reports on a good weekend, deals with car trouble matter-of-factly, asks for advice, and closes warmly.",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting is generally readable but somewhat hurried. A few words required interpretation: 'Sqd.' on envelope, 'gals' for gallons of gas, 'mirage' likely intended as 'mileage'. Some words on page 2 top lines slightly difficult due to ink flow.",
+    "historical_context": "August 1945 — just after the end of WWII (Japan surrendered August 15, 1945). Bob is still stationed at Chanute Field, Illinois. The mention of the ration board reflects wartime rationing still in effect or winding down. Bob inquires about 'Jimmy' — context suggests this is his brother Jim (Jr.), possibly still in service or recently discharged.",
+    "chronological_date": "1945-08-21",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "envelope",
+      "source_file": "letter81.png",
+      "transcription": "[Return address, upper left]\nCpl. Bob Hanifen 17170600\nSqd. T  B85-249\nChanute Fld. Ill.\n\n[Postmark]\nRANTOUL, ILL.\nAUG 21\n4-PM\n1945\n\n[Upper right]\nFree\n\n[Recipient address, center]\nHanifen Body & Paint Co.\n984 Keo Way\n\nDes Moines, Iowa"
+    },
+    {
+      "page_label": "page1",
+      "source_file": "letter81_page1.png",
+      "transcription": "U. S. ARMY AIR FORCES\n\nDear Dad\n\n  I am back at Camp again had a swell weekin. Hitch Hiked up to Chicago. The right rear tire on the Chev. is junk and the spare isn't a lot better. All it does is hold up rear end. I am going down to the ration board now to see about a new ones. they are pretty good about it on the field, so that the only I can figure out how to get"
+    },
+    {
+      "page_label": "page2",
+      "source_file": "letter81_page2.png",
+      "transcription": "the car home unless you send a tire by mail. Write and tell me what to do. only took 16 gal. of gas and two gts [qts?] of oil. Very good mirage [mileage?]. Have you heard from Jimmy yet, sure hope so. Well Dad goodby for now. Everything is going well\n          Your Loving Son\n               Bob"
+    }
+  ],
+  "full_transcription": "Dear Dad\n\n  I am back at Camp again had a swell weekin. Hitch Hiked up to Chicago. The right rear tire on the Chev. is junk and the spare isn't a lot better. All it does is hold up rear end. I am going down to the ration board now to see about a new ones. they are pretty good about it on the field, so that the only I can figure out how to get the car home unless you send a tire by mail. Write and tell me what to do. only took 16 gal. of gas and two gts [qts?] of oil. Very good mirage [mileage?]. Have you heard from Jimmy yet, sure hope so. Well Dad goodby for now. Everything is going well\n          Your Loving Son\n               Bob",
+  "summary": "Bob writes to his father from Chanute Field, Illinois in August 1945, reporting that he had a good weekend and hitchhiked up to Chicago. He explains that the rear tire on the family Chevrolet is worn out and the spare is barely usable, and that he is going to the ration board to try to get new tires; he asks his father to write and advise whether he should send a tire by mail. Bob also notes the car got good gas mileage (16 gallons and 2 quarts of oil for the trip) and inquires whether his father has heard from his brother Jimmy."
+}

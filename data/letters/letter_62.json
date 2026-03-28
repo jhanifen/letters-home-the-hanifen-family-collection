@@ -1,0 +1,52 @@
+{
+  "letter_id": "62",
+  "metadata": {
+    "from": "Bob Hanifen — signed 'Bobby,' return address reads 'Cpl. Bob Hanifen 17170600, Sqd. T - B15-249, Chanute Fld. Ill.'",
+    "to": "Dad (James Edward Hanifen Sr.), care of Hanifen Body & Paint Co., 904 Keo Way, Des Moines, Iowa",
+    "date": "Mon.",
+    "date_normalized": "1945-08-27",
+    "location_written_from": "Chanute Field, Illinois",
+    "location_sent_to": "Hanifen Body & Paint Co., 904 Keo Way, Des Moines, Iowa",
+    "postmark": "Rantoul, Ill., AUG 26, 9:30 PM, 1945",
+    "envelope_notes": "Return address: Cpl. Bob Hanifen 17170600, Sqd. T - B15-249, Chanute Fld. Ill. Stamp appears to be 3 cents. Envelope is worn and torn at edges.",
+    "topics": [
+      "return to camp",
+      "hitchhiking route",
+      "graduation date",
+      "missing holidays at home",
+      "meeting Hank on the road"
+    ],
+    "people_mentioned": [
+      "Dad",
+      "Hank"
+    ],
+    "places_mentioned": [
+      "Moline",
+      "Galesburg",
+      "Peoria",
+      "Chanute Field",
+      "Des Moines"
+    ],
+    "mood_tone": "Casual and upbeat with a tinge of resignation about missing holidays at home due to graduation date.",
+    "legibility": "fair",
+    "legibility_notes": "Handwriting is generally readable but some words are difficult to decipher, particularly place names and a few verbs. Page 2 shows heavy bleed-through from the other side making much of the background text difficult to read, though the closing is clear.",
+    "historical_context": "Written in August 1945, near the end of WWII. Bob is stationed at Chanute Field, Illinois, an Army Air Forces technical training base. He mentions graduating from school on September 22nd, likely a military technical course.",
+    "date_reasoning": "The postmark reads August 26, 1945, and the letter is dated 'Mon.' — August 27, 1945 was a Monday, so the letter was likely written on Monday the 27th and postmarked the evening before or that night.",
+    "chronological_date": "1945-08-27",
+    "date_is_approximate": false
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter62.png",
+      "transcription": "Dear Dad          Mon.\n\nWell I got back alright to camp. I got back at 7:30. Not bad at all. I rode to Moline with the [Sikon?] and took off from there to Galesburg. I figured it to be 200 miles closer. Got a ride right up to there. At Peoria I met Hank waiting for a ride. Pretty nice to find him along the way. We graduate from school the 22nd Sept. That means no birthday at home. or Thanksgiving or Christmas. Well Dad"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter62_page1.png",
+      "transcription": "Goodbye for now.\nYour loving Son\n    Bobby"
+    }
+  ],
+  "full_transcription": "Dear Dad          Mon.\n\nWell I got back alright to camp. I got back at 7:30. Not bad at all. I rode to Moline with the [Sikon?] and took off from there to Galesburg. I figured it to be 200 miles closer. Got a ride right up to there. At Peoria I met Hank waiting for a ride. Pretty nice to find him along the way. We graduate from school the 22nd Sept. That means no birthday at home. or Thanksgiving or Christmas. Well Dad\n\nGoodbye for now.\nYour loving Son\n    Bobby",
+  "summary": "Bob writes to his father on a Monday after returning to Chanute Field, Illinois, describing his hitchhiking journey back to camp through Moline, Galesburg, and Peoria, where he coincidentally met a fellow named Hank also waiting for a ride. He reports that his class graduates September 22nd, which means he will miss his birthday, Thanksgiving, and Christmas at home. The letter is brief and ends affectionately as 'Your loving Son, Bobby.'"
+}

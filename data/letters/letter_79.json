@@ -1,0 +1,54 @@
+{
+  "letter_id": "79",
+  "metadata": {
+    "from": "Bob (Robert Hanifen) — signed 'Bob' at the end of page 2",
+    "to": "Dad (James Edward Hanifen Sr.)",
+    "date": null,
+    "date_normalized": "1945-05",
+    "location_written_from": null,
+    "location_sent_to": null,
+    "postmark": null,
+    "envelope_notes": "No envelope visible in the scans provided.",
+    "topics": [
+      "flight physical",
+      "sunbathing and tan",
+      "Class A pass to the city",
+      "letter from Aunt Bonnie and Kay",
+      "inquiry about Jimmy",
+      "request to send photo to Aunt Bonnie and Kay",
+      "upcoming gunnery training",
+      "furlough anticipation"
+    ],
+    "people_mentioned": [
+      "Aunt Bonnie",
+      "Kay",
+      "Jimmy (Jim Jr., Bob's brother)"
+    ],
+    "places_mentioned": [
+      "Big City (likely a nearby city from the military base)"
+    ],
+    "mood_tone": "Cheerful, relaxed, and optimistic; Bob is enjoying some leisure time (sunbathing), looking forward to a pass into the city, and anticipating a furlough after gunnery training.",
+    "legibility": "fair",
+    "legibility_notes": "Page 1 is moderately legible with some words difficult to decipher due to fading and aging of the paper. The top line of page 1 is partially cut off. Page 2 has significant bleed-through from the reverse side in the lower half, making the bottom portion largely illegible; only the top portion with the closing is clearly readable.",
+    "historical_context": "References to a flight physical, gunnery training, and a furlough strongly suggest a WWII-era military context, consistent with Bob's service during World War II. The mention of a 'Class A pass' is military terminology for an authorized pass off-base.",
+    "date_estimated": "1945-05",
+    "date_estimated_confidence": "medium",
+    "date_estimation_reasoning": "Bob mentions taking a flight physical, a Class A pass, 20 days remaining before 7 weeks of gunnery training, and a furlough after gunnery. He is sunbathing and received a letter from Aunt Bonnie and Kay. The mention of gunnery training and a furlough matches Bob's projected training timeline described in Letter 47 (May 20, 1946 from Sheppard Field: '18 weeks mechanic school then 6 weeks gunnery') — but since that is 1946 and this letter's tone and context (class A pass into 'the Big City') matches early training, this could be either the 1945 or 1946 Sheppard Field period. Given the flight physical (Letter 43, May 1945, also mentions upcoming flight physical) and the 20-days-before-gunnery timeline, this may be from Sheppard Field, spring 1945. Estimated May 1945, possibly spring 1946.",
+    "date_is_approximate": true,
+    "chronological_date": "1945-05"
+  },
+  "pages": [
+    {
+      "page_label": "page 1",
+      "source_file": "letter79_page1.png",
+      "transcription": "[top line partially cut off] the [illegible] and [illegible] flight physical. What a life. I took a sun bath for about 3 hrs. today and I have the being of a nice tan, my face and hands already very nicely toned. We get a Class A pass next Wed., so I am going to the Big City. At we don't have to march here. Ollert and me. Got a letter from Aunt Bonnie & Kay today. Have you had any word from Jimmy yet. Say to Kay that I said hello to her. Tell her to be good. Say Dad one of those extra pictures I left at home of me in the little folder — I wish you would send it to Aunt Bonnie & Kay. I promised them one, & and I never sent it when I was home. Don't"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter79_page2.png",
+      "transcription": "[top partially cut off] [I'm not] going to be here 20 days and then 7 weeks of gunnery before I get that furlough. Well the time will go pretty fast. Goodby for now and write soon.\n\nYour loving Son\n  Bob\n\n[remainder of page is bleed-through from reverse side and illegible]"
+    }
+  ],
+  "full_transcription": "[top line partially cut off] the [illegible] and [illegible] flight physical. What a life. I took a sun bath for about 3 hrs. today and I have the being of a nice tan, my face and hands already very nicely toned. We get a Class A pass next Wed., so I am going to the Big City. At we don't have to march here. Ollert and me. Got a letter from Aunt Bonnie & Kay today. Have you had any word from Jimmy yet. Say to Kay that I said hello to her. Tell her to be good. Say Dad one of those extra pictures I left at home of me in the little folder — I wish you would send it to Aunt Bonnie & Kay. I promised them one, & and I never sent it when I was home. Don't [page 2] [I'm not] going to be here 20 days and then 7 weeks of gunnery before I get that furlough. Well the time will go pretty fast. Goodby for now and write soon.\n\nYour loving Son\n  Bob",
+  "summary": "In this letter, Bob writes to his father (Dad) from what appears to be a military base during WWII. He mentions taking his flight physical, enjoying a sunbath, and looking forward to a Class A pass into the city with a companion (Ollert). He reports receiving a letter from Aunt Bonnie and Kay, asks if there is any news from Jimmy (his brother), and requests that his father send one of his photos left at home to Aunt Bonnie and Kay, as he had promised them one. He closes by noting he has about 20 days remaining before seven weeks of gunnery training, after which he anticipates a furlough."
+}

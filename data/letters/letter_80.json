@@ -1,0 +1,70 @@
+{
+  "letter_id": "80",
+  "metadata": {
+    "from": "Bob (Robert C. Hanifen) — the return address on the envelope is 'Robert C. Hanifen 17120605, 42 Ord & Mt. Co. AF, APO 528, Postmaster New York, N.Y.' and the letter is signed 'Bobby'",
+    "to": "Dad (James Edward Hanifen Sr.)",
+    "date": "1 March [year partially illegible, likely 1945]",
+    "date_normalized": "1945-03-01",
+    "location_written_from": "Overseas military posting (APO 528, via New York)",
+    "location_sent_to": "Des Moines, Iowa (based on Western Union receipt and family context); envelope destination address partially illegible",
+    "postmark": "U.S. Army Postal Service, date partially legible — appears to read 8 [month] 2[?] APO",
+    "envelope_notes": "Envelope is addressed from Pvt. Robert C. Hanifen, 17120605, 42 Ord & Mt. Co. AF, APO 528, Postmaster New York, N.Y. The destination address on the envelope is heavily faded/damaged and largely illegible but appears to show 'Hansen' or similar and possibly 'Des Moines'. The form number 'FORM 539' is printed in red. There is some handwriting across the lower portion of the envelope that may be the recipient's address or routing notes.",
+    "topics": [
+      "military life",
+      "new troop shipment",
+      "trip cancellation",
+      "tiredness",
+      "brief update to father",
+      "Western Union money order receipt"
+    ],
+    "people_mentioned": [
+      "Dad (James Edward Hanifen Sr.)"
+    ],
+    "places_mentioned": [
+      "APO 528",
+      "New York",
+      "Des Moines",
+      "Laramie, Wyoming (from Western Union receipt)",
+      "camp (unnamed)"
+    ],
+    "mood_tone": "Casual, reassuring, briefly upbeat but tired; Bob is keeping it short due to fatigue and other men waiting",
+    "legibility": "fair",
+    "legibility_notes": "Page 1 is partially obscured by red ink smudges (possibly lipstick kiss marks) and faded/overlapping text from bleed-through. Several lines are difficult to read. Page 2 is similarly affected. The date at the top of page 1 is partially cut off. The envelope destination address is largely illegible due to age and damage.",
+    "historical_context": "Written during WWII while Bob was stationed overseas (APO 528). He mentions receiving a new shipment of 60 men, suggesting active military unit operations. A planned trip was cancelled due to conditions that arose — likely military operational circumstances. The accompanying Western Union receipt (page 4) dated 1945 MAR 28 shows a $10 money order sent from J.E. Hanifen (the father, James Edward Hanifen Sr.) in Des Moines to 'Pvt. Robert Hanifen' at Laramie, Wyoming — possibly a different transaction or an earlier/later document included with this correspondence.",
+    "reasoning_notes": "The letter is signed 'Bobby' and addressed to 'Dad.' Given Bob's military service and the APO address, this is clearly Bob writing to his father. The Western Union receipt appears to be from the father (J.E. Hanifen, Des Moines) sending $10 to 'Pvt. Robert Hanifen' at Laramie, Wyo., dated March 28, 1945 — this may have been enclosed or filed together with this letter.",
+    "date_estimated": "1946-03-01",
+    "date_estimated_confidence": "high",
+    "date_estimation_reasoning": "Letter is explicitly dated '1, March [year illegible]' and the return address on envelope is 'Robert C. Hanifen 17120605, 42 Ord & Mt. Co. AF, APO 528, Postmaster New York, N.Y.' — APO 528 is the Italy/Mediterranean theater, and Bob is described in the Italy letters from February through June 1946. The mention of 60 new men arriving, a planned trip to MacFarlane (also mentioned in Letters 4, 8 from early March 1946) being cancelled, and the overall Italy context confirms this is March 1, 1946. The accompanying Western Union receipt from March 28, 1945 is a separate document included in the same envelope. Confirmed as March 1, 1946.",
+    "date_is_approximate": true,
+    "chronological_date": "1946-03-01"
+  },
+  "pages": [
+    {
+      "page_label": "envelope",
+      "source_file": "letter80.png",
+      "transcription": "[Return address, upper left]\nRobert C. Hanifen 17120605\n42 Ord & Mt. Co. AF\nAPO 528\nPostmaster New York, N.Y.\n\n[Postmark, center]\nU.S. Army Postal Service\n[date partially legible: 8 (month) 2[?]]\nAPO\n\n[Destination address, lower portion — largely illegible due to damage]\n[illegible] Hansen [illegible]\n[illegible] Des Moines [illegible]\n\n[Form number, upper right]\nFORM 539"
+    },
+    {
+      "page_label": "page1",
+      "source_file": "letter80_page1.png",
+      "transcription": "[American Red Cross letterhead with red cross symbol]\n\n1, March [year illegible]\n\nDear Dad,\n\nJust a few lines to let you know I am all right. The work is fine and I am doing all right so far. The Lt. got no [jeep?] to [use?] so [everything is?] fine [so?] far. The times seemed to be going [awfully?] [so though?], but it always does [at first?].\n\nWe got a new shipment of men here. 60 of them. We didn't [exactly?] appreciate them as we [don't?] have [enough?] work for the [guys here?] [already?]. But we probably appreciate them later on. Our trip to [MacFarland?] was cancelled [to?] [due to?] conditions which arose, so [we'll?] probably [go?] [next?] week, the Lt. says [we'll?]"
+    },
+    {
+      "page_label": "page2",
+      "source_file": "letter80_page2.png",
+      "transcription": "[be?] gone for 3 days or more. Well that's all [I'll?] write again tomorrow, only a longer letter. But a [bunch?] of guys are waiting [for me?] to go back to camp. This [illegible] [has?] [me?] [gonna?] put down. It's only 9:30 [&?] [I?] am sleepy already.\n\n[My love to?] everybody.\n\n[Lots?] of love Your Son\n    Bobby"
+    },
+    {
+      "page_label": "page3 (enclosure - Western Union advertisement)",
+      "source_file": "letter80_page3.jpg",
+      "transcription": "Money by Telegraph and Cable\n\nMONEY ORDERS—Telegraphed throughout the country. Payable during all open hours of Western Union offices during day or night, Sundays or holidays. Easy—Safe—Speedy. No red tape. Message to payee included at small extra cost.\n\nSHOPPING ORDERS—For the purchase and delivery at distant cities of gifts and other articles—including railroad, bus, airplane and theatre tickets. A message may be included.\n\nGIFT ORDERS—Solve the perplexing problem of what to give and combine sense and sentiment. Exchangeable anywhere for the gift most desired. Free sentiment for various occasions with each order.\n\nASK MANAGER FOR DETAILS"
+    },
+    {
+      "page_label": "page4 (enclosure - Western Union Receipt)",
+      "source_file": "letter80_page4.jpg",
+      "transcription": "THE WESTERN UNION TELEGRAPH COMPANY          4178-A\n\nRECEIPT\n\n[Stamped in pink:] 1945 MAR 28 PM 9 15\n\nOFFICE: [illegible / Des Moines]          DATE: [see above]          19[45]\n\nReceived from: J.E. Hanifen          $ 10 00\n                Ten [Dollars?]     [Stamped:] CTR DES MOINES\n                                             Dollars in payment of:\n\n☐ Account for the month of ___________________________  19__\n☐ Telegraphic Money Order\n☐ Telegram or Cable                    To: Pvt. Robert Hanifen\n☐ Deposit on Collect Telegram          At: Laramie, Wyo[ming]\n      Returnable after 24 hours\n☐ Account No. ___________                    THE WESTERN UNION TELEGRAPH COMPANY\n      For Remittance\n\nMONEY ORDER\nCHARGES PAID    $ .59                  By: [illegible signature]"
+    }
+  ],
+  "full_transcription": "1, March [year illegible]\n\nDear Dad,\n\nJust a few lines to let you know I am all right. The work is fine and I am doing all right so far. The Lt. got no [jeep?] to [use?] so [everything is?] fine [so?] far. The times seemed to be going [awfully?] [so though?], but it always does [at first?].\n\nWe got a new shipment of men here. 60 of them. We didn't [exactly?] appreciate them as we [don't?] have [enough?] work for the [guys here?] [already?]. But we probably appreciate them later on. Our trip to [MacFarland?] was cancelled [to?] [due to?] conditions which arose, so [we'll?] probably [go?] [next?] week, the Lt. says [we'll?] [be?] gone for 3 days or more. Well that's all [I'll?] write again tomorrow, only a longer letter. But a [bunch?] of guys are waiting [for me?] to go back to camp. This [illegible] [has?] [me?] [gonna?] put down. It's only 9:30 [&?] [I?] am sleepy already.\n\n[My love to?] everybody.\n\n[Lots?] of love Your Son,\n    Bobby",
+  "summary": "This is a brief letter from Bob (Robert C. Hanifen), written on American Red Cross stationery from his overseas military posting (APO 528), to his father in Des Moines. Bob reassures his father he is well, mentions a new shipment of 60 men to his unit, and notes that a planned trip was cancelled due to unspecified conditions. He keeps the letter short because he is tired (it is only 9:30 but he is already sleepy) and his fellow soldiers are waiting to return to camp. Enclosed with the letter are a Western Union advertisement and a receipt dated March 28, 1945, showing that his father (J.E. Hanifen of Des Moines) sent Bob $10 by telegraphic money order to Laramie, Wyoming."
+}

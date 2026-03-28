@@ -1,0 +1,67 @@
+{
+  "letter_id": "68",
+  "metadata": {
+    "from": "Bob (Robert) Hanifen — signed 'Bob' at the end, return address PFC Robert E. Hanifen",
+    "to": "Dad (James Edward Hanifen Sr.) — salutation 'Dear Dad'",
+    "date": "Jan. 25",
+    "date_normalized": "1946-01-25",
+    "location_written_from": "Greensboro, N.C. (331 North Elm Street — Southern Bell Telephone center stationery)",
+    "location_sent_to": "Hanifen Body & Paint Co., 904 Leo Way, Des Moines, Iowa",
+    "postmark": "GREENSBORO, N.C. — JAN 27, 2:30 PM, 1946",
+    "envelope_notes": "Return address: PFC Robert E. Hanifen 17702603, APO Branch 2, Greensboro, N.C. Marked 'Free' (military free mail). Back of envelope has penciled notes: 'Murphy / can stop leak / $1.50' — likely a memo made by the recipient unrelated to the letter content.",
+    "topics": [
+      "military detail duty",
+      "KP duty",
+      "clothing issue at warehouse",
+      "sending items home",
+      "anticipated departure (Tuesday)",
+      "money and bills",
+      "car registration and license",
+      "items for Johnny and Herby",
+      "Don Picard's pants"
+    ],
+    "people_mentioned": [
+      "Johnny",
+      "Herby",
+      "Don Picard"
+    ],
+    "places_mentioned": [
+      "Greensboro, N.C.",
+      "Des Moines, Iowa"
+    ],
+    "mood_tone": "Chatty and practical; mildly frustrated with military duties but upbeat about upcoming departure; matter-of-fact about sending items home and handling family logistics.",
+    "legibility": "fair",
+    "legibility_notes": "Page 1 is generally legible with some difficult words in the middle. Page 2 is more difficult, written in blue ink over faint ghost text from another letter showing through the paper; several phrases require guessing. The service number on the envelope reads 17702603 (possibly 17706[?]3 — partially obscured). The address line 'APO Branch 2' may read differently.",
+    "historical_context": "January 1946, just after the end of WWII. Bob is stationed at Greensboro, N.C. as a PFC and appears to be awaiting separation or transfer ('should leave by Tues.'). Military routines such as KP duty and clothing issue are described. The letter is sent free (military free mail privilege).",
+    "jim_disambiguation": "No 'Jim' mentioned in this letter. 'Johnny' likely refers to brother John Hanifen; 'Herby' is another person, possibly a neighbor or friend.",
+    "date_estimated": "1946-01-25",
+    "date_estimated_confidence": "high",
+    "date_estimation_reasoning": "Letter is explicitly dated 'Jan. 25' and written from Greensboro, NC on Southern Bell Telephone stationery. Bob mentions leaving 'by Tues.' (approximately January 28), having done KP and detail work, and sending clothing items home. This fits between Letter 32 (January 14, 1946 — still at Greensboro) and Letter 23 (January 29, 1946 — departing for Camp Kilmer). Confirmed as January 25, 1946.",
+    "date_is_approximate": true,
+    "chronological_date": "1946-01-25"
+  },
+  "pages": [
+    {
+      "page_label": "envelope (front)",
+      "source_file": "letter68.png",
+      "transcription": "RETURN ADDRESS (upper left):\nPFC Robert E. Hanifen 17702603\nAPO Branch 2\nGREENSBORO, N.C.\n\nPOSTMARK: GREENSBORO / JAN 27 / 2:30 PM / 1946 / N.C.\n\nUpper right: Free [written in ink, military free mail]\n\nADDRESSEE:\nHanifen Body & Paint Co.\n904 Leo Way\nDes Moines, Iowa"
+    },
+    {
+      "page_label": "envelope (back)",
+      "source_file": "letter68_page1.png",
+      "transcription": "Murphy\ncan stop leak\n$1.50\n\n[Penciled memo on back flap, likely written by recipient, unrelated to letter content.]"
+    },
+    {
+      "page_label": "page 1",
+      "source_file": "letter68_page2.png",
+      "transcription": "Jan. 25\n\nDear Dad\n     Well I finally got to mail and I got three letters. Good deal. Thurs. we went on detail and Fri. we went on KP at 4:00 and at 6:00 that night. They pulled us and sent us to the warehouse for our clothing issue. We was just ready to leave and a Lt. grab us for more detail. We worked on salvage clothes. we could have anything we could get on. I got a few things and I am sending them home"
+    },
+    {
+      "page_label": "page 2",
+      "source_file": "letter68_back.png",
+      "transcription": "one each to Johnny and Herby. The [two?] old pants belong to Don Picard. Have Johnny take them over to his when he gets a chance. But my coveralls up on [GI?] if want [use?] [or: if won't use them]. Pay those bills out of my money. We should leave by Tues. They say I sure hope so. What happened to that money order I sent [for?] Registration Pop? I don't [know?] — I put those license on but I think the envelope was already after I [sent?]. But didn't see it. I think. But look on the 41 Chev. Might [have?] got them wiped — could have got them messed up the [note?]. I didn't [mess up?] for.\nDeal. So long for\n     Love, Bob"
+    }
+  ],
+  "full_transcription": "Jan. 25\n\nDear Dad,\n     Well I finally got to mail and I got three letters. Good deal. Thurs. we went on detail and Fri. we went on KP at 4:00 and at 6:00 that night. They pulled us and sent us to the warehouse for our clothing issue. We was just ready to leave and a Lt. grab us for more detail. We worked on salvage clothes. we could have anything we could get on. I got a few things and I am sending them home one each to Johnny and Herby. The [two?] old pants belong to Don Picard. Have Johnny take them over to his when he gets a chance. But my coveralls up on [GI?] if [won't use them?]. Pay those bills out of my money. We should leave by Tues. They say. I sure hope so. What happened to that money order I sent [for?] Registration Pop? I don't [know?] — I put those license on but I think the envelope was already [sealed?] after I [sent?]. But didn't see it. I think. But look on the 41 Chev. Might [have?] got them wiped — could have got them messed up the [note?]. I didn't [mess up?] for.\nDeal. So long for\n     Love, Bob",
+  "summary": "Written January 25, 1946, from Greensboro, N.C., PFC Bob Hanifen writes his father about recent military duties including detail work and KP, and being pulled to work on salvage clothing. He is sending clothing items home — one each for Johnny and Herby — and asks his father to return a pair of pants to Don Picard via Johnny. Bob expects to leave (likely for discharge or transfer) by Tuesday, and asks about a missing money order he sent for car registration, suggesting it may be on or near the '41 Chevy. The letter reflects the winding-down routine of postwar military service and Bob's ongoing involvement in family affairs from a distance."
+}
