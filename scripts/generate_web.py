@@ -18,7 +18,7 @@ ANALYSIS_PATH = DATA_DIR / "timeline_analysis.json"
 OUTPUT_PATH = ROOT / "site" / "index.html"
 
 IMAGE_EXTS = {".png", ".jpg", ".jpeg"}
-
+AUDIOBOOK_SCRIPT_PATH = DATA_DIR / "audiobook_script_polished.txt"
 
 PHOTO_MANIFEST_PATH = DATA_DIR / "photo_manifest.json"
 
@@ -103,6 +103,35 @@ def prepare_letters_data(letters: list[dict]) -> list[dict]:
     return result
 
 
+def build_transcript_html() -> str:
+    """Convert the polished audiobook script to HTML."""
+    raw = AUDIOBOOK_SCRIPT_PATH.read_text(encoding="utf-8")
+    lines = []
+    for line in raw.splitlines():
+        stripped = line.strip()
+        if not stripped:
+            lines.append("")
+            continue
+        # Skip markdown meta lines
+        if stripped == "---":
+            lines.append('<hr class="transcript-rule">')
+            continue
+        if stripped.startswith("# "):
+            lines.append(f'<h2 class="transcript-h2">{stripped[2:]}</h2>')
+        elif stripped.startswith("## "):
+            lines.append(f'<h3 class="transcript-h3">{stripped[3:]}</h3>')
+        elif stripped.startswith("### "):
+            lines.append(f'<h4 class="transcript-h4">{stripped[4:]}</h4>')
+        elif stripped.startswith("[") and stripped.endswith("]"):
+            # Stage directions like [pause]
+            lines.append(f'<p class="transcript-direction">{stripped}</p>')
+        elif stripped.startswith("*") and stripped.endswith("*"):
+            lines.append(f'<p class="transcript-italic"><em>{stripped.strip("*")}</em></p>')
+        else:
+            lines.append(f"<p>{stripped}</p>")
+    return "\n".join(lines)
+
+
 def main():
     print("Loading data...")
     index, analysis = load_data()
@@ -143,7 +172,10 @@ def main():
     print(f"  {len(letters)} letters, {len(chapters)} chapters, {len(profiles)} profiles, {len(photos)} photos")
     print(f"  Data size: {len(js_data_json) / 1024:.0f} KB")
 
-    html = build_html(js_data_json)
+    # Load audiobook transcript
+    transcript_html = build_transcript_html()
+
+    html = build_html(js_data_json, transcript_html)
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(html, encoding="utf-8")
@@ -152,15 +184,18 @@ def main():
     print(f"  Scans must be in: {SCANS_DIR.resolve()}/")
 
 
-def build_html(js_data_json: str) -> str:
+def build_html(js_data_json: str, transcript_html: str = "") -> str:
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Letters Home — The Hanifen Family Collection</title>
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" href="favicon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/plyr.css">
 <style>
 {CSS_CONTENT}
 </style>
@@ -213,7 +248,7 @@ def build_html(js_data_json: str) -> str:
 <section id="overview" class="section">
   <div class="container">
     <div class="section-photo">
-      <img src="photos/hanifen_brothers_lookin_cool.jpg" alt="The Hanifen Brothers">
+      <img src="photos_web/photos/hanifen_brothers_lookin_cool.jpg" alt="The Hanifen Brothers">
       <span class="section-photo-caption">The Hanifen Brothers &mdash; Bob, Jim, and John</span>
     </div>
     <div class="section-header">
@@ -232,7 +267,7 @@ def build_html(js_data_json: str) -> str:
 <section id="timeline" class="section">
   <div class="container">
     <div class="section-photo">
-      <img src="photos/hanifen_brothers_lookin_cool.jpg" alt="The Hanifen Brothers">
+      <img src="photos_web/photos/hanifen_brothers_lookin_cool.jpg" alt="The Hanifen Brothers">
       <span class="section-photo-caption">The Hanifen Brothers &mdash; Bob, Jim, and John</span>
     </div>
     <div class="section-header">
@@ -255,7 +290,7 @@ def build_html(js_data_json: str) -> str:
 <section id="chapters" class="section">
   <div class="container">
     <div class="section-photo">
-      <img src="photos/hanifen_brothers_lookin_cool.jpg" alt="The Hanifen Brothers">
+      <img src="photos_web/photos/hanifen_brothers_lookin_cool.jpg" alt="The Hanifen Brothers">
       <span class="section-photo-caption">The Hanifen Brothers &mdash; Bob, Jim, and John</span>
     </div>
     <div class="section-header">
@@ -272,7 +307,7 @@ def build_html(js_data_json: str) -> str:
 <section id="highlights" class="section">
   <div class="container">
     <div class="section-photo">
-      <img src="photos/hanifen_brothers_lookin_cool.jpg" alt="The Hanifen Brothers">
+      <img src="photos_web/photos/hanifen_brothers_lookin_cool.jpg" alt="The Hanifen Brothers">
       <span class="section-photo-caption">The Hanifen Brothers &mdash; Bob, Jim, and John</span>
     </div>
     <div class="section-header">
@@ -299,7 +334,7 @@ def build_html(js_data_json: str) -> str:
 <section id="photos" class="section">
   <div class="container container-wide">
     <div class="section-photo">
-      <img src="photos/hanifen_brothers_lookin_cool.jpg" alt="The Hanifen Brothers">
+      <img src="photos_web/photos/hanifen_brothers_lookin_cool.jpg" alt="The Hanifen Brothers">
       <span class="section-photo-caption">The Hanifen Brothers &mdash; Bob, Jim, and John</span>
     </div>
     <div class="section-header">
@@ -317,7 +352,7 @@ def build_html(js_data_json: str) -> str:
 <section id="people" class="section">
   <div class="container">
     <div class="section-photo">
-      <img src="photos/hanifen_brothers_lookin_cool.jpg" alt="The Hanifen Brothers">
+      <img src="photos_web/photos/hanifen_brothers_lookin_cool.jpg" alt="The Hanifen Brothers">
       <span class="section-photo-caption">The Hanifen Brothers &mdash; Bob, Jim, and John</span>
     </div>
     <div class="section-header">
@@ -333,7 +368,7 @@ def build_html(js_data_json: str) -> str:
 <section id="search" class="section">
   <div class="container">
     <div class="section-photo">
-      <img src="photos/hanifen_brothers_lookin_cool.jpg" alt="The Hanifen Brothers">
+      <img src="photos_web/photos/hanifen_brothers_lookin_cool.jpg" alt="The Hanifen Brothers">
       <span class="section-photo-caption">The Hanifen Brothers &mdash; Bob, Jim, and John</span>
     </div>
     <div class="section-header">
@@ -349,11 +384,30 @@ def build_html(js_data_json: str) -> str:
   </div>
 </section>
 
+<!-- ===== TRANSCRIPT ===== -->
+<section id="transcript" class="section">
+  <div class="container">
+    <div class="section-photo">
+      <img src="photos_web/photos/hanifen_brothers_lookin_cool.jpg" alt="The Hanifen Brothers">
+      <span class="section-photo-caption">The Hanifen Brothers &mdash; Bob, Jim, and John</span>
+    </div>
+    <div class="section-header">
+      <div class="section-label">Audiobook</div>
+      <h2 class="section-title">Audio Transcript</h2>
+      <div class="section-rule"></div>
+      <p class="transcript-intro">The full text of the narrated audiobook. <a href="audio/Letters_Home_Audiobook.mp3" target="_blank">Listen to the audio &rarr;</a></p>
+    </div>
+    <div class="transcript-content">
+      {transcript_html}
+    </div>
+  </div>
+</section>
+
 <!-- ===== ABOUT ===== -->
 <section id="about" class="section">
   <div class="container">
     <div class="section-photo">
-      <img src="photos/hanifen_brothers_lookin_cool.jpg" alt="The Hanifen Brothers — Bob, Jim, and John">
+      <img src="photos_web/photos/hanifen_brothers_lookin_cool.jpg" alt="The Hanifen Brothers — Bob, Jim, and John">
       <span class="section-photo-caption">The Hanifen Brothers &mdash; Bob, Jim, and John</span>
     </div>
     <div class="section-header">
@@ -372,27 +426,26 @@ def build_html(js_data_json: str) -> str:
       <p>The web application you are using was built with Python and vanilla JavaScript. It uses Claude, Anthropic's AI assistant, to help analyze the letters &mdash; identifying people, places, dates, topics, and moods &mdash; and to generate the timeline, chapter groupings, and historical context that make the collection navigable. The entire site is self-contained in a single HTML file with no server required.</p>
 
       <h3>The Audiobook</h3>
-      <p>An audiobook version of the collection was produced using AI text-to-speech technology, bringing the letters to life as a narrated experience. The audiobook script was carefully edited to read naturally when spoken aloud, with contextual introductions for each letter and smooth transitions between them.</p>
+      <p>An audiobook version of the collection was produced using AI text-to-speech technology, bringing the letters to life as a narrated experience. The audiobook script was carefully edited to read naturally when spoken aloud, with contextual introductions for each letter and smooth transitions between them. You can read the full text on the <a href="#" onclick="showSection('transcript');return false;">Transcript</a> page.</p>
 
       <h3>Family Photographs</h3>
       <p>The photograph collection was assembled from family albums and loose prints spanning from the 1910s through the 1990s. Each photo was scanned, cataloged, and annotated with AI-assisted identification of the people, places, and approximate dates.</p>
+
+      <h3>Source Code</h3>
+      <p>This project is open source. The full code, data, and generation scripts are available on <a href="https://github.com/jhanifen/letters-home-the-hanifen-family-collection" target="_blank" rel="noopener">GitHub</a>.</p>
+
+      <h3>Feedback &amp; Corrections</h3>
+      <p>If you spot an error, have additional context about the letters, or would like to contribute, there are two ways to help:</p>
+      <ul>
+        <li>Reach out directly to Jimmy Hanifen IV (Jim's son)</li>
+        <li>Create a <a href="https://github.com/jhanifen/letters-home-the-hanifen-family-collection/pulls" target="_blank" rel="noopener">pull request</a> on GitHub</li>
+      </ul>
 
       <p class="about-note">This project was created by Jim Hanifen as a memorial to his uncle Bob and a way to preserve the family's written history for future generations.</p>
     </div>
   </div>
 </section>
 
-<!-- ===== FOOTER ===== -->
-<footer class="site-footer">
-  <div class="footer-inner">
-    <div class="footer-links">
-      <a href="#" onclick="showSection('about');return false;">About</a>
-      <a href="audio/Letters_Home_Audiobook.mp3" target="_blank">Audio Transcript</a>
-      <a href="https://github.com/jimhanifen/BobbyHanifen" target="_blank" rel="noopener">GitHub</a>
-    </div>
-    <div class="footer-copy">Letters Home &mdash; The Hanifen Family Collection</div>
-  </div>
-</footer>
 
 <!-- ===== LETTER MODAL ===== -->
 <div id="letter-modal" class="modal" style="display:none;">
@@ -407,6 +460,17 @@ def build_html(js_data_json: str) -> str:
   </div>
 </div>
 
+
+<!-- ===== AUDIO PLAYER ===== -->
+<div id="audio-player" class="audio-player-bar">
+  <div class="audio-player-inner">
+    <span class="audio-player-label">Letters Home &mdash; Audiobook</span>
+    <audio id="audio-el" preload="metadata">
+      <source src="audio/Letters_Home_ElevenLabs.mp3" type="audio/mpeg">
+    </audio>
+  </div>
+</div>
+<script src="https://cdn.plyr.io/3.7.8/plyr.polyfilled.js"></script>
 
 <script>
 const DATA = {js_data_json};
@@ -449,7 +513,7 @@ body {
   font-size: 19px;
   line-height: 1.7;
   color: var(--text);
-  background: var(--bg);
+  background: var(--bg-dark);
   -webkit-font-smoothing: antialiased;
 }
 
@@ -565,50 +629,162 @@ body {
   color: var(--text-muted);
 }
 
-/* === FOOTER === */
-.site-footer {
-  background: rgba(26, 21, 16, 0.95);
-  border-top: 1px solid rgba(139, 115, 85, 0.2);
-  padding: 32px 24px;
-  text-align: center;
+
+/* === TRANSCRIPT === */
+.transcript-intro {
+  font-family: var(--serif);
+  font-size: 17px;
+  color: var(--text-muted);
+  margin-top: 12px;
 }
-.footer-inner {
+.transcript-intro a {
+  color: var(--accent-warm);
+  text-decoration: none;
+  border-bottom: 1px solid var(--border-light);
+}
+.transcript-intro a:hover { color: var(--accent); }
+.transcript-content {
+  max-width: 740px;
+  margin: 0 auto;
+  font-size: 19px;
+  line-height: 1.8;
+  color: var(--text-secondary);
+}
+.transcript-content p {
+  margin-bottom: 16px;
+}
+.transcript-h2 {
+  font-family: var(--display);
+  font-size: 32px;
+  font-weight: 400;
+  color: var(--text);
+  text-align: center;
+  margin: 48px 0 8px;
+  letter-spacing: 0.06em;
+}
+.transcript-h3 {
+  font-family: var(--display);
+  font-size: 26px;
+  font-weight: 500;
+  color: var(--text);
+  margin: 40px 0 12px;
+  letter-spacing: 0.03em;
+}
+.transcript-h4 {
+  font-family: var(--sans);
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin: 32px 0 8px;
+}
+.transcript-direction {
+  font-family: var(--sans);
+  font-size: 13px;
+  color: var(--text-muted);
+  font-style: italic;
+  letter-spacing: 0.04em;
+  margin: 12px 0;
+}
+.transcript-italic {
+  font-style: italic;
+  color: var(--text-muted);
+}
+.transcript-rule {
+  width: 60px;
+  height: 1px;
+  background: var(--accent-gold);
+  margin: 32px auto;
+  border: none;
+}
+.about-content ul {
+  margin: 0 0 16px 24px;
+  padding: 0;
+}
+.about-content li {
+  margin-bottom: 8px;
+}
+.about-content a {
+  color: var(--accent-warm);
+  text-decoration: none;
+  border-bottom: 1px solid var(--border-light);
+}
+.about-content a:hover { color: var(--accent); }
+
+/* === AUDIO PLAYER === */
+.audio-player-bar {
+  position: fixed;
+  bottom: 0; left: 0; right: 0;
+  z-index: 1100;
+  background: rgba(26, 21, 16, 0.97);
+  backdrop-filter: blur(12px);
+  border-top: 1px solid rgba(139, 115, 85, 0.25);
+  padding: 8px 20px;
+}
+.audio-player-inner {
   max-width: 960px;
   margin: 0 auto;
-}
-.footer-links {
   display: flex;
-  gap: 32px;
-  justify-content: center;
-  margin-bottom: 16px;
-  flex-wrap: wrap;
+  align-items: center;
+  gap: 16px;
 }
-.footer-links a {
-  font-family: var(--sans);
-  font-size: 14px;
-  font-weight: 400;
+.audio-player-label {
+  font-family: var(--sans); font-size: 12px; font-weight: 500;
+  color: #a89578; letter-spacing: 0.04em;
+  white-space: nowrap; flex-shrink: 0;
+}
+.audio-player-inner .plyr {
+  flex: 1;
+  min-width: 0;
+}
+/* Theme Plyr to match site */
+.audio-player-bar .plyr--audio .plyr__controls {
+  background: transparent;
   color: #a89578;
-  text-decoration: none;
-  letter-spacing: 0.04em;
-  transition: color var(--transition);
+  padding: 0;
 }
-.footer-links a:hover { color: #d4c5a9; }
-.footer-copy {
-  font-family: var(--sans);
-  font-size: 12px;
-  color: var(--text-muted);
-  letter-spacing: 0.06em;
+.audio-player-bar .plyr--audio .plyr__control:hover {
+  background: rgba(181,166,138,0.15);
+}
+.audio-player-bar .plyr--audio .plyr__control.plyr__tab-focus {
+  box-shadow: 0 0 0 3px rgba(181,166,138,0.3);
+}
+:root {
+  --plyr-color-main: #b5a68a;
+  --plyr-audio-control-color: #a89578;
+  --plyr-audio-control-color-hover: #d4c5a9;
+  --plyr-range-thumb-background: #b5a68a;
+  --plyr-range-fill-background: #b5a68a;
+  --plyr-range-track-height: 5px;
+  --plyr-range-thumb-height: 14px;
+}
+body { padding-bottom: 64px; }
+.section { background: var(--bg); }
+
+@media (max-width: 600px) {
+  .audio-player-bar { padding: 6px 12px; }
+  .audio-player-label { display: none; }
 }
 
 /* === HERO === */
-#hero { padding: 0; }
+#hero { padding: 0; background: var(--bg); }
 .hero-bg {
   min-height: 100vh; display: flex; align-items: center; justify-content: center;
   background: var(--bg-dark); position: relative; overflow: hidden;
 }
+.hero-bg::before {
+  content: '';
+  position: absolute; inset: 0;
+  background: url('photos_web/photos/hanifen_brothers_lookin_cool.jpg') center 15% / cover no-repeat;
+  opacity: 0.12;
+  filter: sepia(1) saturate(0.3) contrast(1.1) brightness(0.9);
+  mix-blend-mode: luminosity;
+}
 .hero-overlay {
   position: absolute; inset: 0;
-  background: radial-gradient(ellipse at center, rgba(26,21,16,0.3) 0%, rgba(26,21,16,0.9) 100%);
+  background:
+    radial-gradient(ellipse at center, rgba(26,21,16,0.2) 0%, rgba(26,21,16,0.85) 70%, rgba(26,21,16,0.97) 100%);
 }
 .hero-content { position: relative; text-align: center; padding: 40px; }
 .hero-pretitle {
@@ -1683,7 +1859,7 @@ function renderPhotos() {
 
     return `
       <div class="photo-card" data-categories="${escHtml(cats)}" onclick="openPhotoLightbox(${i})">
-        <img src="BobScans/${p.filename}" alt="${escHtml(p.caption)}" loading="lazy">
+        <img src="photos_web/${p.filename}" alt="${escHtml(p.caption)}" loading="lazy">
         <div class="photo-caption">
           ${dateStr ? `<div class="photo-date">${escHtml(dateStr)}</div>` : ''}
           ${escHtml(p.caption)}
@@ -1730,7 +1906,7 @@ function openPhotoLightbox(idx) {
   lb.className = 'lightbox';
   lb.style.cursor = 'default';
   lb.innerHTML = `
-    <img src="BobScans/${photo.filename}" alt="${escHtml(photo.caption)}" style="max-width:90vw;max-height:85vh;object-fit:contain;">
+    <img src="photos_web/${photo.filename}" alt="${escHtml(photo.caption)}" style="max-width:90vw;max-height:85vh;object-fit:contain;">
     <div class="photo-lightbox-caption">${escHtml(captionParts.join(' '))}</div>
     <button class="photo-lightbox-close" onclick="this.parentElement.remove()">&times;</button>
     <button class="photo-lightbox-nav prev" onclick="event.stopPropagation();navigatePhoto(-1)">&lsaquo;</button>
@@ -1763,10 +1939,10 @@ function flipPhoto(btn) {
   const img = lb.querySelector('img');
   const isBack = btn.textContent === 'Show Front';
   if (isBack) {
-    img.src = `BobScans/${photo.filename}`;
+    img.src = `photos_web/${photo.filename}`;
     btn.textContent = 'Show Back';
   } else {
-    img.src = `BobScans/${photo.back}`;
+    img.src = `photos_web/${photo.back}`;
     btn.textContent = 'Show Front';
   }
 }
@@ -1868,6 +2044,14 @@ function escHtml(str) {
   div.textContent = String(str);
   return div.innerHTML;
 }
+
+// ---- Audio Player (Plyr) ----
+const plyrPlayer = new Plyr('#audio-el', {
+  controls: ['play', 'progress', 'current-time', 'duration', 'mute', 'volume'],
+  seekTime: 30,
+  tooltips: { seek: true },
+  invertTime: false,
+});
 """
 
 

@@ -1,20 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
   <rect width="32" height="32" rx="4" fill="#2c2416"/>
-  <g transform="translate(4, 6)">
-    <!-- envelope body -->
-    <rect x="1" y="4" width="22" height="14" rx="1.5" fill="#faf6f0" stroke="#b5a68a" stroke-width="0.8"/>
-    <!-- envelope flap -->
-    <path d="M1,5 L12,13 L23,5" fill="none" stroke="#b5a68a" stroke-width="0.8" stroke-linejoin="round"/>
-    <!-- letter peeking out -->
-    <rect x="4" y="1" width="16" height="12" rx="1" fill="#f5f0e8" stroke="#d4c5a9" stroke-width="0.5"/>
-    <!-- letter lines -->
-    <line x1="7" y1="4" x2="17" y2="4" stroke="#b5a68a" stroke-width="0.7" stroke-linecap="round"/>
-    <line x1="7" y1="6.5" x2="15" y2="6.5" stroke="#d4c5a9" stroke-width="0.6" stroke-linecap="round"/>
-    <line x1="7" y1="9" x2="16" y2="9" stroke="#d4c5a9" stroke-width="0.6" stroke-linecap="round"/>
-    <!-- envelope body overlay to cover letter bottom -->
-    <rect x="1.4" y="8" width="21.2" height="9.6" rx="1" fill="#faf6f0"/>
-    <rect x="1" y="4" width="22" height="14" rx="1.5" fill="none" stroke="#b5a68a" stroke-width="0.8"/>
-    <!-- envelope flap overlay -->
-    <path d="M1,5 L12,13 L23,5" fill="none" stroke="#b5a68a" stroke-width="0.8" stroke-linejoin="round"/>
+  <g transform="translate(5, 4)">
+    <!-- folded letter / paper -->
+    <path d="M2,2 L16,2 L20,6 L20,22 L2,22 Z" fill="#f5f0e8" stroke="#b5a68a" stroke-width="0.6"/>
+    <!-- corner fold -->
+    <path d="M16,2 L16,6 L20,6" fill="#e8e0d0" stroke="#b5a68a" stroke-width="0.6" stroke-linejoin="round"/>
+    <!-- text lines -->
+    <line x1="5" y1="9" x2="17" y2="9" stroke="#b5a68a" stroke-width="0.8" stroke-linecap="round"/>
+    <line x1="5" y1="12" x2="15" y2="12" stroke="#d4c5a9" stroke-width="0.7" stroke-linecap="round"/>
+    <line x1="5" y1="15" x2="16" y2="15" stroke="#d4c5a9" stroke-width="0.7" stroke-linecap="round"/>
+    <line x1="5" y1="18" x2="12" y2="18" stroke="#d4c5a9" stroke-width="0.7" stroke-linecap="round"/>
   </g>
 </svg>

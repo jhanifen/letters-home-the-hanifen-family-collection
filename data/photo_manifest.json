@@ -1003,5 +1003,135 @@
     ],
     "letter_id": null,
     "sort_order": 69
+  },
+  {
+    "filename": "additional_photos/Bob_Hanifen.jpg",
+    "caption": "Bob Hanifen in Ireland",
+    "date_estimate": null,
+    "date_confidence": "low",
+    "categories": ["portrait", "location"],
+    "people": ["Robert Hanifen"],
+    "letter_id": null,
+    "sort_order": 70
+  },
+  {
+    "filename": "additional_photos/Bob_Hanifen_.jpg",
+    "caption": "Bob Hanifen at the WWII Memorial, Texas pillar",
+    "date_estimate": null,
+    "date_confidence": "low",
+    "categories": ["portrait", "memorial"],
+    "people": ["Robert Hanifen"],
+    "letter_id": null,
+    "sort_order": 71
+  },
+  {
+    "filename": "additional_photos/Bob_and_BobJr.jpg",
+    "caption": "Bob Hanifen and Bob Jr. at a campsite",
+    "date_estimate": null,
+    "date_confidence": "low",
+    "categories": ["family-gathering"],
+    "people": ["Robert Hanifen", "Bob Hanifen Jr."],
+    "letter_id": null,
+    "sort_order": 72
+  },
+  {
+    "filename": "additional_photos/Bob_and_Jim_Hanifen.jpg",
+    "caption": "Bob and Jim Hanifen at Jim's 96th birthday",
+    "date_estimate": null,
+    "date_confidence": "low",
+    "categories": ["brothers", "family-gathering"],
+    "people": ["Robert Hanifen", "James Edward Hanifen Jr."],
+    "letter_id": null,
+    "sort_order": 73
+  },
+  {
+    "filename": "additional_photos/Bob_and_Matt_Hanifen.jpg",
+    "caption": "Bob Hanifen and Matt Hanifen",
+    "date_estimate": null,
+    "date_confidence": "low",
+    "categories": ["portrait", "family-gathering"],
+    "people": ["Robert Hanifen", "Matt Hanifen"],
+    "letter_id": null,
+    "sort_order": 74
+  },
+  {
+    "filename": "additional_photos/Bob_BobJr_Jim_Hanifen.jpg",
+    "caption": "Bob Hanifen, Bob Jr., and Jim Hanifen",
+    "date_estimate": null,
+    "date_confidence": "low",
+    "categories": ["brothers", "family-gathering"],
+    "people": ["Robert Hanifen", "Bob Hanifen Jr.", "James Edward Hanifen Jr."],
+    "letter_id": null,
+    "sort_order": 75
+  },
+  {
+    "filename": "additional_photos/Bob_Jim_Hanifen_JR.jpg",
+    "caption": "Bob and Jim Hanifen Jr.",
+    "date_estimate": null,
+    "date_confidence": "low",
+    "categories": ["brothers", "portrait"],
+    "people": ["Robert Hanifen", "James Edward Hanifen Jr."],
+    "letter_id": null,
+    "sort_order": 76
+  },
+  {
+    "filename": "additional_photos/All of the cousins Barquist, Hanifen, Whitelock in chronological order. .jpg",
+    "caption": "All of the cousins — Barquist, Hanifen, and Whitelock families, in chronological order",
+    "date_estimate": "1950",
+    "date_confidence": "low",
+    "categories": ["family-gathering", "extended-family"],
+    "people": [],
+    "letter_id": null,
+    "sort_order": 77
+  },
+  {
+    "filename": "additional_photos/505823332_10225249054688288_5429976478075095242_n.jpg",
+    "caption": "Barquist, Hanifen, and Whitelock family gathering",
+    "date_estimate": "1950",
+    "date_confidence": "low",
+    "categories": ["family-gathering", "extended-family"],
+    "people": [],
+    "letter_id": null,
+    "sort_order": 78
+  },
+  {
+    "filename": "additional_photos/505989290_10225249056248327_8221503455631658781_n.jpg",
+    "caption": "Hanifen brothers and friends by a car",
+    "date_estimate": "1950",
+    "date_confidence": "low",
+    "categories": ["family-gathering", "brothers"],
+    "people": [],
+    "letter_id": null,
+    "sort_order": 79
+  },
+  {
+    "filename": "additional_photos/505997678_10225249054048272_8877550189211288826_n.jpg",
+    "caption": "Hanifen brothers with wives, dressed up",
+    "date_estimate": "1950",
+    "date_confidence": "low",
+    "categories": ["family-gathering", "couple"],
+    "people": [],
+    "letter_id": null,
+    "sort_order": 80
+  },
+  {
+    "filename": "additional_photos/506049878_10225249054528284_6998473320752658355_n.jpg",
+    "caption": "Two Hanifen brothers in suits by a brick wall",
+    "date_estimate": "1950",
+    "date_confidence": "low",
+    "categories": ["brothers", "portrait"],
+    "people": [],
+    "letter_id": null,
+    "sort_order": 81
+  },
+  {
+    "filename": "additional_photos/506055097_10225249055648312_1469371363957417437_n.jpg",
+    "caption": "Hanifen family gathering outdoors",
+    "date_estimate": "1950",
+    "date_confidence": "low",
+    "categories": ["family-gathering", "extended-family"],
+    "people": [],
+    "letter_id": null,
+    "sort_order": 82
   }
 ]
