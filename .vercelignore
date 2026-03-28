@@ -1,0 +1,14 @@
+data/
+scripts/
+old/
+__pycache__/
+.env
+.env.example
+.venv/
+.git/
+.claude/
+requirements.txt
+README.md
+site/Letters_Home_Hanifen.html
+site/Letters_Home_Hanifen.pdf
+site/audio/

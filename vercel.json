@@ -1,0 +1,20 @@
+{
+  "outputDirectory": ".",
+  "rewrites": [
+    { "source": "/about", "destination": "/site/about.html" },
+    { "source": "/about.html", "destination": "/site/about.html" },
+    { "source": "/favicon.svg", "destination": "/site/favicon.svg" },
+    { "source": "/favicon.png", "destination": "/site/favicon.png" },
+    { "source": "/BobScans/(.*)", "destination": "/BobScans/$1" },
+    { "source": "/photos/(.*)", "destination": "/BobScans/photos/$1" },
+    { "source": "/", "destination": "/site/index.html" }
+  ],
+  "headers": [
+    {
+      "source": "/BobScans/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+      ]
+    }
+  ]
+}
