@@ -394,7 +394,7 @@ def build_html(js_data_json: str, transcript_html: str = "") -> str:
       <div class="section-label">Audiobook</div>
       <h2 class="section-title">Audio Transcript</h2>
       <div class="section-rule"></div>
-      <p class="transcript-intro">The full text of the narrated audiobook. <a href="audio/Letters_Home_Audiobook.mp3" target="_blank">Listen to the audio &rarr;</a></p>
+      <p class="transcript-intro">The full text of the narrated audiobook. <a href="audio/Letters_Home_ElevenLabs.mp3" target="_blank">Listen to the audio &rarr;</a></p>
     </div>
     <div class="transcript-content">
       {transcript_html}
