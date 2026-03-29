@@ -254,8 +254,44 @@ def build_html(js_data_json: str, transcript_html: str = "") -> str:
         <div class="stat"><span class="stat-num" id="stat-pages">505</span><span class="stat-label">Pages</span></div>
       </div>
       <div class="hero-quote">
-        <img src="handwriting-signoff.png" alt="Bobby's handwriting: goodbye for now. Lots of Love Your Son Bobby" class="hero-handwriting">
-        <p class="hero-quote-attr">&mdash; written in letter after letter, year after year, from Texas to Italy to home again</p>
+        <div class="hw-container">
+          <svg class="hw-svg" viewBox="0 0 520 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <!-- "goodbye for now." -->
+            <path class="hw-line hw-line-1" d="M30,38 c3,-12 12,-20 18,-18 c4,1 2,10 -2,16 c-5,8 -12,14 -8,14 c5,0 14,-10 20,-8 c4,1 0,10 -4,14" stroke="#d4c5a9" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+            <path class="hw-line hw-line-1" d="M58,46 c6,-14 14,-20 18,-16 c3,3 -2,12 -6,16 c-4,4 -8,6 -4,6 c5,0 12,-8 16,-6 c3,1 0,8 -4,12" stroke="#d4c5a9" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+            <path class="hw-line hw-line-1" d="M92,42 c2,-4 6,-8 10,-8 c4,0 4,6 2,10 c-3,6 -8,10 -4,10 c3,0 8,-6 8,-2 c0,4 -4,6 -4,6" stroke="#d4c5a9" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+            <path class="hw-line hw-line-1" d="M118,48 c8,-4 16,-8 22,-6 c4,1 2,6 -2,10 c-4,4 -10,6 -6,6 c4,0 10,-4 14,-2 c3,1 0,6 -4,8" stroke="#d4c5a9" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+            <path class="hw-line hw-line-1" d="M160,52 c4,-2 8,-6 12,-6 c3,0 4,4 2,8 c-2,4 -6,6 -2,6 c3,0 8,-4 12,-4 c3,0 4,3 2,6" stroke="#d4c5a9" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+            <circle class="hw-line hw-line-1" cx="206" cy="62" r="1.5" fill="#d4c5a9"/>
+
+            <!-- "Lots of Love Your Son" -->
+            <path class="hw-line hw-line-2" d="M120,75 c0,-20 2,-36 4,-40 c2,-4 4,0 4,6 c0,10 -2,28 -2,40 c0,8 2,4 8,0 c6,-4 12,-8 16,-6" stroke="#d4c5a9" stroke-width="2" stroke-linecap="round" fill="none"/>
+            <path class="hw-line hw-line-2" d="M154,72 c4,-8 10,-14 14,-12 c4,2 0,10 -4,14 c-4,4 -8,6 -4,6 c4,0 10,-4 14,-2" stroke="#d4c5a9" stroke-width="2" stroke-linecap="round" fill="none"/>
+            <path class="hw-line hw-line-2" d="M180,74 c2,-4 6,-8 8,-6 c2,2 -2,8 -4,10 c-2,2 0,2 4,0 c4,-2 8,-6 8,-4" stroke="#d4c5a9" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+            <path class="hw-line hw-line-2" d="M204,70 c6,-6 12,-10 16,-8 c4,2 0,10 -6,16 c-4,4 -8,6 -4,6 c4,0 10,-6 14,-4 c3,1 0,6 -4,10" stroke="#d4c5a9" stroke-width="2" stroke-linecap="round" fill="none"/>
+            <path class="hw-line hw-line-2" d="M238,72 c0,-2 2,-4 4,-4 c2,0 2,2 0,4" stroke="#d4c5a9" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+            <path class="hw-line hw-line-2" d="M250,68 c4,-6 10,-10 14,-8 c4,2 0,10 -4,14 c-6,6 -10,8 -6,8 c4,0 10,-4 16,-4 c4,0 4,4 0,8 c-4,4 -8,6 -4,6 c4,0 10,-4 14,-2" stroke="#d4c5a9" stroke-width="2" stroke-linecap="round" fill="none"/>
+            <path class="hw-line hw-line-2" d="M290,68 c2,-4 8,-20 10,-28 c2,-6 4,-4 4,2 c0,8 -4,22 -2,28 c1,4 4,0 8,-4 c4,-4 10,-10 14,-10 c3,0 4,4 2,8 c-2,4 -6,8 -4,8 c3,0 8,-4 12,-4 c3,0 4,2 2,6" stroke="#d4c5a9" stroke-width="2" stroke-linecap="round" fill="none"/>
+            <path class="hw-line hw-line-2" d="M342,66 c4,-4 10,-10 14,-10 c4,0 4,6 0,12 c-4,6 -10,10 -6,8 c4,-2 10,-6 14,-4 c3,1 2,4 0,8 c-2,4 -6,6 -4,6 c3,0 8,-4 12,-4" stroke="#d4c5a9" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+            <!-- "Bobby" -->
+            <path class="hw-line hw-line-3" d="M260,100 c0,-16 2,-28 4,-34 c2,-4 4,-2 4,4 c0,8 -2,22 -2,32 c0,6 2,8 6,4 c4,-4 8,-12 10,-12 c3,0 2,6 0,10 c-2,4 2,2 6,-2 c4,-4 8,-10 10,-10 c2,0 2,4 0,8 c-2,4 -4,8 -2,8 c3,0 8,-6 10,-4 c2,2 -2,8 -4,14 c-3,8 -4,16 -2,16 c3,0 8,-10 10,-8" stroke="#d4c5a9" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+          </svg>
+          <div class="hw-typed">
+            <span class="hw-word" style="--d:0">goodbye</span>
+            <span class="hw-word" style="--d:1">for</span>
+            <span class="hw-word" style="--d:2">now.</span>
+            <br>
+            <span class="hw-word hw-word-love" style="--d:3">Lots</span>
+            <span class="hw-word hw-word-love" style="--d:4">of</span>
+            <span class="hw-word hw-word-love" style="--d:5">Love</span>
+            <span class="hw-word hw-word-love" style="--d:6">Your</span>
+            <span class="hw-word hw-word-love" style="--d:7">Son</span>
+            <br>
+            <span class="hw-word hw-word-name" style="--d:8">Bobby</span>
+          </div>
+        </div>
+        <p class="hero-quote-attr hw-attr">&mdash; written in letter after letter, year after year, from Texas to Italy to home again</p>
       </div>
       <button class="hero-cta" onclick="showSection('overview')">Begin Reading &darr;</button>
     </div>
@@ -825,17 +861,65 @@ body { padding-bottom: 64px; }
 /* Hero quote */
 .hero-quote {
   margin-bottom: 48px;
-  max-width: 480px;
+  max-width: 520px;
   margin-left: auto;
   margin-right: auto;
 }
-.hero-handwriting {
+.hw-container {
+  position: relative;
+  margin-bottom: 16px;
+}
+.hw-svg {
   width: 100%;
-  max-width: 480px;
+  max-width: 520px;
   height: auto;
-  filter: invert(1) brightness(1.8) sepia(0.3);
-  opacity: 0.75;
-  margin-bottom: 12px;
+  opacity: 0.6;
+}
+.hw-line {
+  stroke-dasharray: var(--len);
+  stroke-dashoffset: var(--len);
+}
+.hw-line-1 { animation: hw-draw 2.5s cubic-bezier(0.4, 0.1, 0.2, 1) 0.8s forwards; }
+.hw-line-2 { animation: hw-draw 3s cubic-bezier(0.4, 0.1, 0.2, 1) 2.8s forwards; }
+.hw-line-3 { animation: hw-draw 2s cubic-bezier(0.4, 0.1, 0.2, 1) 5.2s forwards; }
+circle.hw-line-1 { animation: hw-dot 0.3s ease 3s forwards; stroke-dasharray: none; stroke-dashoffset: 0; opacity: 0; }
+@keyframes hw-dot { 0% { opacity: 0; } 100% { opacity: 1; } }
+@keyframes hw-draw {
+  0% { stroke-dashoffset: var(--len); }
+  100% { stroke-dashoffset: 0; }
+}
+
+.hw-typed {
+  text-align: center;
+  margin-top: 8px;
+}
+.hw-word {
+  display: inline-block;
+  font-family: var(--serif);
+  font-size: clamp(18px, 2.8vw, 26px);
+  font-style: italic;
+  color: #d4c5a9;
+  opacity: 0;
+  animation: hw-reveal 0.6s ease forwards;
+  animation-delay: calc(0.8s + var(--d) * 0.55s);
+  margin: 0 4px;
+}
+.hw-word-love {
+  color: #d4c5a9;
+}
+.hw-word-name {
+  font-size: clamp(22px, 3.2vw, 32px);
+  font-style: normal;
+  letter-spacing: 0.04em;
+}
+@keyframes hw-reveal {
+  0% { opacity: 0; transform: translateY(6px); }
+  100% { opacity: 0.9; transform: translateY(0); }
+}
+
+.hw-attr {
+  opacity: 0;
+  animation: hw-reveal 1s ease 6.5s forwards;
 }
 .hero-quote-attr {
   font-family: var(--sans);
@@ -1386,6 +1470,15 @@ document.addEventListener('DOMContentLoaded', () => {
   setupSearch();
   setupKeyboard();
   setupScrollNav();
+
+  // Set up handwriting stroke animation lengths
+  document.querySelectorAll('.hw-line').forEach(el => {
+    if (el.tagName === 'circle') return;
+    const len = el.getTotalLength();
+    el.style.setProperty('--len', len);
+    el.style.strokeDasharray = len;
+    el.style.strokeDashoffset = len;
+  });
 
   // Set stat numbers
   document.getElementById('stat-letters').textContent = DATA.letters.length;
