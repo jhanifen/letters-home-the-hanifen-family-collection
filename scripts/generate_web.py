@@ -436,6 +436,8 @@ def build_html(js_data_json: str, transcript_html: str = "") -> str:
       <div class="section-rule"></div>
     </div>
     <div class="about-content">
+      <p class="about-note" style="margin-top:0;">The lives of the Hanifen brothers were far richer and more complex than any collection of letters could capture. This project tells their story entirely through the letters themselves &mdash; nothing has been added, imagined, or embellished. What you read here is exactly what they wrote, in their own words, in their own hand.</p>
+
       <h3>How This Site Was Created</h3>
       <p>This digital archive began with a box of handwritten letters spanning thirty-five years of Hanifen family correspondence. The letters &mdash; primarily written by Bob Hanifen and his father James Edward Hanifen Sr. &mdash; were carefully preserved by the family and eventually scanned at high resolution to create a permanent digital record.</p>
 
