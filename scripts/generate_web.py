@@ -254,7 +254,7 @@ def build_html(js_data_json: str, transcript_html: str = "") -> str:
         <div class="stat"><span class="stat-num" id="stat-pages">505</span><span class="stat-label">Pages</span></div>
       </div>
       <div class="hero-quote">
-        <p class="hero-quote-text">&ldquo;Well Dad goodbye for now.<br>Lots of love<br>Your Son Bobby&rdquo;</p>
+        <img src="handwriting-signoff.png" alt="Bobby's handwriting: goodbye for now. Lots of Love Your Son Bobby" class="hero-handwriting">
         <p class="hero-quote-attr">&mdash; written in letter after letter, year after year, from Texas to Italy to home again</p>
       </div>
       <button class="hero-cta" onclick="showSection('overview')">Begin Reading &darr;</button>
@@ -825,19 +825,17 @@ body { padding-bottom: 64px; }
 /* Hero quote */
 .hero-quote {
   margin-bottom: 48px;
-  max-width: 500px;
+  max-width: 480px;
   margin-left: auto;
   margin-right: auto;
 }
-.hero-quote-text {
-  font-family: var(--serif);
-  font-size: clamp(20px, 3vw, 28px);
-  font-style: italic;
-  color: #d4c5a9;
-  line-height: 1.6;
-  margin: 0 0 12px;
-  letter-spacing: 0.02em;
-  opacity: 0.9;
+.hero-handwriting {
+  width: 100%;
+  max-width: 480px;
+  height: auto;
+  filter: invert(1) brightness(1.8) sepia(0.3);
+  opacity: 0.75;
+  margin-bottom: 12px;
 }
 .hero-quote-attr {
   font-family: var(--sans);
