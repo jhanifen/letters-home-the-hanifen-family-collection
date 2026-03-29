@@ -258,17 +258,19 @@ def build_html(js_data_json: str, transcript_html: str = "") -> str:
           <img src="handwriting-signoff.png" alt="Bobby's handwriting: goodbye for now. Lots of Love Your Son Bobby" class="hw-img">
         </div>
         <div class="hw-typed">
-          <span class="hw-word" style="--d:0">goodbye</span>
-          <span class="hw-word" style="--d:1">for</span>
-          <span class="hw-word" style="--d:2">now.</span>
+          <span class="hw-word" style="--d:0">Well</span>
+          <span class="hw-word" style="--d:1">Dad</span>
+          <span class="hw-word" style="--d:2">goodby</span>
+          <span class="hw-word" style="--d:3">for</span>
+          <span class="hw-word" style="--d:4">now.</span>
           <br>
-          <span class="hw-word" style="--d:3">Lots</span>
-          <span class="hw-word" style="--d:4">of</span>
-          <span class="hw-word" style="--d:5">Love</span>
-          <span class="hw-word" style="--d:6">Your</span>
-          <span class="hw-word" style="--d:7">Son</span>
+          <span class="hw-word" style="--d:5">Lots</span>
+          <span class="hw-word" style="--d:6">of</span>
+          <span class="hw-word" style="--d:7">Love</span>
+          <span class="hw-word" style="--d:8">Your</span>
+          <span class="hw-word" style="--d:9">Son</span>
           <br>
-          <span class="hw-word hw-word-name" style="--d:8">Bobby</span>
+          <span class="hw-word hw-word-name" style="--d:10">Bobby</span>
         </div>
         <p class="hero-quote-attr hw-attr">&mdash; written in letter after letter, year after year, from Texas to Italy to home again</p>
       </div>
@@ -898,7 +900,7 @@ body { padding-bottom: 64px; }
 }
 .hw-attr {
   opacity: 0;
-  animation: hw-fade 1.2s ease 6s forwards;
+  animation: hw-fade 1.2s ease 7s forwards;
 }
 .hero-quote-attr {
   font-family: var(--sans);
