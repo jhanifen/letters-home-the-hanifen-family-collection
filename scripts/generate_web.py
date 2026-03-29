@@ -808,9 +808,9 @@ body { padding-bottom: 64px; }
   background:
     radial-gradient(ellipse at center, rgba(26,21,16,0.2) 0%, rgba(26,21,16,0.85) 70%, rgba(26,21,16,0.97) 100%);
 }
-.hero-content { position: relative; text-align: center; padding: 40px; }
+.hero-content { position: relative; text-align: center; padding: 80px 40px 40px; }
 .hero-pretitle {
-  font-family: var(--sans); font-size: 11px; font-weight: 500;
+  font-family: var(--sans); font-size: 15px; font-weight: 500;
   text-transform: uppercase; letter-spacing: 0.25em; color: var(--accent-warm);
   margin-bottom: 20px;
 }
